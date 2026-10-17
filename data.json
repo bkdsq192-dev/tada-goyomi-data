@@ -1,0 +1,8260 @@
+{
+ "version": "2026-10-18T03:37",
+ "items": [
+  {
+   "id": "tokyo-2026-10-06-0",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "area": "都心",
+   "name": "国立西洋美術館 常設展（Kawasaki Free Sunday）",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・常設展のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmwa.go.jp/jp/visit/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-1",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "area": "西",
+   "name": "府中市郷土の森博物館（市民文化の日）",
+   "place": "府中市",
+   "station": "分倍河原（京王・南武線）からバス",
+   "lines": [
+    "京王",
+    "南武線"
+   ],
+   "target": "誰でも・入場料とプラネタリウム",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.fuchu.tokyo.jp/event/bunka/siminbunkaday.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-2",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "area": "西",
+   "name": "府中市美術館（市民文化の日）",
+   "place": "府中市",
+   "station": "府中（京王）からバス",
+   "lines": [
+    "京王"
+   ],
+   "target": "誰でも・企画展とコレクション展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.fuchu.tokyo.jp/event/bunka/siminbunkaday.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-3",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-16",
+   "end": "2026-12-06",
+   "area": "都心",
+   "name": "国立公文書館 吾妻鏡ほか（東京文化財ウィーク）",
+   "place": "千代田区",
+   "station": "竹橋（東西線）",
+   "lines": [
+    "東西線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-4",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "北東",
+   "name": "足立区立郷土博物館（毎月第2・第3土曜）",
+   "place": "足立区",
+   "station": "亀有（JR常磐線）・北綾瀬（千代田線）からバス",
+   "lines": [
+    "千代田線",
+    "常磐線",
+    "JR"
+   ],
+   "target": "誰でも",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-5",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "東京食肉市場まつり",
+   "place": "港区",
+   "station": "品川（JR・京急）港南口",
+   "lines": [
+    "京急",
+    "JR"
+   ],
+   "target": "入場無料（主催団体の発表）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://prtimes.jp/main/html/rd/p/000000005.000149809.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-6",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "南西",
+   "name": "神奈川県立歴史博物館 再開館記念の無料観覧日",
+   "place": "横浜市中区",
+   "station": "馬車道（みなとみらい線）・関内（JR）",
+   "lines": [
+    "みなとみらい線",
+    "JR"
+   ],
+   "target": "誰でも・常設展と特別展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://ch.kanagawa-museum.jp/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-7",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "千葉市科学館（千葉市民の日）",
+   "place": "千葉市中央区",
+   "station": "千葉中央（京成）・千葉（JR）",
+   "lines": [
+    "京成",
+    "JR"
+   ],
+   "target": "誰でも・常設展示室とプラネタリウム",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.chiba.jp/shimin/shimin/jichi/documents/bunka.pdf",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-8",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "東",
+   "name": "ちばモノレール祭り2026（車両基地公開）",
+   "place": "千葉市稲毛区",
+   "station": "動物公園（千葉都市モノレール）",
+   "lines": [
+    "千葉都市モノレール"
+   ],
+   "target": "誰でも入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "入場不要（洗浄車体験のみ事前応募・締切未確認）",
+   "source": "https://chiba-monorail.co.jp/index.php/2026matsuri-kaisai/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-9",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "千葉市美術館 特別展（千葉市民の日）",
+   "place": "千葉市中央区",
+   "station": "千葉中央（京成）・千葉（JR）",
+   "lines": [
+    "京成",
+    "JR"
+   ],
+   "target": "誰でも・特別展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.ccma-net.jp/exhibitions/special/26-9-16-11-23/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-10",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "千葉ポートタワー（千葉市民の日）",
+   "place": "千葉市中央区",
+   "station": "千葉みなと（京葉線）",
+   "lines": [
+    "京葉線"
+   ],
+   "target": "誰でも・入館料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.chiba.jp/shimin/shimin/jichi/documents/bunka.pdf",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-11",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "area": "都心",
+   "name": "シルバーデー 東京都写真美術館・東京都庭園美術館",
+   "place": "目黒区・港区",
+   "station": "恵比寿・目黒（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://topmuseum.jp/guide/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-12",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-21",
+   "end": "2026-10-21",
+   "area": "東",
+   "name": "シルバーデー 東京都現代美術館・江戸東京博物館（常設展のみ）",
+   "place": "江東区・墨田区",
+   "station": "清澄白河・両国",
+   "lines": [],
+   "target": "65歳以上（江戸博は常設展のみ・特別展は対象外／現代美術館は企画展が対象か未確認）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.edo-tokyo-museum.or.jp/information/guide/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-13",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-23",
+   "end": "2026-10-24",
+   "area": "北東",
+   "name": "東京大学 柏キャンパス一般公開",
+   "place": "柏市",
+   "station": "柏の葉キャンパス（TX）からシャトルバス",
+   "lines": [
+    "TX"
+   ],
+   "target": "誰でも無料（10:00〜16:30）",
+   "targets": [
+    "all"
+   ],
+   "apply": "入場予約不要（一部企画は事前申込）",
+   "source": "https://www.kashiwa.u-tokyo.ac.jp/open_campus/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-14",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "area": "西",
+   "name": "内藤家住宅（東京文化財ウィーク）",
+   "place": "府中市",
+   "station": "分倍河原（京王・南武線）",
+   "lines": [
+    "京王",
+    "南武線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-15",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "area": "東",
+   "name": "千葉市地方卸売市場 市民感謝デー",
+   "place": "千葉市美浜区",
+   "station": "稲毛・稲毛海岸（JR）からバス",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.chiba.jp/keizainosei/keizai/ichiba/siminkansyadayr4.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-16",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-11-03",
+   "area": "西",
+   "name": "旧前田家本邸 特別ガイド",
+   "place": "目黒区",
+   "station": "駒場東大前（京王井の頭線）",
+   "lines": [
+    "京王"
+   ],
+   "target": "参加費無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "当日受付",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/r8/maedake2026.pdf",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-17",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-26",
+   "end": "2026-11-02",
+   "area": "西",
+   "name": "三鷹 出山遺跡出土注口土器（みたかえる）",
+   "place": "三鷹市",
+   "station": "三鷹・吉祥寺・武蔵境からバス",
+   "lines": [],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-18",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-27",
+   "end": "2026-10-27",
+   "area": "北東",
+   "name": "明王院（赤不動）木造如意輪観世音菩薩坐像",
+   "place": "足立区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-19",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-27",
+   "end": "2026-10-28",
+   "area": "西",
+   "name": "白百合女子大学めぐみ荘（旧菊池家住宅主屋）",
+   "place": "調布市",
+   "station": "仙川（京王線）",
+   "lines": [
+    "京王"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-20",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-28",
+   "end": "2026-10-28",
+   "area": "北東",
+   "name": "性翁寺 木造阿彌陀如来坐像",
+   "place": "足立区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-21",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-28",
+   "end": "2026-10-28",
+   "area": "西",
+   "name": "町田市立国際版画美術館 シルバーデー",
+   "place": "町田市",
+   "station": "町田（小田急・JR横浜線）",
+   "lines": [
+    "小田急",
+    "JR"
+   ],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.hanga-museum.jp/exhibition/schedule/2026-631",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-22",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-29",
+   "end": "2026-11-03",
+   "area": "西",
+   "name": "旧中村研一邸茶室（はけの森美術館敷地内）",
+   "place": "小金井市",
+   "station": "武蔵小金井（JR中央線）",
+   "lines": [
+    "JR中央線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-23",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-30",
+   "end": "2026-10-31",
+   "area": "都心",
+   "name": "増上寺 経蔵",
+   "place": "港区",
+   "station": "御成門（三田線）・大門",
+   "lines": [
+    "三田線"
+   ],
+   "target": "無料（雨天中止）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-24",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-30",
+   "end": "2026-11-01",
+   "area": "都心",
+   "name": "妙定院 熊野堂・上土蔵",
+   "place": "港区",
+   "station": "赤羽橋・芝公園（推測）",
+   "lines": [],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-25",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "area": "北西",
+   "name": "護国寺 本堂",
+   "place": "文京区",
+   "station": "護国寺（有楽町線）",
+   "lines": [
+    "有楽町線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-26",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "林氏墓地（10/31・11/1・11/3）",
+   "place": "新宿区",
+   "station": "牛込柳町（大江戸線）",
+   "lines": [
+    "大江戸線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-27",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "旧醸造試験所第一工場 赤レンガ（10/31・11/3）",
+   "place": "北区",
+   "station": "王子（JR京浜東北線・南北線）",
+   "lines": [
+    "JR京浜東北線",
+    "南北線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-28",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "area": "南西",
+   "name": "旧三井文庫第二書庫",
+   "place": "品川区",
+   "station": "戸越公園（東急大井町線）",
+   "lines": [
+    "東急"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-29",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-03",
+   "area": "北西",
+   "name": "茂呂遺跡（10/31・11/1・11/3）",
+   "place": "板橋区",
+   "station": "上板橋（東武東上線）",
+   "lines": [
+    "東武"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-30",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "北東",
+   "name": "西新井 絹本着色虚空蔵菩薩像",
+   "place": "足立区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-31",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "西",
+   "name": "旧農林省蚕糸試験場日野桑園第一蚕室",
+   "place": "日野市",
+   "station": "日野（JR中央線）",
+   "lines": [
+    "JR中央線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-32",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-07",
+   "area": "北西",
+   "name": "田無神社 本殿・拝殿（11/1・11/7 夜）",
+   "place": "西東京市",
+   "station": "田無（西武新宿線）",
+   "lines": [
+    "新宿線",
+    "西武"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-33",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "文化の日：東京国立博物館・国立西洋美術館・国立科学博物館・東京国立近代美術館・国立映画アーカイブ",
+   "place": "台東区ほか",
+   "station": "上野・竹橋・京橋",
+   "lines": [],
+   "target": "誰でも・常設展のみ等",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=113",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-34",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "足立区立郷土博物館（文化の日）",
+   "place": "足立区",
+   "station": "亀有・北綾瀬からバス",
+   "lines": [],
+   "target": "誰でも",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-35",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北西",
+   "name": "諏訪神社 奉納額 特別公開",
+   "place": "新宿区",
+   "station": "西早稲田（副都心線）・高田馬場",
+   "lines": [
+    "副都心線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.shinjuku.lg.jp/kanko/bunka02_000001_00032.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-36",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "西",
+   "name": "町田市立国際版画美術館（文化の日）",
+   "place": "町田市",
+   "station": "町田",
+   "lines": [],
+   "target": "誰でも・企画展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.hanga-museum.jp/exhibition/schedule/2026-631",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-37",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "西",
+   "name": "普済寺 石幢（国宝）",
+   "place": "立川市",
+   "station": "立川（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-38",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "西",
+   "name": "府中 鉄造阿弥陀如来坐像",
+   "place": "府中市",
+   "station": "府中本町（JR）・府中（京王）",
+   "lines": [
+    "京王",
+    "JR"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-39",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "南西",
+   "name": "神奈川県立歴史博物館（文化の日・屋上ドーム公開）",
+   "place": "横浜市中区",
+   "station": "馬車道（みなとみらい線）",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "誰でも無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://ch.kanagawa-museum.jp/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-40",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北西",
+   "name": "正福寺地蔵堂（国宝）",
+   "place": "東村山市",
+   "station": "東村山（西武線）",
+   "lines": [
+    "西武"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-42",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北西",
+   "name": "理化学研究所 和光地区一般公開",
+   "place": "和光市",
+   "station": "和光市（東武東上線・メトロ）",
+   "lines": [
+    "東武"
+   ],
+   "target": "誰でも無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "★事前申込み必須・先着4500名・当日受付なし",
+   "source": "https://www.riken.jp/pr/events/events/20261103_1/index.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-43",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "松戸市立博物館（文化の日）",
+   "place": "松戸市",
+   "station": "八柱（新京成）・新八柱（JR武蔵野線）",
+   "lines": [
+    "京成",
+    "武蔵野線",
+    "JR"
+   ],
+   "target": "誰でも観覧無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.matsudo.chiba.jp/m_muse/guide/index.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-44",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "東",
+   "name": "千葉県立美術館・中央博物館・現代産業科学館（文化の日）",
+   "place": "千葉市・市川市",
+   "station": "千葉みなと・千葉・本八幡",
+   "lines": [],
+   "target": "誰でも入場無料（企画展は未確認）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.chiba.lg.jp/bunshin/museum/museum-event.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-45",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "area": "都心",
+   "name": "国立西洋美術館 常設展（第2日曜）",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・常設展のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmwa.go.jp/jp/visit/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-46",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "area": "都心",
+   "name": "豊島市場まつり",
+   "place": "豊島区",
+   "station": "巣鴨（JR・三田線）",
+   "lines": [
+    "三田線",
+    "JR"
+   ],
+   "target": "入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026090909",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-47",
+   "city": "tokyo",
+   "kind": "deadline",
+   "start": null,
+   "end": "2026-10-12",
+   "area": "北東",
+   "name": "東京メトロ綾瀬車両基地の公開（11/15）抽選1万名",
+   "place": "足立区",
+   "station": "北綾瀬（千代田線）",
+   "lines": [
+    "千代田線"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "10/12 23:59まで",
+   "source": "https://www.tokyometro.jp/news/images_h/metroNews260924_2.pdf",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-48",
+   "city": "tokyo",
+   "kind": "deadline",
+   "start": null,
+   "end": "2026-10-16",
+   "area": "東",
+   "name": "都 水門管理センター・清澄排水機場の見学（11/20）定員30名",
+   "place": "江東区",
+   "station": "清澄白河",
+   "lines": [],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "10/16まで",
+   "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026091726",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-49",
+   "city": "tokyo",
+   "kind": "deadline",
+   "start": null,
+   "end": "2026-10-19",
+   "area": "都心",
+   "name": "東京都美術館 オルセー展 65歳以上の無料観覧券（抽選）",
+   "place": "台東区",
+   "station": "上野",
+   "lines": [],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "10/19必着",
+   "source": "https://www.tobikan.jp/guide/senior.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-50",
+   "city": "tokyo",
+   "kind": "deadline",
+   "start": null,
+   "end": "2026-10-23",
+   "area": "西",
+   "name": "杉並清掃工場 環境フェア（10/25）地下道探検",
+   "place": "杉並区",
+   "station": "高井戸（京王井の頭線）",
+   "lines": [
+    "京王"
+   ],
+   "target": "料金記載なし",
+   "targets": [
+    "all"
+   ],
+   "apply": "Web予約 10/19正午〜10/23正午",
+   "source": "https://www.union.tokyo23-seisou.lg.jp/kanri/unei/23renkei/event/suginami2026.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-51",
+   "city": "tokyo",
+   "kind": "deadline",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "理研・横浜市大 鶴見キャンパス一般公開（10/24）",
+   "place": "横浜市鶴見区",
+   "station": "鶴見（JR・京急）",
+   "lines": [
+    "京急",
+    "JR"
+   ],
+   "target": "入場無料（横浜市大の発表）・全員事前登録",
+   "targets": [
+    "all"
+   ],
+   "apply": "全員事前登録・先着（追加入場登録10/13正午から）",
+   "source": "https://www.yokohama.riken.jp/openday/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-60",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "南西",
+   "name": "川崎市立日本民家園 無料開園日",
+   "place": "川崎市多摩区",
+   "station": "向ヶ丘遊園（小田急）",
+   "lines": [
+    "小田急"
+   ],
+   "target": "無料開園日（越中五箇山・藍染めフェア）・対象の細目は記載なし",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nihonminkaen.jp/event.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-61",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "北西",
+   "name": "マンホールサミットin荒川・下水道フェスタ2026（荒川水循環センター上部公園・12〜16時）",
+   "place": "戸田市",
+   "station": "戸田（埼京線）方面",
+   "lines": [
+    "埼京線"
+   ],
+   "target": "参加費無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（あおぞら親子教室のみ10/9まで申込）",
+   "source": "https://www.pref.saitama.lg.jp/c1501/news/page/2026073101.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-62",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "area": "西",
+   "name": "三鷹・星と宇宙の日（国立天文台）",
+   "place": "三鷹市",
+   "station": "三鷹・調布からバス",
+   "lines": [],
+   "target": "参加費無料（共催の東京大学の案内）・10〜17時",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（4D2Uミニ講演会のみ申込制・締切済み）",
+   "source": "https://www.u-tokyo.ac.jp/focus/ja/events/z0106_00044.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-64",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北東",
+   "name": "埼玉県立近代美術館 MOMASコレクション（県民の日）",
+   "place": "さいたま市浦和区",
+   "station": "北浦和駅 西口徒歩3分",
+   "lines": [],
+   "target": "誰でも収蔵品展の観覧料無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.saitama.lg.jp/g2212/library-info/2026090101.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-65",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北東",
+   "name": "埼玉県立歴史と民俗の博物館（県民の日）",
+   "place": "さいたま市大宮区",
+   "station": "大宮公園駅 徒歩5分",
+   "lines": [],
+   "target": "誰でも常設展無料・特別展半額",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.saitama.lg.jp/g2209/library-info/202611_karahafu.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-66",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北西",
+   "name": "川越市立博物館（県民の日）",
+   "place": "川越市",
+   "station": "川越駅・本川越駅からバス「札の辻」",
+   "lines": [],
+   "target": "誰でも入館料無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kawagoe.saitama.jp/museum/index.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-67",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北西",
+   "name": "川越市立美術館（県民の日）",
+   "place": "川越市",
+   "station": "川越駅・本川越駅からバス「札の辻」",
+   "lines": [],
+   "target": "誰でも観覧料無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kawagoe.saitama.jp/artmuseum/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-68",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北西",
+   "name": "川越城本丸御殿（県民の日）",
+   "place": "川越市",
+   "station": "川越駅・本川越駅からバス「札の辻」",
+   "lines": [],
+   "target": "誰でも入館料無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kawagoe.saitama.jp/museum/honmaru/index.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-69",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "area": "北西",
+   "name": "川越市立博物館・美術館・本丸御殿（川越市民の日）",
+   "place": "川越市",
+   "station": "川越駅・本川越駅からバス「札の辻」",
+   "lines": [],
+   "target": "誰でも無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kawagoe.saitama.jp/museum/index.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-70",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北東",
+   "name": "あだち市場の日（足立市場）",
+   "place": "足立区",
+   "station": "千住大橋（京成）徒歩3分",
+   "lines": [
+    "京成"
+   ],
+   "target": "入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.metro.tokyo.lg.jp/information/press/2025/10/2025103104",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-72",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-19",
+   "end": "2027-01-11",
+   "area": "都心",
+   "name": "東京都美術館 開館100周年の無料展（あなたが世界を読むために／はじまりをひらく）",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも無料（オルセー展は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.tobikan.jp/exhibition/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-73",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "area": "都心",
+   "name": "第66回全国矯正展",
+   "place": "千代田区",
+   "station": "有楽町（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.moj.go.jp/kyousei1/kyousei05_00249.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-74",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-27",
+   "area": "東",
+   "name": "オータムナイトミュージアム 江戸東京博物館・東京都現代美術館（11/13・20・27 17時以降）",
+   "place": "墨田区・江東区",
+   "station": "両国・清澄白河",
+   "lines": [],
+   "target": "学生のみ無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "学生証",
+   "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026093012",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-75",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-12",
+   "end": "2026-11-27",
+   "area": "都心",
+   "name": "オータムナイトミュージアム 写真美術館・庭園美術館・都美術館（木金ほか17時以降）",
+   "place": "目黒区・港区・台東区",
+   "station": "恵比寿・目黒・上野",
+   "lines": [],
+   "target": "学生のみ無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "学生証",
+   "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026093012",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-79",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "area": "都心",
+   "name": "シルバーデー 東京都写真美術館・東京都庭園美術館",
+   "place": "目黒区・港区",
+   "station": "恵比寿・目黒（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.teien-art-museum.ne.jp/en/visit/calendar/2026/11/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-80",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "area": "東",
+   "name": "シルバーデー 東京都現代美術館・江戸東京博物館（常設展のみ）",
+   "place": "江東区・墨田区",
+   "station": "清澄白河・両国",
+   "lines": [],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.edo-tokyo-museum.or.jp/information/guide/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-81",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "area": "西",
+   "name": "江戸東京たてもの園 シルバーデー",
+   "place": "小金井市",
+   "station": "武蔵小金井・東小金井からバス",
+   "lines": [],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.tatemonoen.jp/raien/holiday.php",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-82",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "area": "都心",
+   "name": "シルバーデー 東京都写真美術館・東京都庭園美術館",
+   "place": "目黒区・港区",
+   "station": "恵比寿・目黒（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://topmuseum.jp/guide/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-83",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "area": "東",
+   "name": "シルバーデー 東京都現代美術館・江戸東京博物館（常設展のみ）",
+   "place": "江東区・墨田区",
+   "station": "清澄白河・両国",
+   "lines": [],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.edo-tokyo-museum.or.jp/information/guide/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-84",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-16",
+   "end": "2026-12-16",
+   "area": "西",
+   "name": "江戸東京たてもの園 シルバーデー",
+   "place": "小金井市",
+   "station": "武蔵小金井・東小金井からバス",
+   "lines": [],
+   "target": "65歳以上",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.tatemonoen.jp/raien/holiday.php",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-85",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "area": "北東",
+   "name": "足立区立郷土博物館（毎月第2・第3土曜）",
+   "place": "足立区",
+   "station": "亀有・北綾瀬からバス",
+   "lines": [],
+   "target": "誰でも",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-86",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "area": "北東",
+   "name": "足立区立郷土博物館（毎月第2・第3土曜）",
+   "place": "足立区",
+   "station": "亀有・北綾瀬からバス",
+   "lines": [],
+   "target": "誰でも",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-87",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-19",
+   "end": "2026-12-19",
+   "area": "北東",
+   "name": "足立区立郷土博物館（毎月第2・第3土曜）",
+   "place": "足立区",
+   "station": "亀有・北綾瀬からバス",
+   "lines": [],
+   "target": "誰でも",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-88",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-23",
+   "area": "北東",
+   "name": "台東区立一葉記念館「一葉祭」",
+   "place": "台東区",
+   "station": "三ノ輪（日比谷線）",
+   "lines": [
+    "日比谷線"
+   ],
+   "target": "誰でも入館無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.taitogeibun.net/ichiyo/oshirase/news/2148/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-89",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "area": "都心",
+   "name": "国立西洋美術館 常設展（第2日曜）",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・常設展のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmwa.go.jp/jp/visit/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-90",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-09",
+   "end": "2026-12-06",
+   "area": "西",
+   "name": "川崎市岡本太郎美術館 無料ミニ企画「ちょこっとTARO」",
+   "place": "川崎市多摩区",
+   "station": "向ヶ丘遊園（小田急）",
+   "lines": [
+    "小田急"
+   ],
+   "target": "誰でも無料（期間限定の無料展示）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.taromuseum.jp/exhibition.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-91",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-12-12",
+   "area": "南西",
+   "name": "よこはま動物園ズーラシア（毎週土曜は小中高生無料）",
+   "place": "横浜市旭区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "小・中・高校生のみ（学生証）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.hama-midorinokyokai.or.jp/zoo/zoorasia/fee.php",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-92",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-12-12",
+   "area": "南西",
+   "name": "金沢動物園（毎週土曜は小中高生無料）",
+   "place": "横浜市金沢区",
+   "station": "金沢文庫（京急）からバス",
+   "lines": [
+    "京急"
+   ],
+   "target": "小・中・高校生のみ（学生証）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.hama-midorinokyokai.or.jp/zoo/kanazawa/fee.php",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-96",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-19",
+   "area": "南西",
+   "name": "龍臺寺 本堂天井画の特別公開（10:30〜15:00）",
+   "place": "川崎市高津区",
+   "station": "溝の口（東急田園都市線）・武蔵溝ノ口（JR南武線）徒歩10分",
+   "lines": [
+    "東急",
+    "南武線",
+    "JR"
+   ],
+   "target": "見学無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kawasaki.jp/880/page/0000189635.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-97",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-27",
+   "end": "2026-11-29",
+   "area": "南西",
+   "name": "能満寺の文化財 現地特別公開（10〜15時）",
+   "place": "川崎市高津区",
+   "station": "バス「能満寺」徒歩5分",
+   "lines": [],
+   "target": "無料・どなたでも",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kawasaki.jp/880/page/0000190258.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-98",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "area": "都心",
+   "name": "六本木アートナイト2026（街なかの展示・中心は31日17時〜1日6時）",
+   "place": "港区",
+   "station": "六本木（日比谷線・大江戸線）",
+   "lines": [
+    "大江戸線",
+    "日比谷線"
+   ],
+   "target": "入場無料（一部のプログラムと美術館の企画展は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://prtimes.jp/main/html/rd/p/000000009.000166976.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-99",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "北東",
+   "name": "葛飾区郷土と天文の博物館（土曜は中学生以下が無料）",
+   "place": "葛飾区",
+   "station": "（交通案内は未確認）",
+   "lines": [],
+   "target": "中学生以下・入館料とプラネタリウム",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.museum.city.katsushika.lg.jp/information/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-105",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "西谷浄水場 インフォメーションセンターと歴史的建造物6棟（平日のみ・2026/7/27開館）",
+   "place": "横浜市保土ケ谷区",
+   "station": "星川（相鉄線）からバス「浄水場前」すぐ",
+   "lines": [
+    "相鉄"
+   ],
+   "target": "誰でも見学無料（平日10〜12時・13〜15:30）",
+   "targets": [
+    "all"
+   ],
+   "apply": "予約不要",
+   "source": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/press/suidou/2026/0721info.files/0029_20260716.pdf",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-106",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "国立西洋美術館",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "65歳以上は常設展が無料（企画展は別料金）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢の分かる物を提示）",
+   "source": "https://www.nmwa.go.jp/jp/visit/index.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-107",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "東京国立近代美術館",
+   "place": "千代田区",
+   "station": "竹橋（東西線）",
+   "lines": [
+    "東西線"
+   ],
+   "target": "65歳以上は所蔵作品展が無料（2027/2/9の値上げ後も無料のまま）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢の分かる物を提示）",
+   "source": "https://www.momat.go.jp/topics/20260918-2",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-108",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "国立映画アーカイブ（展示室）",
+   "place": "中央区",
+   "station": "京橋（銀座線）",
+   "lines": [
+    "銀座線"
+   ],
+   "target": "65歳以上は展示室が無料（上映は対象外）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（証明できる物を提示）",
+   "source": "https://www.nfaj.go.jp/visit/goriyou/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-109",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "東京国立博物館",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "70歳以上は総合文化展（平常展）が無料（特別展は別料金）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢の分かる物を提示）",
+   "source": "https://www.tnm.jp/modules/r_free_page/index.php?id=113",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-110",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "国立科学博物館（上野本館）",
+   "place": "台東区",
+   "station": "上野（JR）",
+   "lines": [
+    "JR"
+   ],
+   "target": "65歳以上は常設展が無料（特別展は展覧会ごと）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢の分かる証明書を提示）",
+   "source": "https://www.kahaku.go.jp/riyou/nyukan-annai/index.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-111",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "国立科学博物館附属 自然教育園",
+   "place": "港区",
+   "station": "白金台（南北線・三田線）",
+   "lines": [
+    "南北線",
+    "三田線"
+   ],
+   "target": "65歳以上は入園が無料",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢の分かる証明書を提示）",
+   "source": "https://ins.kahaku.go.jp/riyou/nyuen.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-112",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "千葉県立美術館",
+   "place": "千葉市中央区",
+   "station": "千葉みなと（京葉線）",
+   "lines": [
+    "京葉線"
+   ],
+   "target": "65歳以上は無料（県民に限らない・企画展ごとの扱いは未確認）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（証明書を提示）",
+   "source": "https://www.chiba-muse.or.jp/ART/visit/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-113",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "千葉県立中央博物館",
+   "place": "千葉市中央区",
+   "station": "千葉（JR）からバス",
+   "lines": [
+    "JR"
+   ],
+   "target": "65歳以上は入場が無料（県民に限らない）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢を示す物を提示）",
+   "source": "https://www.chiba-muse.or.jp/NATURAL/visit/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-114",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "千葉県立現代産業科学館",
+   "place": "市川市",
+   "station": "本八幡（JR総武線・都営新宿線）・鬼越（京成）",
+   "lines": [
+    "新宿線",
+    "都営",
+    "京成",
+    "総武線",
+    "JR"
+   ],
+   "target": "65歳以上は常設展が無料（県民に限らない）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢を証明できる物を提示）",
+   "source": "https://www.chiba-muse.or.jp/SCIENCE/visit/",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-116",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "文京ふるさと歴史館",
+   "place": "文京区",
+   "station": "本郷三丁目（丸ノ内線・大江戸線）",
+   "lines": [
+    "大江戸線",
+    "丸ノ内線"
+   ],
+   "target": "65歳以上は常設展が無料（特別展はその都度）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.bunkyo.lg.jp/rekishikan/p004233.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-117",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "品川区立品川歴史館",
+   "place": "品川区",
+   "station": "立会川（京急）・大森（JR）",
+   "lines": [
+    "京急",
+    "JR"
+   ],
+   "target": "70歳以上は無料（区民に限らない・特別展は別料金）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.shinagawa.tokyo.jp/jigyo/06/historyhp/raikan/raikan.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-118",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北東",
+   "name": "足立区立郷土博物館",
+   "place": "足立区",
+   "station": "亀有（JR常磐線）・北綾瀬（千代田線）からバス",
+   "lines": [
+    "千代田線",
+    "常磐線",
+    "JR"
+   ],
+   "target": "70歳以上は入館が無料（区民に限らない）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要（年齢の分かる物を持参）",
+   "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
+   "verified": "2026-10-08"
+  },
+  {
+   "id": "tokyo-2026-10-06-119",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-11-08",
+   "area": "都心",
+   "name": "都立中央図書館 企画展「Go to お江戸」（重要文化財 江戸城造営関係資料を展示）",
+   "place": "港区",
+   "station": "広尾（日比谷線）",
+   "lines": [
+    "日比谷線"
+   ],
+   "target": "誰でも無料（11/5休館・平日10:00-20:45・土日祝10:00-17:15）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.library.metro.tokyo.lg.jp/guide/event/exhibition/7486_20260924.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-121",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "東京都水道歴史館「上水記展・水道歴史展」",
+   "place": "文京区",
+   "station": "御茶ノ水・水道橋",
+   "lines": [],
+   "target": "誰でも無料（9:30-17:00）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.suidorekishi.jp/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-122",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-02",
+   "end": "2026-11-03",
+   "area": "西",
+   "name": "国士舘大講堂（国登録有形文化財）公開",
+   "place": "世田谷区",
+   "station": "梅ヶ丘（小田急）・松陰神社前（東急世田谷線）",
+   "lines": [
+    "小田急",
+    "東急"
+   ],
+   "target": "誰でも無料（10:00-16:00）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-125",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "南西・足をのばして",
+   "name": "神奈川県立近代美術館 葉山館・鎌倉別館（文化の日の無料開館）",
+   "place": "葉山町・鎌倉市",
+   "station": "逗子（JR）からバス（葉山館）・鎌倉（JR）（鎌倉別館）",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも無料（葉山館は企画展とコレクション展・鎌倉別館はコレクション展）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.moma.pref.kanagawa.jp/news/20261013-3/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-126",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "南西・足をのばして",
+   "name": "横須賀美術館 所蔵品展・谷内六郎館（文化の日の無料観覧日）",
+   "place": "横須賀市",
+   "station": "馬堀海岸（京急）・浦賀（京急）からバス",
+   "lines": [
+    "京急"
+   ],
+   "target": "誰でも無料（所蔵品展と谷内六郎館のみ・企画展は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.yokosuka-moa.jp/static/file/event/2026/2026event_flier.pdf",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-128",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-07-24",
+   "end": "2026-11-23",
+   "area": "南西",
+   "name": "横浜美術館「毛利悠子 Recompose」展（観覧無料の展覧会）",
+   "place": "横浜市西区",
+   "station": "みなとみらい（みなとみらい線）",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "誰でも無料（木曜休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://yokohama.art.museum/exhibition/202607_mohriyuko/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-129",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-08-01",
+   "end": "2027-02-11",
+   "area": "南西",
+   "name": "横浜美術館 じゆうエリアのコレクション展",
+   "place": "横浜市西区",
+   "station": "みなとみらい（みなとみらい線）",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "誰でも無料（じゆうエリア内の展示のみ・木曜休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://yokohama.art.museum/exhibition/202608_collection/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-130",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "area": "南西",
+   "name": "横浜美術館 コレクション展（毎週土曜は高校生以下無料）",
+   "place": "横浜市西区",
+   "station": "みなとみらい（みなとみらい線）",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "高校生以下のみ無料（小学生以下はいつでも無料）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://yokohama.art.museum/exhibition/202608_collection/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-131",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-04",
+   "end": "2026-11-04",
+   "area": "南西・足をのばして",
+   "name": "寒川町文化財学習センター 特別開館デー（ふだん予約制の館に予約なしで・9-16時）",
+   "place": "寒川町",
+   "station": "寒川（JR相模線）",
+   "lines": [
+    "JR"
+   ],
+   "target": "無料開館（文化庁の2026年一覧）",
+   "targets": [
+    "all"
+   ],
+   "apply": "予約不要",
+   "source": "https://www.town.samukawa.kanagawa.jp/soshiki/kyoiku/shogaigakushu/center/20788.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-134",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-01",
+   "end": "2026-11-15",
+   "area": "北西",
+   "name": "戸田市立郷土博物館 企画展「戸田市のあゆみ～市制60年をむかえて～」",
+   "place": "戸田市",
+   "station": "戸田（埼京線）徒歩9分",
+   "lines": [
+    "埼京線"
+   ],
+   "target": "誰でも入場無料（期間中の休館は10/26と11/9）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.toda.saitama.jp/soshiki/377/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-135",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北西・足をのばして",
+   "name": "埼玉県立川の博物館（かわはく秋まつり・年に一度の無料開放日）",
+   "place": "寄居町",
+   "station": "鉢形（東武東上線）（駅は未確認）",
+   "lines": [
+    "東武"
+   ],
+   "target": "誰でも入館料・荒川わくわくランド・アドベンチャーシアターが無料（9-17時）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.saitama.lg.jp/f2216/library-info/r0811kawahaku06.html",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-136",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北西・足をのばして",
+   "name": "埼玉県立自然の博物館（県民の日記念イベント）",
+   "place": "長瀞町",
+   "station": "上長瀞（秩父鉄道）（駅は未確認）",
+   "lines": [
+    "秩父鉄道"
+   ],
+   "target": "誰でも観覧料無料（9-16時・一部有料のイベントあり）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.saitama.lg.jp/g2213/library-info/20261114.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-137",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北西",
+   "name": "狭山市立博物館（埼玉県民の日）",
+   "place": "狭山市",
+   "station": "稲荷山公園（西武池袋線）北口徒歩3分",
+   "lines": [
+    "西武"
+   ],
+   "target": "誰でも入館無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://sayama-city-museum.com/guide/",
+   "verified": "2026-10-06"
+  },
+  {
+   "id": "tokyo-2026-10-06-138",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "国立天文台 三鷹キャンパス 常時公開（天文台歴史館などの見学コース）",
+   "place": "三鷹市",
+   "station": "武蔵境（JR中央線）からバス",
+   "lines": [
+    "JR中央線"
+   ],
+   "target": "いつでも入館無料（10-17時・11/14は停電で中止）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（守衛所で受付）",
+   "source": "https://www.nao.ac.jp/about-naoj/organization/facilities/mitaka/visit.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-139",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "東京都埋蔵文化財センター（展示ホールと遺跡庭園「縄文の村」）",
+   "place": "多摩市",
+   "station": "多摩センター（京王・小田急）",
+   "lines": [
+    "京王",
+    "小田急"
+   ],
+   "target": "いつでも入館無料（9:30-17:00・10/26と11/24は休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.tomaibun.jp/opening.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-140",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "武蔵野ふるさと歴史館",
+   "place": "武蔵野市",
+   "station": "武蔵境（JR中央線）",
+   "lines": [
+    "JR中央線"
+   ],
+   "target": "いつでも入館無料（金曜と祝日休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.musashino.lg.jp/shisetsu_annai/bunka_sports/bunka_geijutsu/1000599.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-141",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "世田谷区立郷土資料館",
+   "place": "世田谷区",
+   "station": "上町（東急世田谷線）",
+   "lines": [
+    "東急"
+   ],
+   "target": "いつでも入館無料（月曜と祝日休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.setagaya.lg.jp/02423/9013.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-142",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "中野区立歴史民俗資料館",
+   "place": "中野区",
+   "station": "沼袋（西武新宿線）",
+   "lines": [
+    "新宿線",
+    "西武"
+   ],
+   "target": "いつでも入館無料（月曜と第3日曜休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.tokyo-nakano.lg.jp/dept/218400/d002866.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-143",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "消防博物館",
+   "place": "新宿区",
+   "station": "四谷三丁目（丸ノ内線）",
+   "lines": [
+    "丸ノ内線"
+   ],
+   "target": "いつでも入館無料（月曜休館・祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "http://www.tfd.metro.tokyo.lg.jp/taiken/hkkan/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-144",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "東京都水道歴史館",
+   "place": "文京区",
+   "station": "御茶ノ水・水道橋",
+   "lines": [],
+   "target": "いつでも入館無料（第4月曜休館・祝日なら翌日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.suidorekishi.jp/guide/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-145",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "豊島区立郷土資料館",
+   "place": "豊島区",
+   "station": "池袋",
+   "lines": [],
+   "target": "いつでも入館無料（月曜休館・祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.toshima.lg.jp/129/bunka/bunka/shiryokan/kyodoshiryokan/005989.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-146",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "雑司が谷旧宣教師館（都指定有形文化財）",
+   "place": "豊島区",
+   "station": "雑司が谷（副都心線）・東池袋（有楽町線）",
+   "lines": [
+    "副都心線",
+    "有楽町線"
+   ],
+   "target": "いつでも入館無料（月曜休館・祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.toshima.lg.jp/129/bunka/bunka/shiryokan/kyusenkyoshikan/005988.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-147",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "東京都庁 展望室（南・北）",
+   "place": "新宿区",
+   "station": "都庁前（大江戸線）・新宿",
+   "lines": [
+    "大江戸線"
+   ],
+   "target": "いつでも入室無料（南は第1・第3火曜休室・北は第2・第4月曜休室）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-148",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "皇居東御苑",
+   "place": "千代田区",
+   "station": "大手町・竹橋",
+   "lines": [],
+   "target": "いつでも入園無料（月曜と金曜休園・11月は9-16時）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.kunaicho.go.jp/visit/higashigyoen/index.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-149",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "千葉市立郷土博物館",
+   "place": "千葉市中央区",
+   "station": "県庁前（千葉都市モノレール）",
+   "lines": [
+    "千葉都市モノレール"
+   ],
+   "target": "いつでも入館無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.chiba.jp/kyodo/annai/riyo.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-150",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "千葉市立加曽利貝塚博物館",
+   "place": "千葉市若葉区",
+   "station": "桜木（千葉都市モノレール）徒歩15分",
+   "lines": [
+    "千葉都市モノレール"
+   ],
+   "target": "いつでも無料（展示室と野外施設）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.chiba.jp/kasori/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-151",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "市立市川考古博物館・市立市川歴史博物館",
+   "place": "市川市",
+   "station": "北国分（北総線）徒歩10分",
+   "lines": [
+    "北総線"
+   ],
+   "target": "いつでも入館無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ichikawa.lg.jp/edu14/1111000001.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-152",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北東",
+   "name": "さいたま市立浦和博物館",
+   "place": "さいたま市緑区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "いつでも入館無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.saitama.lg.jp/004/005/004/005/002/002/p032617.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-153",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "浦安市郷土博物館",
+   "place": "浦安市",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "いつでも入館無料（祝日の翌日は休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.urayasu.lg.jp/kanko/kyodo/1002079.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-154",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "江戸川区郷土資料室",
+   "place": "江戸川区",
+   "station": "篠崎（都営新宿線）直結",
+   "lines": [
+    "新宿線",
+    "都営"
+   ],
+   "target": "いつでも無料（祝日は休み）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（15名以上は予約）",
+   "source": "https://www.city.edogawa.tokyo.jp/e_bunkazai/bunkazai/shiryoshitsu/index.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-155",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "江戸川区自然動物園",
+   "place": "江戸川区",
+   "station": "西葛西（東西線）",
+   "lines": [
+    "東西線"
+   ],
+   "target": "いつでも入園無料（11〜2月は16時まで）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.edogawa.tokyo.jp/e066/kuseijoho/gaiyo/shisetsuguide/bunya/koendobutsuen/shizen.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-156",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "都立第五福竜丸展示館",
+   "place": "江東区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "いつでも入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://d5f.org/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-157",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "東京都虹の下水道館",
+   "place": "江東区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "いつでも入館無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nijinogesuidoukan.jp/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-159",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "大田区立郷土博物館（常設展）",
+   "place": "大田区",
+   "station": "西馬込（浅草線）徒歩7分",
+   "lines": [
+    "浅草線"
+   ],
+   "target": "いつでも無料（特別展は別料金・11/30から工事休館の予定）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ota.tokyo.jp/seikatsu/manabu/hakubutsukan/R8_kyoudohakubutsukan_annai.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-160",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "大田区立龍子記念館",
+   "place": "大田区",
+   "station": "西馬込（浅草線）徒歩15分",
+   "lines": [
+    "浅草線"
+   ],
+   "target": "65歳以上は無料（年齢の証明が要る）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.ota-bunka.or.jp/files/ryushi_press_collaboration202609.pdf",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-161",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "海上保安資料館横浜館（工作船の展示）",
+   "place": "横浜市中区",
+   "station": "馬車道・日本大通り（みなとみらい線）",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "いつでも入館無料（月曜休館・祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://jcgmuseum.jp/access/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-162",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西",
+   "name": "JICA横浜 海外移住資料館",
+   "place": "横浜市中区",
+   "station": "馬車道（みなとみらい線）徒歩8分",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "いつでも入館無料（火〜日 10-18時）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.jica.go.jp/domestic/jomm/outline/information/index.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-163",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西・足をのばして",
+   "name": "横須賀市自然・人文博物館",
+   "place": "横須賀市",
+   "station": "横須賀中央（京急）徒歩10分",
+   "lines": [
+    "京急"
+   ],
+   "target": "いつでも入館無料（11月の休館は2・9・16・24・30日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.museum.yokosuka.kanagawa.jp/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-164",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西・足をのばして",
+   "name": "藤沢市藤澤浮世絵館",
+   "place": "藤沢市",
+   "station": "辻堂（JR東海道線）北口徒歩5分",
+   "lines": [
+    "JR"
+   ],
+   "target": "いつでも入館無料（月曜休館・展示替えの休館あり）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://fujisawa-ukiyoekan.net/f/about-en",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-165",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南西・足をのばして",
+   "name": "平塚市博物館",
+   "place": "平塚市",
+   "station": "平塚（JR東海道線）",
+   "lines": [
+    "JR"
+   ],
+   "target": "いつでも入館無料（プラネタリウムは200円・11月の休館は2・9・16・24・30日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://hirahaku.jp/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-166",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北西",
+   "name": "練馬区立牧野記念庭園",
+   "place": "練馬区",
+   "station": "大泉学園（西武池袋線）南口徒歩5分",
+   "lines": [
+    "西武"
+   ],
+   "target": "いつでも入園無料（火曜休園）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.makinoteien.jp/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-167",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北西",
+   "name": "石神井公園ふるさと文化館 常設展示",
+   "place": "練馬区",
+   "station": "石神井公園（西武池袋線）",
+   "lines": [
+    "西武"
+   ],
+   "target": "常設展示はいつでも無料（特別展は一部を除き有料・月曜休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.neribun.or.jp/furusato.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-168",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北西",
+   "name": "板橋区立郷土資料館",
+   "place": "板橋区",
+   "station": "（未確認）",
+   "lines": [],
+   "target": "いつでも入館無料（月曜休館・祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.itabashi.tokyo.jp/kyodoshiryokan/annai/index.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-169",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北西",
+   "name": "陸上自衛隊広報センター りっくんランド",
+   "place": "練馬区・朝霞市",
+   "station": "和光市（東武東上線・有楽町線・副都心線）南口から循環バス",
+   "lines": [
+    "副都心線",
+    "有楽町線",
+    "東武"
+   ],
+   "target": "いつでも入館無料（月・火休館・入れ替え制・11月末から工事で閉館の場合あり）",
+   "targets": [
+    "all"
+   ],
+   "apply": "個人は不要",
+   "source": "https://www.mod.go.jp/gsdf/eae/prcenter/",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-170",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北西",
+   "name": "朝霞市博物館",
+   "place": "朝霞市",
+   "station": "朝霞台（東武東上線）徒歩15分",
+   "lines": [
+    "東武"
+   ],
+   "target": "いつでも入館無料（月曜・第4金曜・祝日の翌日は休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.asaka.lg.jp/soshiki/42/museum-riyou.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "tokyo-2026-10-06-171",
+   "city": "tokyo",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北西・足をのばして",
+   "name": "飯能市立博物館（きっとす）",
+   "place": "飯能市",
+   "station": "飯能（西武池袋線）からバス「市民会館・博物館」",
+   "lines": [
+    "西武"
+   ],
+   "target": "いつでも入館無料（月曜・祝日の翌日・第4金曜は休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.hanno.lg.jp/kanko_bunka_sports/museum/shisetsu_riyoannai/4954.html",
+   "verified": "2026-10-15"
+  },
+  {
+   "id": "kansai-2026-10-07-0",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "area": "南",
+   "name": "岸和田だんじり祭 10月祭礼（範囲内は11日の本宮）",
+   "place": "岸和田市（山手側の6地区）",
+   "station": "JR阪和線 東岸和田・久米田ほか",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "沿道で見るのは無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kishiwada.lg.jp/adv/ba.php?id=184",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-1",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "area": "南",
+   "name": "泉大津だんじりまつり（範囲内は11日の宮入り・パレード）",
+   "place": "泉大津市",
+   "station": "南海本線 泉大津ほか（駅は推定）",
+   "lines": [
+    "南海"
+   ],
+   "target": "沿道で見るのは無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.izumiotsu.lg.jp/kakuka/kyoikuiinkai/shogaigakushu/sportseisyonen/ibento/16163.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-2",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "area": "北東",
+   "name": "高槻魂!!（野外ロックフェス）",
+   "place": "高槻市",
+   "station": "JR高槻・阪急高槻市",
+   "lines": [
+    "阪急",
+    "JR"
+   ],
+   "target": "入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.takatsuki-kankou.org/info/4005/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-3",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "area": "北東",
+   "name": "枚方宿くらわんか五六市（毎月第2日曜）",
+   "place": "枚方市",
+   "station": "京阪 枚方市・枚方公園",
+   "lines": [
+    "京阪"
+   ],
+   "target": "歩いて見るのは無料（買い物は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://hirakata-kanko.org/sight/gorokuichi/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-4",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-11",
+   "area": "西",
+   "name": "第52回 港区民まつり",
+   "place": "大阪市港区（八幡屋公園）",
+   "station": "地下鉄 朝潮橋（推定）",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-5",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-10",
+   "end": "2026-10-11",
+   "area": "東",
+   "name": "枚岡神社 秋郷祭 前祭（10日 太鼓台宮入／11日 神幸祭・太鼓台宮入）",
+   "place": "東大阪市",
+   "station": "近鉄奈良線 枚岡",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "見るのは無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.hiraoka-jinja.org/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-6",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-11-30",
+   "area": "都心",
+   "name": "大阪城天守閣（市民の高齢者・子どもは常に無料）",
+   "place": "大阪市中央区",
+   "station": "JR環状線・Osaka Metro 森ノ宮ほか",
+   "lines": [
+    "JR"
+   ],
+   "target": "大阪市内在住の65歳以上と中学生以下・要証明（敬老優待乗車証や免許証など）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.osakacastle.net/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-7",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-11-30",
+   "area": "都心",
+   "name": "大阪市立美術館 企画展示（市民の高齢者・子どもは常に無料）",
+   "place": "大阪市天王寺区",
+   "station": "JR・Osaka Metro 天王寺",
+   "lines": [
+    "JR"
+   ],
+   "target": "大阪市内在住の65歳以上と中学生以下・企画展示のみ・要証明（月曜休館）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.osaka-art-museum.jp/information",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-8",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-16",
+   "end": "2026-10-17",
+   "area": "都心",
+   "name": "国立国際美術館 ラボラトリー・スペシャルフリーデー",
+   "place": "大阪市北区",
+   "station": "京阪中之島線 渡辺橋・Osaka Metro 肥後橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・特別展「笹本晃 ラボラトリー」とコレクション展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmao.go.jp/visit/admission/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-9",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-16",
+   "end": "2026-11-27",
+   "area": "都心",
+   "name": "大阪府庁本館 正庁の間 一般公開（毎週金曜）",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro 谷町四丁目・京阪 天満橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・10時〜17時（祝日は休み）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.osaka.lg.jp/o040080/otemaemachi/seicyou-koukai/index.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-10",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "北",
+   "name": "第38回 なにわ淀川花火大会（19:00〜20:00）",
+   "place": "大阪市淀川区",
+   "station": "阪急 十三",
+   "lines": [
+    "阪急"
+   ],
+   "target": "有料席以外の河川敷は無料で見られる。梅田側は見物禁止・中津〜野田付近も工事で立入禁止",
+   "targets": [
+    "all"
+   ],
+   "apply": "有料席は販売中",
+   "source": "https://www.yodohanabi.com/gaiyou.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-11",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "南",
+   "name": "住吉大社 宝之市神事・升の市",
+   "place": "大阪市住吉区",
+   "station": "南海本線 住吉大社",
+   "lines": [
+    "南海"
+   ],
+   "target": "境内で見るのは無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.sumiyoshitaisha.net/events/annualevents/10.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-12",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "南",
+   "name": "第53回 堺まつり（17日前夜祭ふとん太鼓／18日 大小路筋でふとん太鼓・鉄砲隊）",
+   "place": "堺市堺区",
+   "station": "南海 堺・堺東・阪堺線 大小路",
+   "lines": [
+    "南海"
+   ],
+   "target": "入場無料（一部の企画とクルーズは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.sakai-tcb.or.jp/sakaimatsuri2026/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-13",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "石切劔箭神社 秋季大祭の太鼓台巡行",
+   "place": "東大阪市",
+   "station": "近鉄 新石切・石切",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "見るのは無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.ishikiri.or.jp/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-14",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "北",
+   "name": "すいそうフェスティバル（JR西日本 吹田総合車両所の公開）",
+   "place": "吹田市",
+   "station": "JR京都線 吹田",
+   "lines": [
+    "JR京都線"
+   ],
+   "target": "入場無料・抽選で招待された人だけ",
+   "targets": [
+    "all"
+   ],
+   "apply": "受付終了（抽選・当選者のみ）",
+   "source": "https://www.westjr.co.jp/press/article/2026/08/19/items/260819_00_press_suisoufestival.pdf",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-15",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "南",
+   "name": "2026東住吉区民フェスティバル",
+   "place": "大阪市東住吉区（長居公園自由広場）",
+   "station": "地下鉄 長居",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-16",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "第53回 生野まつり（9時30分〜15時30分予定・荒天中止）",
+   "place": "大阪市生野区（巽公園）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/ikuno/page/0000679971.html",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-17",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "西",
+   "name": "第52回 大正区民まつり",
+   "place": "大阪市大正区（千島公園一帯）",
+   "station": "JR 大正からバス約8分 大正区役所前",
+   "lines": [
+    "JR"
+   ],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-18",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "西",
+   "name": "第53回 西淀川区民まつり（11時〜16時・小雨決行）",
+   "place": "大阪市西淀川区（西淀公園）",
+   "station": "JR東西線 御幣島（推定・南西へ約600m）",
+   "lines": [
+    "東西線",
+    "JR"
+   ],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/nishiyodogawa/page/0000603295.html",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-19",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "第38回 北区民カーニバル",
+   "place": "大阪市北区（扇町公園）",
+   "station": "地下鉄 扇町・JR 天満",
+   "lines": [
+    "JR"
+   ],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-20",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "第38回 中央区民まつり",
+   "place": "大阪市中央区（難波宮跡）",
+   "station": "地下鉄 谷町四丁目",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-21",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "第52回 天王寺区民まつり",
+   "place": "大阪市天王寺区（五条公園グラウンド）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-22",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-21",
+   "end": "2026-10-22",
+   "area": "都心",
+   "name": "四天王寺 大師会・太子会（骨董の露店。両日とも中心伽藍を無料開放）",
+   "place": "大阪市天王寺区",
+   "station": "地下鉄 四天王寺前夕陽ヶ丘",
+   "lines": [],
+   "target": "境内の露店は無料。21・22日とも中心伽藍と五重塔最上階回廊が無料・22日は絵堂も無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.shitennoji.or.jp/event/index.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-23",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-23",
+   "end": "2026-10-24",
+   "area": "都心",
+   "name": "国立国際美術館 ラボラトリー・スペシャルフリーデー",
+   "place": "大阪市北区",
+   "station": "京阪中之島線 渡辺橋・Osaka Metro 肥後橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・特別展「笹本晃 ラボラトリー」とコレクション展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmao.go.jp/visit/admission/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-24",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-24",
+   "area": "南",
+   "name": "第52回 すみよし区民まつり",
+   "place": "大阪市住吉区（沢之町運動場・住吉区民センター・区役所周辺）",
+   "station": "南海高野線 沢ノ町（推定）",
+   "lines": [
+    "南海"
+   ],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-25",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "area": "北",
+   "name": "水道記念館 ウォーターフェスティバル",
+   "place": "大阪市東淀川区",
+   "station": "阪急京都線 南方 約700m・御堂筋線 西中島南方 約750m",
+   "lines": [
+    "阪急"
+   ],
+   "target": "無料・事前申込み制（各回70人）",
+   "targets": [
+    "all"
+   ],
+   "apply": "10/11締切（席が残れば先着で受付）",
+   "source": "https://www.city.osaka.lg.jp/hodoshiryo/suido/0000685533.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-26",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "area": "北東",
+   "name": "阪急レールウェイフェスティバル（正雀工場）",
+   "place": "摂津市",
+   "station": "阪急京都線 正雀",
+   "lines": [
+    "阪急"
+   ],
+   "target": "入場無料・抽選で当選した人だけ",
+   "targets": [
+    "all"
+   ],
+   "apply": "受付終了（抽選・当選者のみ）",
+   "source": "https://www.hankyu.co.jp/en/railfan/railway2026_lp/index.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-27",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-10-25",
+   "area": "都心",
+   "name": "生きた建築ミュージアムフェスティバル大阪（イケフェス大阪）",
+   "place": "大阪市内各所",
+   "station": "会場により異なる（市役所は淀屋橋・駅は推定）",
+   "lines": [],
+   "target": "224件の建物を無料公開（大阪市役所の公開はトップページで未確認）",
+   "targets": [
+    "all"
+   ],
+   "apply": "多くは申込み不要。事前申込みプログラムは10/15から追加募集（締切は要確認）",
+   "source": "https://ikenchiku.jp/ikefes2026/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-28",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "area": "南",
+   "name": "史跡 土塔 特別公開「土塔に登ろう！」",
+   "place": "堺市中区",
+   "station": "泉北線 深井（東へ約1.1km）",
+   "lines": [],
+   "target": "誰でも・10時〜15時30分・自由参加（料金記載なし・小雨決行）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.sakai.lg.jp/kanko/rekishi/bunkazai/bunkazai/oshirase/doto_kokaiR8.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-29",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "area": "西",
+   "name": "第52回 このはな区民まつり（11時〜16時・小雨決行）",
+   "place": "大阪市此花区（正蓮寺川公園・此花区民一休ホール・千鳥橋公園）",
+   "station": "阪神なんば線 千鳥橋（推定）",
+   "lines": [
+    "阪神"
+   ],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-30",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "南",
+   "name": "南海電車まつり（千代田工場）",
+   "place": "河内長野市",
+   "station": "南海高野線 千代田",
+   "lines": [
+    "南海"
+   ],
+   "target": "入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "入場は申込み不要。体験企画は抽選で10/13 10:00締切",
+   "source": "https://www.nankai.co.jp/traffic/trainfes2026.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-31",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "東",
+   "name": "第51回 平野区民まつり",
+   "place": "大阪市平野区（出戸池グラウンド・長吉公園ほか）",
+   "station": "地下鉄 出戸（推定）",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-32",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "東",
+   "name": "中浜下水処理場 一般公開",
+   "place": "大阪市城東区",
+   "station": "JR 鴫野・Osaka Metro 鴫野",
+   "lines": [
+    "JR"
+   ],
+   "target": "無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/hodoshiryo/kensetsu/0000687515.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-33",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "都心",
+   "name": "大阪府庁本館100周年 夜間特別公開・府政学習会",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro 谷町四丁目（駅は推定）",
+   "lines": [],
+   "target": "無料・事前申込みの人だけ",
+   "targets": [
+    "all"
+   ],
+   "apply": "10/8締切（投稿開始時には締切済み）",
+   "source": "https://www.pref.osaka.lg.jp/moyo/o040080/000009.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-34",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "area": "東",
+   "name": "きんてつ鉄道まつり（高安車庫）",
+   "place": "八尾市",
+   "station": "近鉄大阪線 高安",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "入場は申込み不要。事前応募の企画は10/15 18:00締切",
+   "source": "https://kintetsu-tetsudo-matsuri.jp/2026/autumn/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-35",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "都心",
+   "name": "西区民まつり「文化と健康のつどい」",
+   "place": "大阪市西区（西区民センター・堀江中学校体育館・中央図書館・土佐公園ほか）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-36",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "都心",
+   "name": "第52回 ナニワ区民まつり",
+   "place": "大阪市浪速区（立葉町公園・立葉小学校）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-37",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "第53回 あべのカーニバル",
+   "place": "大阪市阿倍野区（区民センターほか）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-38",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "国立国際美術館 コレクション展 無料観覧日（文化の日）",
+   "place": "大阪市北区",
+   "station": "京阪中之島線 渡辺橋・Osaka Metro 肥後橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・コレクション展のみ（特別展は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmao.go.jp/visit/admission/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-39",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-12-31",
+   "area": "都心",
+   "name": "御堂筋イルミネーション2026（17時ごろ〜25時）",
+   "place": "大阪市北区・中央区（御堂筋 阪神前〜難波西口）",
+   "station": "御堂筋線 梅田〜なんば",
+   "lines": [],
+   "target": "公道なので無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51250.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-40",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-12-31",
+   "area": "都心",
+   "name": "大阪・光の饗宴2026 中之島（17時〜25時。中央公会堂の映像投影は12/11〜25）",
+   "place": "大阪市北区（中之島）",
+   "station": "京阪・地下鉄 淀屋橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "公共の場所で見るのは無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51250.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-41",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "area": "南",
+   "name": "大仙公園日本庭園（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "JR阪和線 百舌鳥",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "入園料（通常有料）・11/5（木）のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20661/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-42",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-05",
+   "end": "2026-11-05",
+   "area": "都心",
+   "name": "適塾（関西文化の日）",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro御堂筋線 淀屋橋",
+   "lines": [],
+   "target": "全ての展示・11/5（木）のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20804/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-43",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-07",
+   "area": "南",
+   "name": "国史跡 旧堺燈台 内部特別公開",
+   "place": "堺市堺区",
+   "station": "南海本線 堺（約1.2km）",
+   "lines": [
+    "南海"
+   ],
+   "target": "誰でも・正午〜19時（当日7時に警報なら中止）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.sakai.lg.jp/kanko/rekishi/bunkazai/bunkazai/oshirase/toudai2026.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-44",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "鉄炮鍛冶屋敷（堺市立町家歴史館 井上関右衛門家住宅）（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "南海本線 七道",
+   "lines": [
+    "南海"
+   ],
+   "target": "常設展示・11/7・8・14・15の4日間",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21774/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-45",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "堺市立町家歴史館 清学院（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "南海本線 七道",
+   "lines": [
+    "南海"
+   ],
+   "target": "常設展示・11/7・8・14・15の4日間",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20747/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-46",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "堺市立町家歴史館 山口家住宅（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "阪堺線 綾ノ町",
+   "lines": [],
+   "target": "常設展示・11/7・8・14・15の4日間",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20745/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-47",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-23",
+   "area": "南",
+   "name": "大阪府立狭山池博物館（関西文化の日）",
+   "place": "大阪狭山市",
+   "station": "南海高野線 大阪狭山市",
+   "lines": [
+    "南海"
+   ],
+   "target": "全ての展示・大阪狭山市の企画展（常設は通常も無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "11/15の公開講座は当日先着126名",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21063/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-48",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "area": "北東",
+   "name": "枚方宿くらわんか五六市（毎月第2日曜）",
+   "place": "枚方市",
+   "station": "京阪 枚方市・枚方公園",
+   "lines": [
+    "京阪"
+   ],
+   "target": "歩いて見るのは無料（買い物は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://hirakata-kanko.org/sight/gorokuichi/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-49",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "area": "東",
+   "name": "第48回 東成区民まつり",
+   "place": "大阪市東成区（神路公園）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-50",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-10",
+   "end": "2026-11-15",
+   "area": "北",
+   "name": "奥内陶芸美術館（関西文化の日）",
+   "place": "豊中市",
+   "station": "阪急宝塚線 岡町",
+   "lines": [
+    "阪急"
+   ],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21005/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-51",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "東",
+   "name": "第53回 城東まつり（雨なら11/15）",
+   "place": "大阪市城東区（蒲生公園ほか）",
+   "station": "地下鉄・京阪 蒲生四丁目／京橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-52",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北",
+   "name": "国立民族学博物館（関西文化の日）",
+   "place": "吹田市",
+   "station": "大阪モノレール 万博記念公園・公園東口",
+   "lines": [],
+   "target": "常設展示・企画展示（特別展は通常料金）",
+   "targets": [
+    "all"
+   ],
+   "apply": "万博記念公園ゲートの有人窓口でみんぱく行きを申し出て通行証を受け取る（公園を利用するなら入園料が必要）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20482/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-53",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北",
+   "name": "吹田市立博物館（関西文化の日）",
+   "place": "吹田市",
+   "station": "JR・阪急 吹田からバス 紫金山公園前",
+   "lines": [
+    "阪急",
+    "JR"
+   ],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20774/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-54",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北",
+   "name": "カップヌードルミュージアム 大阪池田（関西文化の日）",
+   "place": "池田市",
+   "station": "阪急宝塚線 池田",
+   "lines": [
+    "阪急"
+   ],
+   "target": "全ての展示（各ファクトリーの体験料は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20796/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-55",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "高槻市立しろあと歴史館（関西文化の日）",
+   "place": "高槻市",
+   "station": "阪急京都線 高槻市",
+   "lines": [
+    "阪急"
+   ],
+   "target": "全ての展示・開催中の特別展も無料（入館料は通常も無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20462/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-56",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "高槻市立今城塚古代歴史館（関西文化の日）",
+   "place": "高槻市",
+   "station": "JR京都線 摂津富田からバス 今城塚古墳前",
+   "lines": [
+    "JR京都線"
+   ],
+   "target": "全ての展示（通常も無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20580/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-57",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "大阪公立大学附属植物園（関西文化の日）",
+   "place": "交野市",
+   "station": "京阪交野線 私市",
+   "lines": [
+    "京阪"
+   ],
+   "target": "全ての展示・入園料無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21046/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-58",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "茨木市立川端康成文学館（関西文化の日）",
+   "place": "茨木市",
+   "station": "JR京都線 JR総持寺",
+   "lines": [
+    "JR京都線",
+    "JR"
+   ],
+   "target": "全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21040/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-59",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "もりぐち歴史館「旧中西家住宅」（関西文化の日）",
+   "place": "守口市",
+   "station": "大日からバス 大久保",
+   "lines": [],
+   "target": "入館料が無料（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21008/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-60",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "天門美術館（関西文化の日）",
+   "place": "枚方市",
+   "station": "京阪本線 枚方市からバス 変電所前",
+   "lines": [
+    "京阪"
+   ],
+   "target": "企画展",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21009/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-61",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "市立枚方宿鍵屋資料館（関西文化の日）",
+   "place": "枚方市",
+   "station": "京阪 枚方公園",
+   "lines": [
+    "京阪"
+   ],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20624/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-62",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "大阪市立自然史博物館（関西文化の日）",
+   "place": "大阪市東住吉区",
+   "station": "Osaka Metro御堂筋線 長居",
+   "lines": [],
+   "target": "常設展（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20573/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-63",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "堺市博物館（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "JR阪和線 百舌鳥",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "常設展・企画展（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20653/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-64",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "さかい利晶の杜（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "阪堺線 宿院",
+   "lines": [],
+   "target": "常設展・企画展（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21015/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-65",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "和泉市久保惣記念美術館（関西文化の日）",
+   "place": "和泉市",
+   "station": "南海泉北線 和泉中央からバス 美術館前",
+   "lines": [
+    "南海"
+   ],
+   "target": "全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20433/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-66",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "大阪府立花の文化園（関西文化の日）",
+   "place": "河内長野市",
+   "station": "南海高野線・近鉄長野線 河内長野からバス",
+   "lines": [
+    "南海",
+    "近鉄"
+   ],
+   "target": "入園料が無料（通常は大人580円）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20721/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-67",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "シマノ自転車博物館（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "南海高野線 堺東",
+   "lines": [
+    "南海"
+   ],
+   "target": "入館料（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20536/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-68",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "大阪市立長居植物園（関西文化の日）",
+   "place": "大阪市東住吉区",
+   "station": "Osaka Metro御堂筋線 長居",
+   "lines": [],
+   "target": "入園料（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20631/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-69",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "小谷城郷土館（関西文化の日）",
+   "place": "堺市南区",
+   "station": "泉北線 泉ヶ丘からバス",
+   "lines": [],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20552/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-70",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "旧杉山家住宅（関西文化の日）",
+   "place": "富田林市",
+   "station": "近鉄長野線 富田林",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20568/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-71",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "太子町立竹内街道歴史資料館（関西文化の日）",
+   "place": "南河内郡太子町",
+   "station": "近鉄 上ノ太子・喜志からバス 太子町役場",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20634/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-72",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "八尾市立歴史民俗資料館（関西文化の日）",
+   "place": "八尾市",
+   "station": "近鉄信貴線 服部川",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "常設展・特別展",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21185/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-73",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "安中新田会所跡 旧植田家住宅（関西文化の日）",
+   "place": "八尾市",
+   "station": "JR大和路線 八尾",
+   "lines": [
+    "JR"
+   ],
+   "target": "すべての展示・11/14は夜間開館で20時30分まで",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21010/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-74",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "柏原市立歴史資料館（関西文化の日）",
+   "place": "柏原市",
+   "station": "JR大和路線 高井田",
+   "lines": [
+    "JR"
+   ],
+   "target": "入館料（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20478/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-75",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "八尾市立しおんじやま古墳学習館（関西文化の日）",
+   "place": "八尾市",
+   "station": "近鉄大阪線 河内山本からバス 大竹",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "常設展示（古墳はいつでも無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20703/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-76",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "きしわだ自然資料館（関西文化の日）",
+   "place": "岸和田市",
+   "station": "南海線 岸和田",
+   "lines": [
+    "南海"
+   ],
+   "target": "すべての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20426/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-77",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "泉佐野ふるさと町屋館 旧新川家住宅（関西文化の日）",
+   "place": "泉佐野市",
+   "station": "南海本線 泉佐野",
+   "lines": [
+    "南海"
+   ],
+   "target": "全ての展示（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20521/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-78",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "都心",
+   "name": "大阪企業家ミュージアム（関西文化の日）",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro 堺筋本町",
+   "lines": [],
+   "target": "入館料（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20447/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-79",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "第52回 西成区民まつり",
+   "place": "大阪市西成区（西成区役所・西成区民センター）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-80",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "大阪府立弥生文化博物館（関西文化の日）",
+   "place": "和泉市",
+   "station": "JR阪和線 信太山",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "全ての展示・11/15のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20533/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-81",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "area": "都心",
+   "name": "大阪国際平和センター（ピースおおさか）（関西文化の日）",
+   "place": "大阪市中央区",
+   "station": "JR環状線・Osaka Metro 森ノ宮",
+   "lines": [
+    "JR"
+   ],
+   "target": "常設展と当日の特別展・11/15のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20688/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-82",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "area": "都心",
+   "name": "道頓堀ミュージアム並木座（関西文化の日）",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro・近鉄 日本橋",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "常設展・11/15の13時から17時",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21170/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-84",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "area": "南",
+   "name": "堺 アルフォンス・ミュシャ館（関西文化の日）",
+   "place": "堺市堺区",
+   "station": "JR阪和線 堺市",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "すべての展示・11/17（火）のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21016/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-85",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "area": "都心",
+   "name": "大阪府立中之島図書館 書庫見学ツアー",
+   "place": "大阪市北区",
+   "station": "Osaka Metro 淀屋橋・京阪 なにわ橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・15時から約30分・先着10名",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（当日14時45分から受付）",
+   "source": "https://www.library.pref.osaka.jp/119911",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-86",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "area": "南",
+   "name": "堺市立みはら歴史博物館（関西文化の日）",
+   "place": "堺市美原区",
+   "station": "南海高野線 北野田からバス 黒姫山古墳前",
+   "lines": [
+    "南海"
+   ],
+   "target": "全ての展示・常設展（通常有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21013/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-87",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "area": "都心",
+   "name": "四天王寺 大師会・太子会（11月分）",
+   "place": "大阪市天王寺区",
+   "station": "地下鉄 四天王寺前夕陽ヶ丘",
+   "lines": [],
+   "target": "境内の露店は無料。22日は中心伽藍も無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.shitennoji.or.jp/event/index.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-88",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "area": "北東",
+   "name": "第52回 東淀川区民まつり",
+   "place": "大阪市東淀川区（区役所ほか）",
+   "station": "要確認",
+   "lines": [],
+   "target": "入場無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-89",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "area": "東",
+   "name": "鴻池新田会所（関西文化の日）",
+   "place": "東大阪市",
+   "station": "JR学研都市線 鴻池新田",
+   "lines": [
+    "JR"
+   ],
+   "target": "筑前琵琶・創作講談・シャンソンの催しが無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "一覧に記載なし（不要かは未確認）",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20597/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-90",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-28",
+   "end": "2026-11-29",
+   "area": "北",
+   "name": "水道記念館 ウォーターフェスティバル（11月の回）",
+   "place": "大阪市東淀川区",
+   "station": "阪急千里線 柴島（駅は推定）",
+   "lines": [
+    "阪急"
+   ],
+   "target": "無料・事前申込み制",
+   "targets": [
+    "all"
+   ],
+   "apply": "11/15締切",
+   "source": "https://www.city.osaka.lg.jp/hodoshiryo/suido/0000685533.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-91",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-06",
+   "end": "2026-11-15",
+   "area": "都心",
+   "name": "大阪城天守閣・豊臣石垣館 大阪市民1万人無料招待（各日1000人・9時〜18時）",
+   "place": "大阪市中央区",
+   "station": "JR環状線・Osaka Metro 森ノ宮ほか",
+   "lines": [
+    "JR"
+   ],
+   "target": "大阪市内在住の人・天守閣と豊臣石垣館が無料（65歳以上と中学生以下は申込みなしでも無料）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "要申込み・先着順・大阪市行政オンラインシステムで10/31 23:59締切",
+   "source": "https://www.city.osaka.lg.jp/keizaisenryaku/page/0000683946.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-92",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "大阪市立自然史博物館 常設展",
+   "place": "大阪市東住吉区",
+   "station": "Osaka Metro御堂筋線 長居",
+   "lines": [],
+   "target": "大阪市内在住の65歳以上と中学生以下は常設展が無料（65歳以上は住所と年齢が分かる公的な証明が要る・月曜休館）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.omnh.jp/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-93",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "堺市博物館",
+   "place": "堺市堺区",
+   "station": "JR阪和線 百舌鳥",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "堺市在住の65歳以上と堺市在住・在学の小中学生は無料（要証明・月曜休館・特別展は料金が変わる場合あり）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.sakai.lg.jp/kanko/hakubutsukan/annai/kaikanzikan.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-94",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "咲くやこの花館（鶴見緑地の大温室）",
+   "place": "大阪市鶴見区",
+   "station": "長堀鶴見緑地線 鶴見緑地（推定）",
+   "lines": [],
+   "target": "大阪市内在住の65歳以上と中学生以下は無料（免許証や敬老優待乗車証の原本で住所と年齢を示す・月曜休館）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.sakuyakonohana.jp/about/entrance",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-95",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "国立国際美術館 コレクション展",
+   "place": "大阪市北区",
+   "station": "京阪中之島線 渡辺橋・Osaka Metro 肥後橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "65歳以上と高校生以下・18歳未満はコレクション展が無料（年齢の分かる物を持参・月曜休館）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.nmao.go.jp/visit/admission/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-0",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-12",
+   "area": "北東",
+   "name": "京都御所 秋の特別公開「宮廷文化の紹介」（範囲内は11日・12日）",
+   "place": "京都市上京区",
+   "station": "地下鉄烏丸線 今出川",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "誰でも・参観無料（11日は蹴鞠、12日は雅楽。各10時・11時）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://kyoto-gosho.kunaicho.go.jp/notice",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "kansai-2026-10-07-1",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-11-29",
+   "area": "東",
+   "name": "平城宮いざない館 秋期特別展「平城遷都」（11/9休館）",
+   "place": "奈良市",
+   "station": "近鉄 大和西大寺（推定）",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・入館無料（ふだんから無料の施設・9時〜17時）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nabunken.go.jp/news/docs/20260626press.pdf",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-2",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-11-30",
+   "area": "北東",
+   "name": "京都国立近代美術館 コレクション展（18歳未満・65歳以上は常に無料。10/5〜10/23は展示替えで休館）",
+   "place": "京都市左京区",
+   "station": "市バス 岡崎公園 美術館・平安神宮前",
+   "lines": [
+    "市バス"
+   ],
+   "target": "18歳未満と高校生以下と65歳以上・コレクション・ギャラリー（第3回コレクション展 10/24〜1/17）のみ・年齢の分かる物を持参（推定）。月曜と11/24は休館",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.momak.go.jp/Japanese/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-3",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-11-30",
+   "area": "西",
+   "name": "神戸市立博物館 コレクション展示室（市民の高齢者・高校生以下は常に無料）",
+   "place": "神戸市中央区",
+   "station": "JR・阪神・阪急 三ノ宮／元町",
+   "lines": [
+    "阪急",
+    "阪神",
+    "JR"
+   ],
+   "target": "神戸市内在住の65歳以上（住所の分かる証明）と高校生以下（学生証など）・コレクション展示室。1階「神戸の歴史展示室」は誰でも無料",
+   "targets": [
+    "all",
+    "child",
+    "senior"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.kobecitymuseum.jp/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-4",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-11-30",
+   "area": "西",
+   "name": "姫路城（18歳未満と姫路市民の高齢者は常に無料）",
+   "place": "姫路市",
+   "station": "JR・山陽 姫路",
+   "lines": [
+    "山陽",
+    "JR"
+   ],
+   "target": "18歳未満（18歳後の最初の3月31日まで）と姫路市在住の65歳以上（姫路市の高齢者福祉優待カードを見せる）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.himejicastle.jp/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-6",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-22",
+   "end": "2026-10-22",
+   "area": "北東",
+   "name": "時代祭（平安神宮の行列。雨なら23日）",
+   "place": "京都市上京区〜左京区",
+   "station": "地下鉄 京都市役所前・東山ほか",
+   "lines": [],
+   "target": "沿道で見るのは無料（有料観覧席もある）。先頭は京都御苑12時頃・御池通13時20分頃・神宮道14時20分頃",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://ja.kyoto.travel/event/major/jidai/seat.php",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-7",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "京都府庁旧本館 観芸祭（重要文化財の洋館）",
+   "place": "京都市上京区",
+   "station": "地下鉄烏丸線 丸太町（推定）",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "誰でも・旧本館の見学とガイドツアー（10〜17時・ツアーは予約不要。3日のマルシェの買い物は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.kyoto.jp/koho/dayori/202610/close_up.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-8",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "area": "西",
+   "name": "バンドー神戸青少年科学館（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "ポートライナー 南公園",
+   "lines": [],
+   "target": "誰でも・展示室のみ（プラネタリウムは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20955/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-9",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "北",
+   "name": "川西市郷土館（関西文化の日）",
+   "place": "川西市",
+   "station": "能勢電鉄 山下",
+   "lines": [],
+   "target": "誰でも・すべて",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20961/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-10",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "市立伊丹ミュージアム（関西文化の日）",
+   "place": "伊丹市",
+   "station": "JR宝塚線 伊丹・阪急 伊丹",
+   "lines": [
+    "JR宝塚線",
+    "阪急"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21204/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-11",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "京都府立植物園（関西文化の日）",
+   "place": "京都市左京区",
+   "station": "地下鉄烏丸線 北山",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし。入園料が無料と推定）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20451/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-12",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "けいはんな記念公園 水景園（関西文化の日）",
+   "place": "相楽郡精華町",
+   "station": "JR祝園・近鉄新祝園からバス",
+   "lines": [
+    "近鉄",
+    "JR"
+   ],
+   "target": "誰でも・水景園の入園",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20406/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-13",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "城陽市歴史民俗資料館（関西文化の日）",
+   "place": "城陽市",
+   "station": "近鉄京都線 寺田",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示（秋季特別展を含む）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20790/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-14",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "南",
+   "name": "南方熊楠記念館（関西文化の日）",
+   "place": "西牟婁郡白浜町",
+   "station": "JR きのくに線 白浜からタクシー",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・常設展示（特別展があればそれも）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20518/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-15",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "東",
+   "name": "飛鳥資料館（関西文化の日）",
+   "place": "高市郡明日香村",
+   "station": "近鉄 橿原神宮前からバス",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20434/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-16",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "東",
+   "name": "桜井市立埋蔵文化財センター（関西文化の日・1回目）",
+   "place": "桜井市",
+   "station": "JR桜井線 三輪",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20708/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-17",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-11-08",
+   "area": "北東",
+   "name": "京都市青少年科学センター（青少年のための科学の祭典の日）",
+   "place": "京都市伏見区",
+   "station": "京阪 藤森",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・常設展と企画展（プラネタリウムは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20917/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-18",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-12",
+   "end": "2026-11-13",
+   "area": "西",
+   "name": "横尾忠則現代美術館（関西文化の日）",
+   "place": "神戸市灘区",
+   "station": "阪急神戸線 王子公園",
+   "lines": [
+    "阪急"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20850/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-19",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "area": "東",
+   "name": "高松塚壁画館（関西文化の日）",
+   "place": "高市郡明日香村",
+   "station": "近鉄吉野線 飛鳥",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20620/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-20",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "area": "西",
+   "name": "芦屋市立美術博物館（関西文化の日）",
+   "place": "芦屋市",
+   "station": "阪神 芦屋",
+   "lines": [
+    "阪神"
+   ],
+   "target": "誰でも・全ての展示（特別展「浮世絵の風景画を楽しむ 広重＋北斎」を含む）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20538/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-21",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "area": "西",
+   "name": "芦屋市谷崎潤一郎記念館（関西文化の日）",
+   "place": "芦屋市",
+   "station": "阪神・阪急・JR 芦屋からバス",
+   "lines": [
+    "阪急",
+    "阪神",
+    "JR"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20455/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-22",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-14",
+   "area": "北東",
+   "name": "京都市学校歴史博物館（関西文化の日）",
+   "place": "京都市下京区",
+   "station": "阪急京都線 京都河原町",
+   "lines": [
+    "阪急"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20861/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-23",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-14",
+   "area": "北東",
+   "name": "京都工芸繊維大学 美術工芸資料館（関西文化の日）",
+   "place": "京都市左京区",
+   "station": "地下鉄烏丸線 松ヶ崎",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21134/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-24",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "北東",
+   "name": "立命館大学 国際平和ミュージアム（関西文化の日）",
+   "place": "京都市北区",
+   "station": "市バス 立命館大学前",
+   "lines": [
+    "市バス"
+   ],
+   "target": "誰でも・全ての展示（常設展・企画展）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20932/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-25",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "西",
+   "name": "神戸海洋博物館・カワサキワールド（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "JR・阪神 元町（推定）",
+   "lines": [
+    "阪神",
+    "JR"
+   ],
+   "target": "誰でも・範囲は一覧・施設ページとも記載なし",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/22325/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-26",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "西",
+   "name": "堀江オルゴール博物館（関西文化の日）",
+   "place": "西宮市",
+   "station": "阪急 夙川・JR 芦屋からバス",
+   "lines": [
+    "阪急",
+    "JR"
+   ],
+   "target": "誰でも・博物館1階とロビー（10〜16時）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20470/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-27",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "西",
+   "name": "鶴林寺 宝物館（関西文化の日）",
+   "place": "加古川市",
+   "station": "JR神戸線 加古川からバス",
+   "lines": [
+    "JR神戸線"
+   ],
+   "target": "誰でも・全ての展示（企画展「聖徳太子絵伝の魅力」）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20448/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-28",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北",
+   "name": "兵庫県立人と自然の博物館（関西文化の日）",
+   "place": "三田市",
+   "station": "神戸電鉄 フラワータウン",
+   "lines": [],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20751/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-29",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "京都市京セラ美術館（関西文化の日）",
+   "place": "京都市左京区",
+   "station": "地下鉄東西線 東山（推定）",
+   "lines": [
+    "地下鉄東西線"
+   ],
+   "target": "誰でも・コレクションルーム秋期（特集「美術館物語 市美の産声」）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/11391/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-30",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "京都文化博物館（関西文化の日）",
+   "place": "京都市中京区",
+   "station": "地下鉄 烏丸御池",
+   "lines": [],
+   "target": "誰でも・常設展（総合展示）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20655/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-31",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "宇治市源氏物語ミュージアム（関西文化の日）",
+   "place": "宇治市",
+   "station": "京阪宇治線 宇治",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20570/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-32",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "京都府立堂本印象美術館（関西文化の日）",
+   "place": "京都市北区",
+   "station": "市バス・JRバス 立命館大学前",
+   "lines": [
+    "市バス",
+    "JR"
+   ],
+   "target": "誰でも・特別企画展「モデルになったミューズたち」",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21108/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-33",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "京都大学総合博物館（関西文化の日）",
+   "place": "京都市左京区",
+   "station": "市バス 百万遍",
+   "lines": [
+    "市バス"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20910/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-34",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "大谷大学博物館（関西文化の日）",
+   "place": "京都市北区",
+   "station": "地下鉄烏丸線 北大路",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "誰でも・ふだん有料の特別展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20619/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-35",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "京都府立山城郷土資料館（関西文化の日）",
+   "place": "木津川市",
+   "station": "JR奈良線 上狛",
+   "lines": [
+    "JR奈良線"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20899/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-36",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "亀岡市文化資料館（関西文化の日）",
+   "place": "亀岡市",
+   "station": "JR嵯峨野線 亀岡",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・全ての展示（特別展「丹波と都をつなぐ 角倉了以・素庵の挑戦」を含む）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20698/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-37",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "和歌山県立博物館（関西文化の日）",
+   "place": "和歌山市",
+   "station": "JR和歌山・南海和歌山市からバス 県庁前",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "誰でも・全ての展示（常設展・企画展「くらひらく」）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20814/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-38",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "和歌山県立近代美術館（関西文化の日）",
+   "place": "和歌山市",
+   "station": "JR和歌山・南海和歌山市からバス 県庁前",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20710/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-39",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "和歌山市立博物館（関西文化の日）",
+   "place": "和歌山市",
+   "station": "南海 和歌山市",
+   "lines": [
+    "南海"
+   ],
+   "target": "誰でも・すべての展示（特別展「川合小梅の世界」を含む）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20640/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-40",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "和歌山県立自然博物館（関西文化の日）",
+   "place": "海南市",
+   "station": "JR きのくに線 海南からバス",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20712/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-41",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "湊御殿（奥御殿）（関西文化の日）",
+   "place": "和歌山市",
+   "station": "JR和歌山からバス 養翠園前",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20404/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-42",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "和歌山県書道資料館（関西文化の日）",
+   "place": "和歌山市",
+   "station": "和歌山バス 市役所前",
+   "lines": [],
+   "target": "誰でも・全ての展示（「天石東村の書 壮年期作品展」）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20810/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-43",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "南",
+   "name": "旧中筋家住宅（関西文化の日）",
+   "place": "和歌山市",
+   "station": "JR和歌山線 千旦",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21126/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-44",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "奈良国立博物館（関西文化の日）",
+   "place": "奈良市",
+   "station": "近鉄奈良線 近鉄奈良",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・常設展（ただし仏像館は休館中で、開いている青銅器館はふだんも無料。得は小さい）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20395/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-45",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "奈良県立橿原考古学研究所附属博物館（関西文化の日）",
+   "place": "橿原市",
+   "station": "近鉄橿原線 畝傍御陵前",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20933/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-46",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "奈良県立万葉文化館（関西文化の日）",
+   "place": "高市郡明日香村",
+   "station": "近鉄 橿原神宮前・飛鳥からバス",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示（ふだん有料の特別展も）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20532/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-47",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "唐古・鍵考古学ミュージアム（関西文化の日）",
+   "place": "磯城郡田原本町",
+   "station": "近鉄橿原線 田原本",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20423/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-48",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "奈良市杉岡華邨書道美術館（関西文化の日）",
+   "place": "奈良市",
+   "station": "近鉄奈良線 近鉄奈良",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての観覧料（企画展「なら華邨賞三人展」ほか）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20803/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-49",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "入江泰吉旧居（関西文化の日）",
+   "place": "奈良市",
+   "station": "近鉄奈良線 近鉄奈良",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・入館（この2日間のみ無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20616/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-50",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "名勝 旧大乗院庭園（関西文化の日）",
+   "place": "奈良市",
+   "station": "JR桜井線 京終",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20662/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-51",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "柳沢文庫（関西文化の日）",
+   "place": "大和郡山市",
+   "station": "近鉄橿原線 近鉄郡山",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・企画展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20535/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-52",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "葛城市歴史博物館（関西文化の日）",
+   "place": "葛城市",
+   "station": "近鉄御所線 忍海",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・常設展と特別展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21003/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-53",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "歴史に憩う橿原市博物館（関西文化の日）",
+   "place": "橿原市",
+   "station": "近鉄 橿原神宮前からバス",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20639/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-54",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "橿原市立こども科学館（関西文化の日）",
+   "place": "橿原市",
+   "station": "近鉄 畝傍御陵前",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20783/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-55",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "大神神社 宝物収蔵庫（関西文化の日）",
+   "place": "桜井市",
+   "station": "JR桜井線 三輪",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20642/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-56",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "桜井市立埋蔵文化財センター（関西文化の日・2回目）",
+   "place": "桜井市",
+   "station": "JR桜井線 三輪",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20708/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-57",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "東",
+   "name": "宇陀市歴史文化館「薬の館」（関西文化の日）",
+   "place": "宇陀市",
+   "station": "近鉄大阪線 榛原からバス",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20735/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-58",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "兵庫県立美術館（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "阪神 岩屋・JR神戸線 灘",
+   "lines": [
+    "JR神戸線",
+    "阪神"
+   ],
+   "target": "誰でも・常設展（コレクション展）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20450/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-59",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "神戸市立博物館（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "JR・阪神・阪急 三ノ宮／元町",
+   "lines": [
+    "阪急",
+    "阪神",
+    "JR"
+   ],
+   "target": "誰でも・無料の範囲は一覧に記載なし（例年はコレクション展示室）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20853/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-60",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "風見鶏の館（旧トーマス住宅）（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "JR・阪急・阪神 三宮",
+   "lines": [
+    "阪急",
+    "阪神",
+    "JR"
+   ],
+   "target": "誰でも・入館料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20617/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-61",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "兵庫県立兵庫津ミュージアム（関西文化の日）",
+   "place": "神戸市兵庫区",
+   "station": "地下鉄海岸線 中央市場前",
+   "lines": [],
+   "target": "誰でも・常設展・初代県庁館・秋季企画展「兵庫津発掘」",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21202/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-62",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "孫文記念館（移情閣）（関西文化の日）",
+   "place": "神戸市垂水区",
+   "station": "JR神戸線 舞子",
+   "lines": [
+    "JR神戸線"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20765/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-63",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "神戸華僑歴史博物館（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "JR・阪神 元町",
+   "lines": [
+    "阪神",
+    "JR"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21210/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-64",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "湊川神社 宝物殿（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "阪急・阪神・山陽 高速神戸",
+   "lines": [
+    "阪急",
+    "阪神",
+    "山陽"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20697/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-65",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "近松記念館（関西文化の日）",
+   "place": "尼崎市",
+   "station": "JR宝塚線 塚口",
+   "lines": [
+    "JR宝塚線"
+   ],
+   "target": "誰でも・常設展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21028/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-66",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "兵庫県立考古博物館（関西文化の日）",
+   "place": "加古郡播磨町",
+   "station": "JR神戸線 土山",
+   "lines": [
+    "JR神戸線"
+   ],
+   "target": "誰でも・常設展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20985/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-67",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "兵庫県立歴史博物館（関西文化の日）",
+   "place": "姫路市",
+   "station": "JR・山陽 姫路からバス",
+   "lines": [
+    "山陽",
+    "JR"
+   ],
+   "target": "誰でも・常設展のみ",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20601/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-68",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "姫路文学館（関西文化の日）",
+   "place": "姫路市",
+   "station": "JR 姫路からバス",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・常設展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20506/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-69",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-15",
+   "end": "2026-11-15",
+   "area": "北東",
+   "name": "京都国立近代美術館（関西文化の日）",
+   "place": "京都市左京区",
+   "station": "市バス 岡崎公園 美術館・平安神宮前",
+   "lines": [
+    "市バス"
+   ],
+   "target": "誰でも・コレクション・ギャラリー（館のカレンダーに無料観覧日と記載）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20914/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-70",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-16",
+   "end": "2026-11-16",
+   "area": "西",
+   "name": "姫路市立動物園（関西文化の日）",
+   "place": "姫路市",
+   "station": "JR・山陽 姫路",
+   "lines": [
+    "山陽",
+    "JR"
+   ],
+   "target": "誰でも・全て",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20723/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-71",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "area": "西",
+   "name": "人と防災未来センター（関西文化の日）",
+   "place": "神戸市中央区",
+   "station": "阪神 岩屋・春日野道／JR 灘",
+   "lines": [
+    "阪神",
+    "JR"
+   ],
+   "target": "誰でも・展示エリア全て",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20871/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-72",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "area": "北東",
+   "name": "漢検 漢字博物館・図書館（漢字ミュージアム）（関西文化の日）",
+   "place": "京都市東山区",
+   "station": "京阪 祇園四条",
+   "lines": [
+    "京阪"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21164/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-73",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-19",
+   "end": "2026-11-19",
+   "area": "東",
+   "name": "天理大学附属天理参考館（関西文化の日）",
+   "place": "天理市",
+   "station": "JR・近鉄 天理",
+   "lines": [
+    "近鉄",
+    "JR"
+   ],
+   "target": "誰でも・全ての展示（企画展も）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20422/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-74",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "area": "北東",
+   "name": "宇治市植物公園（関西文化の日）",
+   "place": "宇治市",
+   "station": "JR宇治・京阪宇治・近鉄大久保からバス",
+   "lines": [
+    "京阪",
+    "近鉄",
+    "JR"
+   ],
+   "target": "誰でも・入園料（駐車料金は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20627/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-75",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-22",
+   "end": "2026-11-23",
+   "area": "東",
+   "name": "葛城市相撲館「けはや座」（関西文化の日）",
+   "place": "葛城市",
+   "station": "近鉄南大阪線 当麻寺",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "誰でも・全ての展示（22日14時から相撲甚句）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20864/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-76",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "area": "北",
+   "name": "鉄斎美術館（清荒神清澄寺）（関西文化の日）",
+   "place": "宝塚市",
+   "station": "阪急宝塚線 清荒神（推定）",
+   "lines": [
+    "阪急"
+   ],
+   "target": "誰でも・企画展",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20876/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-77",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "area": "西",
+   "name": "姫路市立水族館（関西文化の日）",
+   "place": "姫路市",
+   "station": "山陽電車 手柄",
+   "lines": [
+    "山陽"
+   ],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20667/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-78",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "area": "北東",
+   "name": "京都国際マンガミュージアム（関西文化の日）",
+   "place": "京都市中京区",
+   "station": "地下鉄 烏丸御池",
+   "lines": [],
+   "target": "誰でも・全館（有料イベント等を除く）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21024/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-79",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-28",
+   "end": "2026-11-30",
+   "area": "北東",
+   "name": "京都伝統工芸館（関西文化の日）",
+   "place": "京都市中京区",
+   "station": "地下鉄 烏丸御池",
+   "lines": [],
+   "target": "誰でも・全ての展示",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20544/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-80",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-10-01",
+   "end": "2026-11-30",
+   "area": "南",
+   "name": "道成寺 本堂の秋の無料公開（関西文化の日）",
+   "place": "日高郡日高川町",
+   "station": "JR紀勢本線 道成寺",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・本堂（春秋の公開期間の外は入れない）。縁起堂・宝仏殿は有料（大人700円）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20547/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-81",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "西",
+   "name": "BBプラザ美術館（関西文化の日）",
+   "place": "神戸市灘区",
+   "station": "阪神 岩屋・JR神戸線 灘",
+   "lines": [
+    "JR神戸線",
+    "阪神"
+   ],
+   "target": "誰でも・全ての展示（ふだんはコレクション展が一般500円）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20638/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-82",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "北東",
+   "name": "舞鶴市立赤れんが博物館（関西文化の日）",
+   "place": "舞鶴市",
+   "station": "JR舞鶴線 東舞鶴",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも・常設展示（ふだんは大人400円）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/21132/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-83",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-02",
+   "area": "西",
+   "name": "あかりの鹿児資料館（関西文化の日・臨時開館）",
+   "place": "加古川市",
+   "station": "JR神戸線 加古川から神姫バス 加古川簡易裁判所南（駅は推定）",
+   "lines": [
+    "JR神戸線"
+   ],
+   "target": "誰でも・ふだん有料の施設（大人300円）。無料の範囲は一覧に記載なし",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20494/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-84",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "北東",
+   "name": "新島旧邸 特別公開（関西文化の日。11/29も特別公開）",
+   "place": "京都市上京区",
+   "station": "地下鉄烏丸線 丸太町",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "誰でも・この日は建物の中（母屋1階と付属屋）に入れる。ふだんは外から見るだけ（ふだんの公開も無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.the-kansai-guide.com/ja/directory/item/20776/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-85",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "北東",
+   "name": "護王神社 亥子祭（17時〜21時ごろ。平安朝の古い儀式で御所の清所門まで行列）",
+   "place": "京都市上京区",
+   "station": "地下鉄烏丸線 丸太町（推定）",
+   "lines": [
+    "地下鉄烏丸線"
+   ],
+   "target": "料金記載なし・誰でも参列と拝観ができる（自由拝観席は当日受付で約70席・満席なら後ろで立ち見）。特別拝観席は3000円以上の御供が要る",
+   "targets": [
+    "all"
+   ],
+   "apply": "特別拝観席だけ10/13〜10/23に社頭か電話で申込み（先着約40席）",
+   "source": "https://www.gooujinja.or.jp/202610031265/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-86",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北東",
+   "name": "京都国立近代美術館 コレクション・ギャラリー無料観覧日",
+   "place": "京都市左京区",
+   "station": "市バス 岡崎公園 美術館・平安神宮前",
+   "lines": [
+    "市バス"
+   ],
+   "target": "誰でも・コレクション・ギャラリー（第3回コレクション展）。展覧会「ジュエリーは、誰を夢みる」は有料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.momak.go.jp/Japanese/eventCalendar/?sy=2026-11",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-89",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "和歌山県立近代美術館（高校生以下と65歳以上は常に無料）",
+   "place": "和歌山市",
+   "station": "JR和歌山・南海和歌山市からバス 県庁前",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "高校生以下と65歳以上は常設展も企画展も無料（無料でも券は受け取る・証明を受付で見せる）。月曜休館（祝日なら翌日）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.momaw.jp/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-90",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "和歌山県立博物館（高校生以下と65歳以上は常に無料）",
+   "place": "和歌山市",
+   "station": "JR和歌山・南海和歌山市からバス 県庁前",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "高校生以下と65歳以上は常設展・企画展が無料（特別展の期間は別料金）・保険証などを受付で見せる",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://hakubutu.wakayama.jp/guide-menu/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-91",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北東",
+   "name": "京都市京セラ美術館 コレクションルーム（京都市民の70歳以上と市内の小中高生は無料）",
+   "place": "京都市左京区",
+   "station": "地下鉄東西線 東山（推定）",
+   "lines": [
+    "地下鉄東西線"
+   ],
+   "target": "京都市在住の70歳以上（身分証）と京都市内在住・通学の小中高生（住所の分かる物）と小学生未満・コレクションルームのみ。月曜休館（祝日は開館）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://kyotocity-kyocera.museum/exhibition/20261009-20261213",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-92",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "平城宮跡資料館（誰でもいつでも入館無料）",
+   "place": "奈良市",
+   "station": "近鉄 大和西大寺（推定）",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "いつでも入館無料・9時〜16時30分（入館は16時まで）。月曜休館（祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nabunken.go.jp/heijo/museum/information.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "kansai-2026-10-07-93",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "神戸市立王子動物園（中学生以下と神戸市民の65歳以上は常に無料）",
+   "place": "神戸市灘区",
+   "station": "阪急神戸線 王子公園",
+   "lines": [
+    "阪急"
+   ],
+   "target": "中学生以下と神戸市内在住の65歳以上（住所・氏名・生年月日の分かる公的書類の原本）と神戸市内在住・在学の高校生（学生証）。水曜休園（祝日は開園）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.kobe-ojizoo.jp/info/detail/?id=681",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-0",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-09-17",
+   "end": "2026-10-24",
+   "area": "都心",
+   "name": "あいち・なごやアート＆ライツ（名古屋市役所本庁舎・愛知県庁本庁舎）",
+   "place": "名古屋市中区",
+   "station": "地下鉄名城線 名古屋城",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "観覧無料・18:30〜21:00・会期中休みなし（荒天は中止あり）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（事前予約不要）",
+   "source": "https://aichinagoyaartlights.com/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-1",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-09-18",
+   "end": "2026-10-25",
+   "area": "都心",
+   "name": "市政資料館 アバターで判事・検事・弁護人なりきり動画体験（旧裁判所の建物）",
+   "place": "名古屋市東区",
+   "station": "地下鉄名城線 名古屋城・名鉄瀬戸線 東大手",
+   "lines": [
+    "地下鉄名城線",
+    "名鉄"
+   ],
+   "target": "入館料・体験料とも無料・休館日10/13・10/15・10/19",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（18歳未満は保護者の同意）",
+   "source": "https://www.city.nagoya.jp/kankou/rekishi/1004614/1004627/1053609.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-3",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-06",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "名古屋まつりポスター展（歴代ポスター・過去の資料）",
+   "place": "名古屋市東区",
+   "station": "地下鉄名城線 名古屋城・名鉄瀬戸線 東大手",
+   "lines": [
+    "地下鉄名城線",
+    "名鉄"
+   ],
+   "target": "名古屋市市政資料館はもともと入館無料・会場は3階第1一般展示室・10/13と10/15は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/houdou/_res/projects/project_houdou/_page_/003/004/676/r8jigyokeikaku6.pdf",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-4",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-09",
+   "end": "2026-10-11",
+   "area": "都心",
+   "name": "第47回 大須大道町人祭（大道芸・おいらん道中）",
+   "place": "名古屋市中区",
+   "station": "地下鉄 大須観音・上前津",
+   "lines": [],
+   "target": "観覧無料（大須商店街一帯の路上）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nagoya-info.jp/news/detail/1431/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-5",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-10",
+   "end": "2026-11-15",
+   "area": "南東",
+   "name": "鶴舞公園秋まつり2026",
+   "place": "名古屋市昭和区",
+   "station": "JR中央線・地下鉄鶴舞線 鶴舞",
+   "lines": [
+    "JR中央線",
+    "地下鉄鶴舞線"
+   ],
+   "target": "公園への入場は無料・催しごとの料金は記載なし・10/21は緑化センター休館日",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://tsurumapark.info/event/2065/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-6",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-11",
+   "end": "2026-10-25",
+   "area": "南",
+   "name": "NAGOYA PORT FES（Mini ASIAN Village・みなとスポーツ広場）",
+   "place": "名古屋市港区",
+   "station": "地下鉄名港線 名古屋港",
+   "lines": [],
+   "target": "入場無料（飲食物と一部の体験は材料費）・9月以降は金土日祝のみ・11:00-21:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://sites.google.com/i-biz-a.co.jp/mini-asian-village/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-7",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-03",
+   "end": "2026-11-15",
+   "area": "西",
+   "name": "名古屋市秀吉清正記念館 特別陳列「ここ中村で60年 秀吉清正記念館のコレクション」",
+   "place": "名古屋市中村区",
+   "station": "地下鉄東山線 中村公園",
+   "lines": [
+    "地下鉄東山線"
+   ],
+   "target": "観覧無料（もともと無料）・月曜休館（10/12開館・10/13休館）・10/27休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005480.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-8",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "東",
+   "name": "名古屋大学ホームカミングデイ（どなたでも参加可・スパコン見学ツアーあり）",
+   "place": "名古屋市千種区",
+   "station": "地下鉄名城線 名古屋大学",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "基本無料（キッチンカーなど一部有料）・スパコン「不老・弐」見学ツアーは10:00-16:00 情報基盤センター",
+   "targets": [
+    "all"
+   ],
+   "apply": "企画ごとに異なる（ツアーの企画ページに申込みの記載なし）",
+   "source": "https://hcd.adm.nagoya-u.ac.jp/2026/kikaku/event/202606/313/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-9",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-17",
+   "area": "都心",
+   "name": "やっとかめ文化祭 まちなか芸披露オープニング（ナディアパーク・アトリウム）",
+   "place": "名古屋市中区",
+   "station": "地下鉄名城線 矢場町",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "観覧無料・13:00から",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし（出演者のしゃちほこチャレンジは別受付）",
+   "source": "https://yattokame.jp/2026/hirou/5697.html",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-10",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "西",
+   "name": "豊臣ミュージアム（大河ドラマ館を含む・名古屋まつり無料開放）",
+   "place": "名古屋市中村区",
+   "station": "地下鉄東山線 中村公園",
+   "lines": [
+    "地下鉄東山線"
+   ],
+   "target": "全員無料・全施設",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005243.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-11",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "第72回 名古屋まつり（2026年は行列なし・フラワーカーと英傑行列フロートの展示・山車からくり・盆踊り）",
+   "place": "名古屋市中区ほか",
+   "station": "地下鉄 栄・矢場町・久屋大通",
+   "lines": [],
+   "target": "観覧無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005243.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-12",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "名古屋城（名古屋まつり無料開放）",
+   "place": "名古屋市中区",
+   "station": "地下鉄名城線 名古屋城（7番出口 徒歩5分）",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "全員無料・9:00-16:30（本丸御殿と西の丸御蔵城宝館は16:00まで入場）・天守閣は閉館中",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-15",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "南",
+   "name": "白鳥庭園 入園無料日（名古屋まつり）",
+   "place": "名古屋市熱田区",
+   "station": "地下鉄名城線 熱田神宮西（4番出口 徒歩約10分）",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "入園無料・入園16:30まで（茶会1000円・ギャラリートーク500円・苔観察ツアー1000円は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.shirotori-garden.jp/calendar/nagoyamatsuri/index.html",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-16",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "東山動植物園（名古屋まつり無料開園）",
+   "place": "名古屋市千種区",
+   "station": "地下鉄東山線 東山公園",
+   "lines": [
+    "地下鉄東山線"
+   ],
+   "target": "全員無料・入園16:30まで",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.higashiyama.city.nagoya.jp/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-17",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "東山スカイタワー（名古屋まつり無料開放）",
+   "place": "名古屋市千種区",
+   "station": "地下鉄東山線 星ヶ丘",
+   "lines": [
+    "地下鉄東山線"
+   ],
+   "target": "全員無料・展望台・入館21:00まで",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-18",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "徳川園（名古屋まつり無料開放）",
+   "place": "名古屋市東区",
+   "station": "JR・名鉄・地下鉄 大曽根",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "全員無料・庭園（徳川美術館は含まない）・入園17:00まで",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-19",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "揚輝荘（名古屋まつり無料開放）",
+   "place": "名古屋市千種区",
+   "station": "地下鉄東山線 覚王山",
+   "lines": [
+    "地下鉄東山線"
+   ],
+   "target": "全員無料・南園（聴松閣）の入館料が無料（北園はもともと無料）・9:30-16:30",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-20",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "東谷山フルーツパーク（名古屋まつり無料開放）",
+   "place": "名古屋市守山区",
+   "station": "JR中央本線・愛知環状鉄道 高蔵寺 徒歩25分（バスもあり）",
+   "lines": [
+    "JR"
+   ],
+   "target": "全員無料・無料の対象は世界の熱帯果樹温室・温室入館16:30まで",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-21",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "東",
+   "name": "体感！しだみ古墳群ミュージアム（名古屋まつり無料開放）",
+   "place": "名古屋市守山区",
+   "station": "ゆとりーとライン 上志段味 徒歩7分",
+   "lines": [
+    "ゆとりーとライン"
+   ],
+   "target": "全員無料・展示室・9:00-17:00（最終入館16:30）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-22",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "FUJIなごや科学館（名古屋まつり無料開放）",
+   "place": "名古屋市中区",
+   "station": "地下鉄 伏見",
+   "lines": [],
+   "target": "全員無料・常設展のみ（プラネタリウムと特別展は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.ncsm.city.nagoya.jp/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-23",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "名古屋市美術館（名古屋まつり無料開放）",
+   "place": "名古屋市中区",
+   "station": "地下鉄 伏見",
+   "lines": [],
+   "target": "全員無料・常設展のみ（企画展「ゴッホの跳ね橋と印象派の画家たち」は有料）・入場16:30まで",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.city.nagoya.jp/houdou/_res/projects/project_houdou/_page_/003/004/676/r8jigyokeikaku6.pdf",
+   "verified": "2026-10-09"
+  },
+  {
+   "id": "nagoya-2026-10-07-24",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "文化のみち二葉館（名古屋まつり無料開放）",
+   "place": "名古屋市東区",
+   "station": "地下鉄桜通線 高岳",
+   "lines": [
+    "地下鉄桜通線"
+   ],
+   "target": "全員の入館料が無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.futabakan.jp/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-25",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "都心",
+   "name": "文化のみち橦木館（名古屋まつり無料開放）",
+   "place": "名古屋市東区",
+   "station": "地下鉄桜通線 高岳",
+   "lines": [
+    "地下鉄桜通線"
+   ],
+   "target": "全員無料（喫茶は別）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-festival.jp/openplace/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-26",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-11-24",
+   "area": "南東",
+   "name": "移動美術館「花の時間」（愛知県美術館・陶磁美術館の作品約60点）",
+   "place": "豊川市（豊川市桜ヶ丘ミュージアム）",
+   "station": "JR飯田線 豊川・名鉄豊川線 豊川稲荷 徒歩約15分",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "誰でも観覧無料・月曜休（11/23は開館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://apmoa.museum/exhibition/mobilemuseum2026",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-27",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "area": "北",
+   "name": "【締切】あいち朝日遺跡ミュージアム 講演会（11/8・定員50人）",
+   "place": "清須市",
+   "station": "城北線 尾張星の宮 徒歩約9分／名鉄 新清洲 徒歩約22分",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "参加無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "要事前申込（Webフォームか窓口）・締切10/25・多ければ抽選で結果は10/30まで",
+   "source": "https://www.pref.aichi.jp/press-release/2026asahiisekikikakuten3.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-28",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-25",
+   "end": "2026-10-25",
+   "area": "東",
+   "name": "猪子石工場（ごみ処理工場）見学会",
+   "place": "名古屋市千種区",
+   "station": "市バス 香流橋東",
+   "lines": [
+    "市バス"
+   ],
+   "target": "無料（9:00-12:00・受付11:30まで）・荒天は中止あり",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/kurashi/gomi/1012398/1040278.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-30",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-26",
+   "end": "2026-11-30",
+   "area": "西",
+   "name": "愛知県埋蔵文化財調査センター 秋の特別公開2026",
+   "place": "弥富市",
+   "station": "JR・名鉄 弥富／近鉄弥富",
+   "lines": [
+    "近鉄",
+    "名鉄",
+    "JR"
+   ],
+   "target": "誰でも無料・土日祝は休館（11/3だけ特別開館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.aichi.jp/soshiki/maizobunkazai/akitoku26-1.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-33",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-01",
+   "area": "南東",
+   "name": "ええじゃないか豊橋まつり",
+   "place": "豊橋市",
+   "station": "JR・名鉄 豊橋",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "基本無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.toyohashimatsuri.jp/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-35",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-11-23",
+   "area": "都心",
+   "name": "歩こう！文化のみち2026（近代建築めぐり・クイズラリー）",
+   "place": "名古屋市東区・中区",
+   "station": "地下鉄 名古屋城・名鉄瀬戸線 東大手",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "無料エリアと入館料が要る施設がある",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/higashi/miryoku/1019802/1019819/1054273.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-36",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-01",
+   "area": "南東",
+   "name": "鳴海工場（ごみ処理工場）見学会",
+   "place": "名古屋市緑区",
+   "station": "市バス 天白橋",
+   "lines": [
+    "市バス"
+   ],
+   "target": "無料（10:00-15:00）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/kurashi/gomi/1012398/1040278.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-37",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "南",
+   "name": "大江破砕工場 見学会",
+   "place": "名古屋市港区",
+   "station": "名鉄常滑線 大同町",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "無料（9:00-12:00）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/kurashi/gomi/1012398/1040278.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-38",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "東",
+   "name": "徳川園（開園記念日の無料開園）",
+   "place": "名古屋市東区",
+   "station": "JR・名鉄・地下鉄 大曽根",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "全員無料・庭園・山車囃子の競演など",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-info.jp/event/detail/695/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-39",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "名古屋市役所本庁舎の一般公開（重要文化財・貴賓室と屋上）",
+   "place": "名古屋市中区",
+   "station": "地下鉄名城線 名古屋城",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "9:00-16:00・料金の記載なし",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/kankou/bunka/1034457/1016040/1016042/1017357/1052412.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-40",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "愛知県庁本庁舎の公開（知事室・貴賓室・正庁・議場ツアー・屋上展望台）",
+   "place": "名古屋市中区",
+   "station": "地下鉄 名古屋城・名鉄瀬戸線 東大手",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "参加無料（9:00-16:00）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要・見学ツアーは当日先着（各回16名）",
+   "source": "https://www.pref.aichi.jp/press-release/mainbuild-event-r8.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-41",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "都心",
+   "name": "【締切】あいち県民の日記念コンサート（11/27・まらしぃ・名古屋フィル・抽選1700名）",
+   "place": "名古屋市東区",
+   "station": "地下鉄 栄",
+   "lines": [],
+   "target": "入場無料・抽選",
+   "targets": [
+    "all"
+   ],
+   "apply": "受付〜11/3",
+   "source": "https://www.pref.aichi.jp/press-release/aichidayevent2026.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-43",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "area": "北",
+   "name": "北名古屋工場（ごみ処理工場）見学会",
+   "place": "北名古屋市",
+   "station": "鶴舞線・名鉄犬山線 上小田井",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "無料（10:30-15:00）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/kurashi/gomi/1012398/1040278.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-44",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-08",
+   "end": "2026-11-08",
+   "area": "西",
+   "name": "富田工場（ごみ処理工場）見学会",
+   "place": "名古屋市中川区",
+   "station": "JR関西本線 春田",
+   "lines": [
+    "JR"
+   ],
+   "target": "無料（9:30-12:30）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.nagoya.jp/kurashi/gomi/1012398/1040278.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-45",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "南東",
+   "name": "【締切10/15】愛知環状鉄道 車両基地見学会（北野桝塚）",
+   "place": "岡崎市",
+   "station": "愛知環状鉄道 北野桝塚",
+   "lines": [],
+   "target": "参加無料・小学3〜6年生と保護者・抽選で計120名",
+   "targets": [
+    "all"
+   ],
+   "apply": "要申込・9/18〜10/15（抽選・結果は10/22ごろメール）",
+   "source": "https://www.pref.aichi.jp/press-release/aikansharyokichi2026.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-46",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "area": "都心",
+   "name": "円頓寺 秋のパリ祭 2026",
+   "place": "名古屋市西区",
+   "station": "地下鉄 丸の内・国際センター",
+   "lines": [],
+   "target": "入場料は主催者サイトで未確認（市の観光サイトは無料と掲載）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://endoji-paris.net/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-47",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-27",
+   "area": "北",
+   "name": "あいち朝日遺跡ミュージアム 企画展（あいちウィーク）",
+   "place": "清須市",
+   "station": "城北線 尾張星の宮／名鉄 新清洲",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "誰でも観覧料無料・11/24も開館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.aichi.jp/press-release/2026asahiisekikikakuten3.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-52",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "南東",
+   "name": "碧南市藤井達吉現代美術館 企画展「小林徳三郎」（大浜てらまちウォーキングの日）",
+   "place": "碧南市",
+   "station": "名鉄三河線 碧南 徒歩6分",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "企画展の観覧料が全員無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.hekinan.lg.jp/museum/event_guide/kikakuten/23819.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-53",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "一宮市三岸節子記念美術館（開館記念日・無料観覧デー）",
+   "place": "一宮市",
+   "station": "尾張一宮・名鉄一宮から名鉄バス「起高校・三岸美術館前」",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "全員無料・企画展「深沢紅子展」とコレクション展",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://s-migishi.com/tokubetsu.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-54",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "area": "南",
+   "name": "新美南吉記念館（県民の日学校ホリデーの臨時無料開放）",
+   "place": "半田市",
+   "station": "名鉄河和線 半田口",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "全員無料（県民・市民を問わない）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.nankichi.gr.jp/Sogoannai/oshirase.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-55",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-10",
+   "end": "2026-11-29",
+   "area": "南",
+   "name": "ウェルネスバレーめぐり2026（あいち健康の森公園など15施設のスタンプラリー）",
+   "place": "大府市・東浦町",
+   "station": "公式ページに記載なし",
+   "lines": [],
+   "target": "参加無料・10:00-16:00・施設ごとに休館日が違う・ゴールはHarappa",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（定員なし）",
+   "source": "https://www.town.aichi-higashiura.lg.jp/soshiki/shokonose/shokorosei/gyomu/wellness_valley_matching/1490228123783.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-58",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "北",
+   "name": "一宮市 下水道事業100周年 水フェス138（東部浄化センター）",
+   "place": "一宮市",
+   "station": "一宮市役所西側の夢織り広場から無料シャトルバス（約15分）",
+   "lines": [],
+   "target": "無料（一部ブースは材料費）・9:30-16:00・施設見学ツアーは各回先着40人程度",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（一部の体験は先着・申込みあり）",
+   "source": "https://www.city.ichinomiya.aichi.jp/jougesuidou/eigyou/1044210/1076362.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-59",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "東",
+   "name": "長久手市文化の家 野外劇場vol.4（桧ケ根公園）",
+   "place": "長久手市",
+   "station": "リニモ はなみずき通 徒歩9分",
+   "lines": [
+    "リニモ"
+   ],
+   "target": "入場無料（工作ワークショップ100円・飲食は別）・15:00-19:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（クイズは申込不要）",
+   "source": "https://bunkanoie.jp/archives/9248",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-63",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-01",
+   "end": "2026-11-30",
+   "area": "南東",
+   "name": "第71回 香嵐渓もみじまつり（足助・香嵐渓広場）",
+   "place": "豊田市",
+   "station": "名鉄 豊田市から名鉄バス「香嵐渓」約40分（浄水からおいでんバスも）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "入場無料（駐車場と三州足助屋敷は有料）・ライトアップは日没から21:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://asuke.info/event/nov/entry-3035.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-64",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-09-05",
+   "end": "2026-11-29",
+   "area": "南東",
+   "name": "西尾市岩瀬文庫 企画展「岩瀬文庫の洋学2 物産学への招待」",
+   "place": "西尾市",
+   "station": "名鉄西尾線 西尾 徒歩約20分",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "入館無料（いつも無料の施設）・9:00-17:00・月曜（祝日は開館）と第3木曜は休館・10/24と10/25は通常の閲覧不可",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://iwasebunko.jp/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-65",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-10-18",
+   "area": "北",
+   "name": "公共交通フェスタ2026（ぎふメディアコスモス・市役所1階）",
+   "place": "岐阜市",
+   "station": "JR岐阜駅からバス（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "費用不要・10:00〜16:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.city.gifu.lg.jp/kurashi/douro/1002587/1041719.html",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-66",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "北",
+   "name": "岐阜市科学館「家庭の日」（常設展示とプラネタリウム）",
+   "place": "岐阜市",
+   "station": "JR西岐阜駅（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "中学生以下と同伴の家族が無料・市外の人も可・全員そろって受付",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.gifu.lg.jp/kankoubunka/kagakukan/1005487/1039983.html",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-67",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-17",
+   "end": "2026-11-23",
+   "area": "北",
+   "name": "一宮市博物館 特別展「人びとの近代史～旧役場文書が語る国と地域～」",
+   "place": "一宮市",
+   "station": "名鉄 妙興寺（南口 徒歩7分）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "中学生以下・一宮市内在住の65歳以上（証明書）・障害者手帳などを持つ人と付添1人が無料（一般300円）・月曜と11/4休館",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ichinomiya.aichi.jp/katsuryokusouzou/hakubutsukan/1044204/1076679.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-68",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-15",
+   "end": "2026-10-18",
+   "area": "北",
+   "name": "木之下城伝承館・堀部邸 犬山祭車山「額行燈」展",
+   "place": "犬山市",
+   "station": "名鉄 犬山（推定）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "入館無料（施設の案内）・12:00〜18:00・10/13と10/14は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://horibetei.com/",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-69",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-18",
+   "end": "2026-10-18",
+   "area": "北",
+   "name": "青塚古墳野外音楽劇（青塚古墳史跡公園）",
+   "place": "犬山市",
+   "station": "名鉄 楽田（推定）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "無料・15:00〜16:00（開場14:00）・雨ならガイダンス施設で先着40人",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.city.inuyama.aichi.jp/kurashi/bunka/1001052/1003569/1003577.html",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-70",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-06",
+   "end": "2026-12-27",
+   "area": "北",
+   "name": "企画展「赤色立体地図に見る犬山市の遺跡展」（青塚古墳ガイダンス施設）",
+   "place": "犬山市",
+   "station": "名鉄 楽田 徒歩約30分",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "無料・9:00〜17:00・月曜休館（祝日なら翌平日）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.inuyama.aichi.jp/kurashi/bunka/1001052/1003569/1003577.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-71",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-03",
+   "end": "2026-10-25",
+   "area": "北",
+   "name": "尾西歴史民俗資料館 ギャラリー展示「Live Painting Gallery 2026」",
+   "place": "一宮市",
+   "station": "JR尾張一宮駅からバス（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "入館無料（利用案内のページに記載）・9:00〜17:00（最終日は16:00まで）・月曜休館（祝日なら開館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ichinomiya.aichi.jp/rekimin/1010273/1005618.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-72",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-10-31",
+   "area": "北",
+   "name": "えほんフェスティバル2026（ぎふメディアコスモス2階 児童のエリア）",
+   "place": "岐阜市",
+   "station": "JR岐阜駅からバス（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "参加費無料・9:00〜15:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://g-mediacosmos.jp/lib/event/2026/10/2026.html",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-73",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "中山道鵜沼宿脇本陣",
+   "place": "各務原市",
+   "station": "名鉄 鵜沼宿（推定）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "いつでも入館無料・9:00〜17:00・月曜（祝日なら翌日）と祝日の翌日と年末年始は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kakamigahara.lg.jp/kankobunka/1010039/unuma/1004973.html",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-74",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "一宮市尾西歴史民俗資料館",
+   "place": "一宮市",
+   "station": "JR尾張一宮駅からバス（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "いつでも入館無料・9:00〜17:00・月曜（祝日なら開館）と祝日の翌日と年末年始は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ichinomiya.aichi.jp/rekimin/1010275/1005626.html",
+   "verified": "2026-10-10"
+  },
+  {
+   "id": "nagoya-2026-10-07-75",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "岐阜県美術館（文化の日・ふるさとを学ぶ日の無料観覧）",
+   "place": "岐阜市",
+   "station": "JR西岐阜 徒歩15分",
+   "lines": [
+    "JR"
+   ],
+   "target": "全員無料・10:00〜18:00（展示室入場17:30まで）・11/2（月）は休館・この日は文化の日スペシャルトークあり",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.gifu.lg.jp/kyoiku/bunka/bunka-geijutsu/17768/sisetsu-muryou.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-76",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "岐阜かかみがはら航空宇宙博物館（文化の日・ふるさとを学ぶ日の無料観覧）",
+   "place": "各務原市",
+   "station": "名鉄各務原線 各務原市役所前・新那加・三柿野／JR那加からふれあいバス「航空宇宙博物館」",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "全員無料（ふだんは大人900円・中学生以下無料）・10:00〜18:00（入館は30分前まで）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.gifu.lg.jp/kyoiku/bunka/bunka-geijutsu/17768/sisetsu-muryou.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-77",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "岐阜県博物館（文化の日・ふるさとを学ぶ日の無料観覧・特別展「Minerals―永遠の美―」開催中）",
+   "place": "関市（岐阜県百年公園内）",
+   "station": "長良川鉄道 関から関シティバス「百年公園」300m",
+   "lines": [],
+   "target": "無料（県の発表・特別展も含むかは記載なし）・けんぱく教室は申込制",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（教室は申込制）",
+   "source": "https://www.pref.gifu.lg.jp/kyoiku/bunka/bunka-geijutsu/17768/sisetsu-muryou.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-78",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "ぎふ木遊館（文化の日・ふるさとを学ぶ日の無料）",
+   "place": "岐阜市",
+   "station": "公式ページで未確認",
+   "lines": [],
+   "target": "無料（ふだんの木育ひろばは大人300円）",
+   "targets": [
+    "all"
+   ],
+   "apply": "要事前予約",
+   "source": "https://www.pref.gifu.lg.jp/kyoiku/bunka/bunka-geijutsu/17768/sisetsu-muryou.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-79",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-03",
+   "area": "北",
+   "name": "岐阜県歴史資料館（文化の日だけ特別開館・いつも無料）",
+   "place": "岐阜市",
+   "station": "公式ページで未確認",
+   "lines": [],
+   "target": "誰でも無料（ふだんは土日祝休館・この日だけ開館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（記載なし）",
+   "source": "https://www.pref.gifu.lg.jp/kyoiku/bunka/bunka-geijutsu/17768/sisetsu-muryou.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-80",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-03",
+   "end": "2026-11-08",
+   "area": "北",
+   "name": "尾西歴史民俗資料館 ギャラリー展示「第16回 フォトクラブ写雅 写真展」",
+   "place": "一宮市",
+   "station": "JR尾張一宮駅からバス（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "入館無料（利用案内のページに記載）・初日は13:00から・最終日は16:00まで・ほかの日は9:00〜17:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ichinomiya.aichi.jp/rekimin/1010273/1005618.html",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-81",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "一宮市博物館（常設展）",
+   "place": "一宮市",
+   "station": "名鉄 妙興寺（南口 徒歩7分）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "中学生以下・一宮市内在住の65歳以上（住所と年齢の公的証明書）・障害者手帳などを持つ人と付添1人は無料（一般300円）・9:30〜17:00・月曜（休日なら翌日）と休日の翌日は休館",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.icm-jp.com/archives/110",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-82",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "岐阜市歴史博物館（常設展）",
+   "place": "岐阜市",
+   "station": "JR岐阜・名鉄岐阜から岐阜バスN系統「岐阜公園・岐阜城」徒歩3〜5分",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "岐阜市内在住の70歳以上（証明が要る）・岐阜市内の小中学生・障害者手帳などを持つ人と介護者1人は無料（企画展と特別展は除く）・総合展示室の改装で11/2まで休館",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.rekihaku.gifu.gifu.jp/guide/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-83",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "岐阜県美術館（所蔵品展）",
+   "place": "岐阜市",
+   "station": "JR西岐阜 徒歩15分",
+   "lines": [
+    "JR"
+   ],
+   "target": "高校生以下は無料・障害者手帳などを持つ人と付添1人も無料（一般370円・企画展は別料金）・10:00〜18:00・月曜（祝日なら翌平日）休館",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://kenbi.pref.gifu.lg.jp/visitor/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-84",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "名古屋城",
+   "place": "名古屋市中区",
+   "station": "地下鉄名城線 名古屋城（7番出口 徒歩5分）",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "中学生以下は無料（大人1000円・名古屋市内在住65歳以上は300円）・9:00〜16:30・天守閣は閉館中・12/29〜1/1は休園",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.nagoyajo.city.nagoya.jp/info/fee/",
+   "verified": "2026-10-16"
+  },
+  {
+   "id": "nagoya-2026-10-07-85",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "白鳥庭園",
+   "place": "名古屋市熱田区",
+   "station": "地下鉄名城線 熱田神宮西（4番出口 徒歩約10分）",
+   "lines": [
+    "地下鉄名城線"
+   ],
+   "target": "中学生以下は無料（大人300円・名古屋市在住65歳以上は敬老手帳で100円）・9:00〜17:00（入園16:30まで）・月曜（祝休日なら翌平日）休園",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.shirotori-garden.jp/guidance/index.html",
+   "verified": "2026-10-16"
+  }
+ ]
+}
