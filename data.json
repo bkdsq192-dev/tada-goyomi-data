@@ -1,5 +1,5 @@
 {
- "version": "2026-10-31T18:58",
+ "version": "2026-11-09T09:29",
  "items": [
   {
    "id": "tokyo-2026-10-06-0",
@@ -84,7 +84,7 @@
    ],
    "apply": "不要",
    "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
-   "verified": "2026-10-15"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-4",
@@ -1099,7 +1099,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.saitama.lg.jp/g2212/library-info/2026090101.html",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-65",
@@ -1118,7 +1118,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.saitama.lg.jp/g2209/library-info/202611_karahafu.html",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-66",
@@ -1137,7 +1137,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.kawagoe.saitama.jp/museum/index.html",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-67",
@@ -1156,7 +1156,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.kawagoe.saitama.jp/artmuseum/",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-68",
@@ -1175,7 +1175,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.kawagoe.saitama.jp/museum/honmaru/index.html",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-69",
@@ -1194,27 +1194,6 @@
    ],
    "apply": "不要",
    "source": "https://www.city.kawagoe.saitama.jp/museum/index.html",
-   "verified": "2026-10-06"
-  },
-  {
-   "id": "tokyo-2026-10-06-70",
-   "city": "tokyo",
-   "kind": "date",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "area": "北東",
-   "name": "あだち市場の日（足立市場）",
-   "place": "足立区",
-   "station": "千住大橋（京成）徒歩3分",
-   "lines": [
-    "京成"
-   ],
-   "target": "入場無料",
-   "targets": [
-    "all"
-   ],
-   "apply": "不要",
-   "source": "https://www.metro.tokyo.lg.jp/information/press/2025/10/2025103104",
    "verified": "2026-10-06"
   },
   {
@@ -1263,39 +1242,39 @@
    "id": "tokyo-2026-10-06-74",
    "city": "tokyo",
    "kind": "date",
-   "start": "2026-11-13",
+   "start": "2026-11-06",
    "end": "2026-11-27",
    "area": "東",
-   "name": "オータムナイトミュージアム 江戸東京博物館・東京都現代美術館（11/13・20・27 17時以降）",
+   "name": "オータムナイトミュージアム 江戸東京博物館・東京都現代美術館（11/6・13・20・27の金曜 17時以降）",
    "place": "墨田区・江東区",
    "station": "両国・清澄白河",
    "lines": [],
-   "target": "学生のみ無料",
+   "target": "学生のみ無料（江戸博の特別展「豊臣兄弟！」は対象外）",
    "targets": [
     "all"
    ],
    "apply": "学生証",
    "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026093012",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-75",
    "city": "tokyo",
    "kind": "date",
-   "start": "2026-11-12",
+   "start": "2026-11-05",
    "end": "2026-11-27",
    "area": "都心",
-   "name": "オータムナイトミュージアム 写真美術館・庭園美術館・都美術館（木金ほか17時以降）",
+   "name": "オータムナイトミュージアム 写真美術館（木金）・庭園美術館（金と11/21土）・都美術館（金）17時以降",
    "place": "目黒区・港区・台東区",
    "station": "恵比寿・目黒・上野",
    "lines": [],
-   "target": "学生のみ無料",
+   "target": "学生のみ無料（都美術館のオルセー展は対象外）",
    "targets": [
     "all"
    ],
    "apply": "学生証",
    "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026093012",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-76",
@@ -1316,7 +1295,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.ichikawa.lg.jp/site/higashiyama/76155.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-79",
@@ -1539,7 +1518,7 @@
    "id": "tokyo-2026-10-06-90",
    "city": "tokyo",
    "kind": "date",
-   "start": "2026-11-09",
+   "start": "2026-11-10",
    "end": "2026-12-06",
    "area": "西",
    "name": "川崎市岡本太郎美術館 無料ミニ企画「ちょこっとTARO」",
@@ -1554,7 +1533,7 @@
    ],
    "apply": "不要",
    "source": "https://www.taromuseum.jp/exhibition.html",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-91",
@@ -1573,7 +1552,7 @@
    ],
    "apply": "不要",
    "source": "https://www.hama-midorinokyokai.or.jp/zoo/zoorasia/fee.php",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-92",
@@ -1594,7 +1573,26 @@
    ],
    "apply": "不要",
    "source": "https://www.hama-midorinokyokai.or.jp/zoo/kanazawa/fee.php",
-   "verified": "2026-10-06"
+   "verified": "2026-11-05"
+  },
+  {
+   "id": "tokyo-2026-10-06-93",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "area": "南西",
+   "name": "横浜市歴史博物館（毎週土曜は小中高生無料）",
+   "place": "横浜市都筑区",
+   "station": "センター北（市営地下鉄）徒歩5分",
+   "lines": [],
+   "target": "小・中・高校生は観覧無料（市内外を問わない）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://rekihaku.yokohama-history.org/events/%e7%89%b9%e5%88%a5%e5%b1%95%e3%80%8c%e5%8d%97%e6%ad%a6%e8%94%b5%e3%81%ae%e5%b9%b3%e5%ae%89%e4%bb%8f%e3%80%8d/",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-95",
@@ -1609,13 +1607,13 @@
    "lines": [
     "京急"
    ],
-   "target": "ステージ観覧・魚の展示などは無料と明記（会場の入場料の記載なし・一部ワークショップは有料）",
+   "target": "入場料の記載なし。ステージ観覧と魚の展示は無料・一部ワークショップは有料",
    "targets": [
     "all"
    ],
    "apply": "不要（ワークショップは当日整理券）",
    "source": "https://www.city.yokohama.lg.jp/business/kigyoshien/chuoshijo/ichibamatsuri2026.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-96",
@@ -2105,7 +2103,7 @@
    ],
    "apply": "不要",
    "source": "https://yokohama.art.museum/exhibition/202607_mohriyuko/",
-   "verified": "2026-10-15"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-129",
@@ -2126,7 +2124,7 @@
    ],
    "apply": "不要",
    "source": "https://yokohama.art.museum/exhibition/202608_collection/",
-   "verified": "2026-10-15"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-130",
@@ -2168,7 +2166,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.toda.saitama.jp/soshiki/377/",
-   "verified": "2026-10-15"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-135",
@@ -2189,7 +2187,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.saitama.lg.jp/f2216/library-info/r0811kawahaku06.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-136",
@@ -2210,7 +2208,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.saitama.lg.jp/g2213/library-info/20261114.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-138",
@@ -2957,8 +2955,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-175",
@@ -2979,8 +2977,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-176",
@@ -3000,8 +2998,8 @@
     "all"
    ],
    "apply": "当日・先着98名",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-177",
@@ -3021,8 +3019,8 @@
     "all"
    ],
    "apply": "不要（先着100名に記念品）",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-178",
@@ -3043,7 +3041,7 @@
    ],
    "apply": "事前申込み不要（当日に受付テント前へ）",
    "source": "https://www.pref.saitama.lg.jp/b1005/hannokendo-damu-arima-tankentaikekka.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-179",
@@ -3064,8 +3062,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-180",
@@ -3085,8 +3083,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-181",
@@ -3106,8 +3104,8 @@
     "all"
    ],
    "apply": "事前申込み不要（現地集合）",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-182",
@@ -3127,8 +3125,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-183",
@@ -3148,8 +3146,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-184",
@@ -3169,8 +3167,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-185",
@@ -3190,8 +3188,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-186",
@@ -3211,8 +3209,8 @@
     "all"
    ],
    "apply": "不要（プラネタリウムは無料券）",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-187",
@@ -3232,8 +3230,8 @@
     "all"
    ],
    "apply": "上映会のみ事前申込み（締切は未確認）",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-188",
@@ -3253,8 +3251,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-189",
@@ -3275,8 +3273,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-190",
@@ -3296,8 +3294,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-191",
@@ -3317,8 +3315,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-192",
@@ -3339,8 +3337,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-193",
@@ -3360,8 +3358,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-194",
@@ -3382,8 +3380,8 @@
     "all"
    ],
    "apply": "不要",
-   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1029.pdf",
-   "verified": "2026-10-29"
+   "source": "https://www.pref.saitama.lg.jp/documents/6133/kyousangyouzi1030.pdf",
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-195",
@@ -3528,7 +3526,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.kamakura.kanagawa.jp/gakusyuc/yoshiya-koukai.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-202",
@@ -3571,7 +3569,7 @@
    ],
    "apply": "不要",
    "source": "https://yokohama.art.museum/exhibition/202608_collection/",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-204",
@@ -3613,7 +3611,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.hiratsuka.kanagawa.jp/art-muse/info3.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-206",
@@ -3715,9 +3713,9 @@
    "targets": [
     "all"
    ],
-   "apply": "メインピッチ特別開放のみ事前申込・抽選（10/31まで）",
+   "apply": "不要（メインピッチ特別開放は10/31で申込み終了）",
    "source": "https://www.stadium2002.com/news_948.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-212",
@@ -3740,7 +3738,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.adachi.tokyo.jp/hakubutsukan/shisetsu/toshokan/019.html",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-213",
@@ -3761,7 +3759,7 @@
    ],
    "apply": "不要",
    "source": "https://www.museum.city.katsushika.lg.jp/information/",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-214",
@@ -3803,7 +3801,7 @@
    ],
    "apply": "記載なし（予約の要否は出す前に館のお知らせで確かめる）",
    "source": "https://www.nat.museum.ibk.ed.jp/information/yearpass/",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-216",
@@ -3824,7 +3822,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.nat.museum.ibk.ed.jp/information/yearpass/",
-   "verified": "2026-10-29"
+   "verified": "2026-11-05"
   },
   {
    "id": "tokyo-2026-10-06-217",
@@ -4064,6 +4062,126 @@
    "verified": "2026-10-29"
   },
   {
+   "id": "tokyo-2026-10-06-228",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-12-27",
+   "area": "北西",
+   "name": "練馬区立美術館「ユアサエボシと戦後アヴァンギャルドの変身寓話集」",
+   "place": "練馬区",
+   "station": "中村橋（西武池袋線）徒歩3分",
+   "lines": [
+    "西武"
+   ],
+   "target": "中学生以下と75歳以上は無料（年齢の分かる物を提示・月曜休館、祝日なら翌日）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.neribun.or.jp/event/detail_m.cgi?id=202608151786784919",
+   "verified": "2026-11-05"
+  },
+  {
+   "id": "tokyo-2026-10-06-229",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-23",
+   "end": "2026-11-23",
+   "area": "北東",
+   "name": "技-1グランプリ〜埼玉“高技専”まつり〜（職業訓練校の技の大会・ものづくり体験・10〜16時）",
+   "place": "伊奈町",
+   "station": "内宿（ニューシャトル）徒歩約15分（無料送迎バスあり）",
+   "lines": [],
+   "target": "誰でも入場無料",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.saitama.lg.jp/a0811/library-info/2026waza-1.html",
+   "verified": "2026-11-05"
+  },
+  {
+   "id": "tokyo-2026-10-06-230",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-21",
+   "area": "南西",
+   "name": "横浜市歴史博物館（毎週土曜は小中高生無料・特別展「南武蔵の平安仏」）",
+   "place": "横浜市都筑区",
+   "station": "センター北（市営地下鉄）徒歩5分",
+   "lines": [],
+   "target": "小・中・高校生は観覧無料（市内外を問わない）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://rekihaku.yokohama-history.org/events/%e7%89%b9%e5%88%a5%e5%b1%95%e3%80%8c%e5%8d%97%e6%ad%a6%e8%94%b5%e3%81%ae%e5%b9%b3%e5%ae%89%e4%bb%8f%e3%80%8d/",
+   "verified": "2026-11-05"
+  },
+  {
+   "id": "tokyo-2026-10-06-231",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "area": "南西",
+   "name": "横浜市歴史博物館（毎週土曜は小中高生無料・特別展「南武蔵の平安仏」）",
+   "place": "横浜市都筑区",
+   "station": "センター北（市営地下鉄）徒歩5分",
+   "lines": [],
+   "target": "小・中・高校生は観覧無料（市内外を問わない）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://rekihaku.yokohama-history.org/events/%e7%89%b9%e5%88%a5%e5%b1%95%e3%80%8c%e5%8d%97%e6%ad%a6%e8%94%b5%e3%81%ae%e5%b9%b3%e5%ae%89%e4%bb%8f%e3%80%8d/",
+   "verified": "2026-11-05"
+  },
+  {
+   "id": "tokyo-2026-10-06-232",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "area": "南西",
+   "name": "横浜開港資料館（毎週土曜は小中高生無料）",
+   "place": "横浜市中区",
+   "station": "日本大通り（みなとみらい線）4番出口徒歩2分",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "小・中・高校生は無料（ふだんは小中100円・特別展は別料金の場合あり）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://kaikou.yokohama-history.org/visit/",
+   "verified": "2026-11-05"
+  },
+  {
+   "id": "tokyo-2026-10-06-233",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "area": "南西",
+   "name": "横浜都市発展記念館（毎週土曜は小中高生無料）",
+   "place": "横浜市中区",
+   "station": "日本大通り（みなとみらい線）3番出口すぐ",
+   "lines": [
+    "みなとみらい線"
+   ],
+   "target": "小・中・高校生は無料（ふだんは小中100円・企画展は別料金の場合あり）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://tohatsu.yokohama-history.org/visit/info/",
+   "verified": "2026-11-05"
+  },
+  {
    "id": "kansai-2026-10-07-0",
    "city": "kansai",
    "kind": "date",
@@ -4208,7 +4326,7 @@
    ],
    "apply": "不要",
    "source": "https://www.osakacastle.net/guide/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-7",
@@ -4230,7 +4348,7 @@
    ],
    "apply": "不要",
    "source": "https://www.osaka-art-museum.jp/information",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-8",
@@ -4272,7 +4390,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.osaka.lg.jp/o040080/otemaemachi/seicyou-koukai/index.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-10",
@@ -4884,7 +5002,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51250.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-40",
@@ -4905,7 +5023,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51250.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-42",
@@ -4968,7 +5086,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20747/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-46",
@@ -4987,7 +5105,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20745/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-47",
@@ -5008,7 +5126,7 @@
    ],
    "apply": "11/15の公開講座は当日先着126名",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21063/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-48",
@@ -5050,7 +5168,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21005/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-51",
@@ -5071,7 +5189,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-52",
@@ -5090,7 +5208,7 @@
    ],
    "apply": "万博記念公園ゲートの有人窓口でみんぱく行きを申し出て通行証を受け取る（公園を利用するなら入園料が必要）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20482/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-53",
@@ -5112,7 +5230,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20774/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-54",
@@ -5133,7 +5251,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20796/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-55",
@@ -5154,7 +5272,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20462/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-56",
@@ -5175,7 +5293,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20580/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-57",
@@ -5196,7 +5314,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21046/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-58",
@@ -5218,7 +5336,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21040/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-59",
@@ -5237,7 +5355,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21008/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-60",
@@ -5258,7 +5376,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21009/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-61",
@@ -5279,7 +5397,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20624/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-62",
@@ -5298,7 +5416,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20573/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-63",
@@ -5319,7 +5437,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20653/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-64",
@@ -5338,7 +5456,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21015/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-65",
@@ -5359,7 +5477,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20433/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-66",
@@ -5381,7 +5499,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20721/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-67",
@@ -5402,26 +5520,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20536/",
-   "verified": "2026-10-07"
-  },
-  {
-   "id": "kansai-2026-10-07-68",
-   "city": "kansai",
-   "kind": "date",
-   "start": "2026-11-14",
-   "end": "2026-11-15",
-   "area": "南",
-   "name": "大阪市立長居植物園（関西文化の日）",
-   "place": "大阪市東住吉区",
-   "station": "Osaka Metro御堂筋線 長居",
-   "lines": [],
-   "target": "入園料（通常有料）",
-   "targets": [
-    "all"
-   ],
-   "apply": "一覧に記載なし（不要かは未確認）",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20631/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-69",
@@ -5440,7 +5539,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20552/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-70",
@@ -5461,7 +5560,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20568/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-71",
@@ -5482,7 +5581,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20634/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-72",
@@ -5503,7 +5602,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21185/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-73",
@@ -5524,7 +5623,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21010/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-74",
@@ -5545,7 +5644,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20478/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-75",
@@ -5566,7 +5665,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20703/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-76",
@@ -5587,7 +5686,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20426/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-77",
@@ -5608,7 +5707,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20521/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-78",
@@ -5627,7 +5726,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20447/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-79",
@@ -5646,7 +5745,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
-   "verified": "2026-10-16"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-80",
@@ -5667,7 +5766,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20533/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-81",
@@ -5688,7 +5787,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20688/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-82",
@@ -5709,7 +5808,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21170/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-84",
@@ -5855,28 +5954,6 @@
    "verified": "2026-10-07"
   },
   {
-   "id": "kansai-2026-10-07-91",
-   "city": "kansai",
-   "kind": "date",
-   "start": "2026-11-06",
-   "end": "2026-11-15",
-   "area": "都心",
-   "name": "大阪城天守閣・豊臣石垣館 大阪市民1万人無料招待（各日1000人・9時〜18時）",
-   "place": "大阪市中央区",
-   "station": "JR環状線・Osaka Metro 森ノ宮ほか",
-   "lines": [
-    "JR"
-   ],
-   "target": "大阪市内在住の人・天守閣と豊臣石垣館が無料（65歳以上と中学生以下は申込みなしでも無料）",
-   "targets": [
-    "child",
-    "senior"
-   ],
-   "apply": "要申込み・先着順・大阪市行政オンラインシステムで10/31 23:59締切",
-   "source": "https://www.city.osaka.lg.jp/keizaisenryaku/page/0000683946.html",
-   "verified": "2026-10-30"
-  },
-  {
    "id": "kansai-2026-10-07-92",
    "city": "kansai",
    "kind": "always",
@@ -5980,7 +6057,7 @@
    ],
    "apply": "展示は不要",
    "source": "https://www.city.ibaraki.osaka.jp/kikou/shimin/bunka/event/62245.html",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-97",
@@ -6001,7 +6078,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.city.osaka.lg.jp/kankyo/page/0000278038.html",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-98",
@@ -6022,7 +6099,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.city.osaka.lg.jp/kankyo/page/0000278038.html",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-99",
@@ -6043,7 +6120,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.toyonaka.osaka.jp/kurashi/gomi_risaikuru_bika/cleanland/kengakukai/tennbouhuroa.html",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-100",
@@ -6107,7 +6184,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20593/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-103",
@@ -6126,7 +6203,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20851/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-104",
@@ -6147,7 +6224,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21038/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-105",
@@ -6168,7 +6245,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20902/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-106",
@@ -6189,7 +6266,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20579/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-107",
@@ -6230,7 +6307,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20591/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-109",
@@ -6294,6 +6371,131 @@
    "verified": "2026-10-30"
   },
   {
+   "id": "kansai-2026-10-07-112",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-20",
+   "end": "2026-11-29",
+   "area": "都心",
+   "name": "アートエリアB1「つくってみようよ展覧会 アートと出会う瞬間 ペティルはピースフレイバー」（関西文化の日・11/20〜23と25〜29）",
+   "place": "大阪市北区",
+   "station": "京阪中之島線 なにわ橋 すぐ・Osaka Metro 淀屋橋／北浜 徒歩約5分",
+   "lines": [
+    "京阪"
+   ],
+   "target": "料金記載なし（展覧会は12/23まで・11時〜18時・ふだんは日月休館なので開く日は公式で確認）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://artarea-b1.jp/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-113",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-13",
+   "area": "南",
+   "name": "【締切11/13】大阪東部いきいき市場・冬季市場体験ツアー（12/5・定員70名）",
+   "place": "大阪市東住吉区（中央卸売市場 東部市場）",
+   "station": "JR大和路線 東部市場前",
+   "lines": [
+    "JR"
+   ],
+   "target": "参加無料・応募多数なら抽選・1組4名まで・小学生以下は保護者同伴",
+   "targets": [
+    "child"
+   ],
+   "apply": "令和8年11月13日（金曜日）午後5時30分まで（大阪市行政オンラインシステムかメールで申込み）",
+   "source": "https://www.city.osaka.lg.jp/shijo/page/0000687852.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-114",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-12-05",
+   "end": "2026-12-05",
+   "area": "南",
+   "name": "大阪東部いきいき市場・冬季市場体験ツアー（8時〜10時・市場の見学と仕入れ体験）",
+   "place": "大阪市東住吉区（中央卸売市場 東部市場）",
+   "station": "JR大和路線 東部市場前",
+   "lines": [
+    "JR"
+   ],
+   "target": "参加無料・抽選で当選した人だけ（買い物は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "11/13 17:30締切（抽選・当落はメール）",
+   "source": "https://www.city.osaka.lg.jp/shijo/page/0000687852.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-115",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "天王寺動物園（大阪市内在住の65歳以上と市内の小中学生は常に無料）",
+   "place": "大阪市天王寺区",
+   "station": "JR・Osaka Metro 天王寺／動物園前（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "大阪市内在住の65歳以上・大阪市内在住在学か市立校在学の小中学生・未就学児は無料（住所と年齢が分かる証明の原本が要る・月曜休園で祝日なら翌日・12/29〜1/1休園）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.tennojizoo.jp/info/outline/",
+   "verified": "2026-11-06"
+  },
+  {
+   "id": "kansai-2026-10-07-116",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "国立民族学博物館 本館展示（高校生以下は常に無料）",
+   "place": "吹田市",
+   "station": "大阪モノレール 万博記念公園・公園東口",
+   "lines": [],
+   "target": "高校生以下は本館展示が無料（特別展は別料金・水曜休館で祝日なら直後の平日・12/28〜1/4休館・高校生は万博記念公園ゲートの有人窓口で申し出て通行証をもらう）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.minpaku.ac.jp/information/basis",
+   "verified": "2026-11-06"
+  },
+  {
+   "id": "kansai-2026-10-07-117",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北東",
+   "name": "高槻市立今城塚古代歴史館",
+   "place": "高槻市",
+   "station": "JR京都線 摂津富田／富田から市営バス 今城塚古墳前 すぐ",
+   "lines": [
+    "JR京都線"
+   ],
+   "target": "いつでも入館無料（特別展は有料の場合あり・月曜と祝日の翌平日は休館で月曜が祝日なら開館・12/28〜1/3休館・隣の今城塚古墳公園も無料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.takatsuki.osaka.jp/site/history/4551.html",
+   "verified": "2026-11-06"
+  },
+  {
    "id": "kansai-2026-10-07-0",
    "city": "kansai",
    "kind": "date",
@@ -6333,7 +6535,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nabunken.go.jp/news/docs/20260626press.pdf",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-2",
@@ -6355,7 +6557,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.momak.go.jp/Japanese/guide/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-4",
@@ -6378,7 +6580,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.himejicastle.jp/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-6",
@@ -6558,13 +6760,13 @@
    "lines": [
     "阪急"
    ],
-   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "target": "誰でも・企画展「Curators in Panic 2〜横尾忠則展 学芸員危機2髪？」（11/12・13）",
    "targets": [
     "all"
    ],
    "apply": "記載なし",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20850/",
-   "verified": "2026-10-07"
+   "source": "https://ytmoca.jp/topics/3942/",
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-19",
@@ -6585,7 +6787,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20620/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-20",
@@ -6606,7 +6808,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20538/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-21",
@@ -6629,7 +6831,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20455/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-22",
@@ -6650,7 +6852,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20861/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-23",
@@ -6671,7 +6873,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21134/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-24",
@@ -6692,7 +6894,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20932/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-25",
@@ -6708,13 +6910,13 @@
     "阪神",
     "JR"
    ],
-   "target": "誰でも・範囲は一覧・施設ページとも記載なし",
+   "target": "誰でも・神戸海洋博物館とカワサキワールドの入館料（開催中の「仮面ライダー×自然のチカラ」展は大人・小人とも700円）",
    "targets": [
     "all"
    ],
    "apply": "記載なし",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/22325/",
-   "verified": "2026-10-07"
+   "source": "https://kobe-maritime-museum.com/news/news-1062/",
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-26",
@@ -6736,7 +6938,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20470/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-27",
@@ -6757,7 +6959,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20448/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-28",
@@ -6776,7 +6978,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20751/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-29",
@@ -6797,7 +6999,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/11391/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-30",
@@ -6816,7 +7018,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20655/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-31",
@@ -6831,13 +7033,13 @@
    "lines": [
     "京阪"
    ],
-   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "target": "誰でも・観覧料（両日とも無料・駐車場は有料）",
    "targets": [
     "all"
    ],
    "apply": "記載なし",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20570/",
-   "verified": "2026-10-07"
+   "source": "https://www.city.uji.kyoto.jp/site/genji/102955.html",
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-32",
@@ -6859,7 +7061,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21108/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-33",
@@ -6880,7 +7082,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20910/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-34",
@@ -6901,7 +7103,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20619/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-35",
@@ -6922,7 +7124,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20899/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-36",
@@ -6943,7 +7145,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20698/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-37",
@@ -6965,7 +7167,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20814/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-38",
@@ -6987,7 +7189,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20710/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-39",
@@ -7008,7 +7210,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20640/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-40",
@@ -7029,7 +7231,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20712/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-41",
@@ -7050,7 +7252,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20404/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-42",
@@ -7069,7 +7271,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20810/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-43",
@@ -7090,7 +7292,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21126/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-44",
@@ -7111,7 +7313,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20395/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-45",
@@ -7132,7 +7334,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20933/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-46",
@@ -7153,7 +7355,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20532/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-47",
@@ -7174,7 +7376,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20423/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-48",
@@ -7195,7 +7397,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20803/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-49",
@@ -7216,7 +7418,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20616/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-50",
@@ -7237,7 +7439,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20662/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-51",
@@ -7258,7 +7460,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20535/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-52",
@@ -7279,7 +7481,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21003/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-53",
@@ -7300,7 +7502,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20639/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-54",
@@ -7315,13 +7517,14 @@
    "lines": [
     "近鉄"
    ],
-   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "target": "誰でも・入館料とイベント参加が無料（けいそう土コースターづくりは中学生以下・当日9:30から整理券）",
    "targets": [
-    "all"
+    "all",
+    "child"
    ],
    "apply": "記載なし",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20783/",
-   "verified": "2026-10-07"
+   "source": "https://www.city.kashihara.nara.jp/soshiki/2020/gyoumuannai/1/1/21025.html",
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-55",
@@ -7342,7 +7545,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20642/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-56",
@@ -7357,13 +7560,13 @@
    "lines": [
     "JR"
    ],
-   "target": "誰でも・ふだん有料の施設（範囲は一覧に記載なし）",
+   "target": "誰でも・入館料（市の案内では原則として常設展）。特別展「世界遺産 山田寺の時代」（10/7〜12/6）を開催中（特別展まで無料かは記載なし）",
    "targets": [
     "all"
    ],
    "apply": "記載なし",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20708/",
-   "verified": "2026-10-07"
+   "source": "https://www.city.sakurai.lg.jp/bunkazai/maibunannai/1586767177184.html",
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-57",
@@ -7384,7 +7587,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20735/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-58",
@@ -7406,7 +7609,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20450/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-59",
@@ -7423,13 +7626,13 @@
     "阪神",
     "JR"
    ],
-   "target": "誰でも・無料の範囲は一覧に記載なし（例年はコレクション展示室）",
+   "target": "誰でも・2階コレクション展示室（特別展「トーベとムーミン展」は別料金）",
    "targets": [
     "all"
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20853/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-60",
@@ -7452,7 +7655,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20617/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-61",
@@ -7471,7 +7674,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21202/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-62",
@@ -7492,7 +7695,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20765/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-63",
@@ -7514,7 +7717,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21210/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-64",
@@ -7537,7 +7740,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20697/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-65",
@@ -7558,7 +7761,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21028/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-66",
@@ -7579,7 +7782,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20985/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-67",
@@ -7601,7 +7804,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20601/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-68",
@@ -7622,7 +7825,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20506/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-69",
@@ -7643,7 +7846,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20914/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-70",
@@ -7875,7 +8078,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20547/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-81",
@@ -8116,7 +8319,7 @@
    ],
    "apply": "不要（10名以上は1週間前までに申込み）",
    "source": "https://archives.doshisha.ac.jp/archives/old_mansion/old_mansion.html",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-95",
@@ -8137,7 +8340,7 @@
    ],
    "apply": "不要（団体はおおむね10名以上で事前連絡）",
    "source": "https://www.city.sanda.lg.jp/soshiki/15/gyomu/1/kuki/14883.html",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-96",
@@ -8159,7 +8362,7 @@
    ],
    "apply": "不要",
    "source": "https://itami-im.jp/exhibitions/2026itamiinternationalcraft/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-97",
@@ -8180,7 +8383,7 @@
    ],
    "apply": "不要（10名以上は事前相談）",
    "source": "https://kyo-washinan.jp/news/177/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-100",
@@ -8201,7 +8404,7 @@
    ],
    "apply": "不要",
    "source": "https://www.ofusa.jp/highlights/rose",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-101",
@@ -8392,7 +8595,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20516/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-110",
@@ -8413,7 +8616,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20453/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-111",
@@ -8434,7 +8637,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20520/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-112",
@@ -8455,7 +8658,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20716/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-113",
@@ -8476,7 +8679,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20401/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "kansai-2026-10-07-114",
@@ -8542,6 +8745,133 @@
    "verified": "2026-10-30"
   },
   {
+   "id": "kansai-2026-10-07-117",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-11-28",
+   "area": "北東",
+   "name": "東本願寺 報恩講（範囲内は23〜28日・28日10時から坂東曲・25日16時30分ろうそくの灯りで御伝鈔）",
+   "place": "京都市下京区",
+   "station": "JR 京都（推定）",
+   "lines": [
+    "JR"
+   ],
+   "target": "誰でも無料でお参りできる（懇志は任意・御影堂門の楼上公開は寄付金1000円／高校生以下500円で別）",
+   "targets": [
+    "all",
+    "child"
+   ],
+   "apply": "不要（直接御影堂へ・帰敬式だけ申込み）",
+   "source": "https://www.higashihonganji.or.jp/lp/houonkou/schedule/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-118",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-25",
+   "end": "2026-11-25",
+   "area": "北東",
+   "name": "北野天満宮 ご縁日（毎月25日・参道に終日露店・日没から境内ライトアップ）",
+   "place": "京都市上京区",
+   "station": "嵐電北野線 北野白梅町（推定）",
+   "lines": [
+    "嵐電"
+   ],
+   "target": "境内は自由に参拝できる（買い物は有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://kitanotenmangu.or.jp/event/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-119",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "area": "北東",
+   "name": "北野天満宮 御茶壷奉献祭・口切式（10時45分 一の鳥居から本殿まで茶摘み娘が先導する御茶壷行列）",
+   "place": "京都市上京区",
+   "station": "嵐電北野線 北野白梅町（推定）",
+   "lines": [
+    "嵐電"
+   ],
+   "target": "行列を見るのは料金記載なし",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://kitanotenmangu.or.jp/event/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-120",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "area": "南",
+   "name": "南方熊楠顕彰館（関西文化の日・収蔵庫に特別に入れる日 10時〜10時30分と14時〜14時30分 各先着30名）",
+   "place": "田辺市",
+   "station": "JR きのくに線 紀伊田辺（徒歩約10分）",
+   "lines": [
+    "JR"
+   ],
+   "target": "常設展示はふだんから無料・収蔵庫入室とグッズ抽選会（先着30名）は料金記載なし・南方熊楠邸は一般350円（高校生以下無料）",
+   "targets": [
+    "child"
+   ],
+   "apply": "事前申込みの記載なし（先着）",
+   "source": "https://www.minakata.org/2026festival/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-121",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "市立伊丹ミュージアム 展示室4（歴史常設展示）・旧岡田家住宅酒蔵・旧石橋家住宅",
+   "place": "伊丹市",
+   "station": "JR宝塚線 伊丹・阪急 伊丹",
+   "lines": [
+    "JR宝塚線",
+    "阪急"
+   ],
+   "target": "いつでも入館無料（企画展は有料・月曜休館で祝日なら翌平日・12/29〜1/3休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://itami-im.jp/visit/",
+   "verified": "2026-11-06"
+  },
+  {
+   "id": "kansai-2026-10-07-122",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "神戸市立相楽園（神戸市内在住の65歳以上と市内在住在学の高校生は常に無料）",
+   "place": "神戸市中央区",
+   "station": "神戸市営地下鉄 県庁前（推定）",
+   "lines": [],
+   "target": "神戸市内在住の65歳以上（敬老優待乗車証・運転免許証など公的な証明）と神戸市内在住在学の高校生（生徒手帳）は無料・小中学生はのびのびパスポートで無料（木曜休園で祝日なら翌日・12/29〜1/3休園）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://sorakuen.com/information/",
+   "verified": "2026-11-06"
+  },
+  {
    "id": "nagoya-2026-10-07-0",
    "city": "nagoya",
    "kind": "date",
@@ -8603,7 +8933,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/1425/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-3",
@@ -8666,7 +8996,7 @@
    ],
    "apply": "不要",
    "source": "https://tsurumapark.info/event/2065/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-6",
@@ -8706,7 +9036,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.city.nagoya.jp/houdou/3003942/3003948/3005480.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-8",
@@ -9059,28 +9389,7 @@
    ],
    "apply": "不要",
    "source": "https://apmoa.museum/exhibition/mobilemuseum2026",
-   "verified": "2026-10-30"
-  },
-  {
-   "id": "nagoya-2026-10-07-27",
-   "city": "nagoya",
-   "kind": "date",
-   "start": "2026-10-25",
-   "end": "2026-10-25",
-   "area": "北",
-   "name": "【締切】あいち朝日遺跡ミュージアム 講演会（11/8・定員50人）",
-   "place": "清須市",
-   "station": "城北線 尾張星の宮 徒歩約9分／名鉄 新清洲 徒歩約22分",
-   "lines": [
-    "名鉄"
-   ],
-   "target": "参加無料",
-   "targets": [
-    "all"
-   ],
-   "apply": "要事前申込（Webフォームか窓口）・締切10/25・多ければ抽選で結果は10/30まで",
-   "source": "https://www.pref.aichi.jp/press-release/2026asahiisekikikakuten3.html",
-   "verified": "2026-10-16"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-28",
@@ -9124,7 +9433,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.aichi.jp/soshiki/maizobunkazai/akitoku26-1.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-31",
@@ -9187,7 +9496,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.nagoya.jp/higashi/miryoku/1019802/1019819/1054273.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-36",
@@ -9336,25 +9645,6 @@
    "verified": "2026-10-30"
   },
   {
-   "id": "nagoya-2026-10-07-45",
-   "city": "nagoya",
-   "kind": "date",
-   "start": "2026-11-14",
-   "end": "2026-11-14",
-   "area": "南東",
-   "name": "【締切10/15】愛知環状鉄道 車両基地見学会（北野桝塚）",
-   "place": "岡崎市",
-   "station": "愛知環状鉄道 北野桝塚",
-   "lines": [],
-   "target": "参加無料・小学3〜6年生と保護者・抽選で計120名",
-   "targets": [
-    "all"
-   ],
-   "apply": "要申込・9/18〜10/15（抽選・結果は10/22ごろメール）",
-   "source": "https://www.pref.aichi.jp/press-release/aikansharyokichi2026.html",
-   "verified": "2026-10-07"
-  },
-  {
    "id": "nagoya-2026-10-07-46",
    "city": "nagoya",
    "kind": "date",
@@ -9365,7 +9655,7 @@
    "place": "名古屋市西区",
    "station": "地下鉄 丸の内・国際センター",
    "lines": [],
-   "target": "入場料は主催者サイトで未確認（市の観光サイトは無料と掲載）",
+   "target": "料金記載なし（主催者サイト・市観光公式・県観光公式のどれにも入場料の記載なし）・11:00-18:00",
    "targets": [
     "all"
    ],
@@ -9518,7 +9808,7 @@
    ],
    "apply": "不要（定員なし）",
    "source": "https://www.town.aichi-higashiura.lg.jp/soshiki/shokonose/shokorosei/gyomu/wellness_valley_matching/1490228123783.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-58",
@@ -9579,7 +9869,7 @@
    ],
    "apply": "不要",
    "source": "https://asuke.info/event/nov/entry-3035.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-64",
@@ -9600,7 +9890,7 @@
    ],
    "apply": "不要",
    "source": "https://iwasebunko.jp/guide/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-65",
@@ -9664,7 +9954,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.ichinomiya.aichi.jp/katsuryokusouzou/hakubutsukan/1044204/1076679.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-68",
@@ -9727,7 +10017,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.inuyama.aichi.jp/kurashi/bunka/1001052/1003569/1003577.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-71",
@@ -10069,7 +10359,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.gifu.lg.jp/kankoubunka/kagakukan/1005487/1039983.html",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-88",
@@ -10088,28 +10378,7 @@
    ],
    "apply": "記載なし",
    "source": "https://gifu-civic.info/events/",
-   "verified": "2026-10-23"
-  },
-  {
-   "id": "nagoya-2026-10-07-89",
-   "city": "nagoya",
-   "kind": "date",
-   "start": "2026-11-10",
-   "end": "2026-12-25",
-   "area": "東",
-   "name": "名古屋大学博物館 スポット展示「希少植物カンアオイを描く ボタニカルアート展」",
-   "place": "名古屋市千種区",
-   "station": "地下鉄名城線 名古屋大学（2番出口すぐ）",
-   "lines": [
-    "地下鉄名城線"
-   ],
-   "target": "入場無料・10:00-16:00（入館15:30まで）・日月休館",
-   "targets": [
-    "all"
-   ],
-   "apply": "不要",
-   "source": "https://www.num.nagoya-u.ac.jp/exhibitions/spot/",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-90",
@@ -10128,7 +10397,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.seto-marutto.info/event-post/light_up_iwayadou2026/",
-   "verified": "2026-10-23"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-91",
@@ -10149,7 +10418,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/248/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-92",
@@ -10168,7 +10437,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/731/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-93",
@@ -10336,7 +10605,7 @@
    ],
    "apply": "不要",
    "source": "https://aichitriennale.jp/aichi-art/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-103",
@@ -10358,7 +10627,7 @@
    ],
    "apply": "展覧会は記載なし（茶会は11/1から電話で先着予約）",
    "source": "https://www.city.ichinomiya.aichi.jp/rekimin/1008901/1008903/1012467.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-104",
@@ -10380,7 +10649,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.ichinomiya.aichi.jp/rekimin/1010271/1074576/1074578.html",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-105",
@@ -10518,7 +10787,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/1443/",
-   "verified": "2026-10-30"
+   "verified": "2026-11-06"
   },
   {
    "id": "nagoya-2026-10-07-113",
@@ -10646,6 +10915,207 @@
    "apply": "不要",
    "source": "https://www.city.handa.lg.jp/bunka/bunkashisetsu/1002704/1002705.html",
    "verified": "2026-10-30"
+  },
+  {
+   "id": "nagoya-2026-10-07-120",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-23",
+   "end": "2026-12-27",
+   "area": "北",
+   "name": "岐阜県図書館 郷土作家展示「飛山濃水の文学 明治・大正・昭和の郷土作家11人」第22期（特集「岐阜県の桜と宇野千代」）",
+   "place": "岐阜市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "無料・1階企画展示室・平日9:00-20:00／土日祝9:00-18:00・月曜休館（11/23は開館し11/24休館）・毎月最終金曜休館（11/27休館）・12/28から3/1まで工事で臨時休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.pref.gifu.lg.jp/site/pressrelease/521549.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-121",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2026-11-29",
+   "area": "北",
+   "name": "GALLERY GIFU 企画展「ふるさと大野の宝物展」（岐阜県庁1階）",
+   "place": "岐阜市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "料金記載なし・平日7:30-17:45／土日祝10:00-20:00・休みは「閉庁日（11/21（土）を除く）」とだけ書かれていて意味がはっきりしない",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.pref.gifu.lg.jp/site/pressrelease/525263.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-122",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-29",
+   "end": "2026-11-29",
+   "area": "北",
+   "name": "MONBANフェス 2026（ぎふメディアコスモス カオカオ広場・かんがえるスタジオ・約80店のマルシェ）",
+   "place": "岐阜市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "入場無料（買い物と体験は別）・10:30-16:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://we-bright.com/monbanfes/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-123",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-12-06",
+   "area": "北",
+   "name": "大口町歴史民俗資料館 秋の企画展「音を楽しもう！〜楽しみ方・いろいろ〜」（ほほえみプラザ3階）",
+   "place": "丹羽郡大口町",
+   "station": "名鉄犬山線 柏森からコミュニティバス「健康文化センター」",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "入館料無料（町の資料館だより）・9:00-17:00・月曜と火曜は休館（祝日は開館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.town.oguchi.lg.jp/2682.htm",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-124",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-28",
+   "end": "2026-12-20",
+   "area": "西",
+   "name": "竹あかり「Tobishima Lights」（飛島村役場の南側通路・正面玄関・中央公民館ロビー）",
+   "place": "海部郡飛島村",
+   "station": "近鉄 蟹江から飛島公共交通バス「飛島村役場」",
+   "lines": [
+    "近鉄"
+   ],
+   "target": "料金記載なし（屋外の役場の通路）・点灯は17:00頃-21:00頃・公民館ロビーの展示は開館時だけ",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.tobishimamura.jp/topics/detail_289.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-125",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-31",
+   "end": "2026-12-06",
+   "area": "南",
+   "name": "知多市歴史民俗博物館 企画展「宮脇綾子展」",
+   "place": "知多市",
+   "station": "名鉄常滑線 朝倉 徒歩約10分",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "観覧無料・9:00-17:00（入館16:30まで）・月曜休館（祝日なら翌日休館＝11/24休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.chita.lg.jp/docs/2021102000017/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-126",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-24",
+   "end": "2026-11-27",
+   "area": "南",
+   "name": "ミツカンミュージアム（MIM）県民の日学校ホリデーの無料開放（11/24と11/27の2日だけ）",
+   "place": "半田市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "入館料無料の自由見学（一部エリアを除く）・10:00-17:00・ふだんは大人500円で予約優先",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（事前予約不要）",
+   "source": "https://aichiday1127.pref.aichi.jp/week-event/mim-%E7%9C%8C%E6%B0%91%E3%81%AE%E6%97%A5%E5%AD%A6%E6%A0%A1%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC-%E7%84%A1%E6%96%99%E9%96%8B%E6%94%BE/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-127",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南東",
+   "name": "西尾市岩瀬文庫",
+   "place": "西尾市",
+   "station": "名鉄西尾線 西尾 徒歩約20分（県の観光公式サイト）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "誰でもいつでも入館無料・9:00-17:00（閲覧室は16:00まで）・月曜休館（祝日は開館）・7月と8月を除く毎月第3木曜・年末年始・特別整理期間12/1〜12/8は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://iwasebunko.jp/guide/",
+   "verified": "2026-11-06"
+  },
+  {
+   "id": "nagoya-2026-10-07-128",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南東",
+   "name": "蒲郡市博物館",
+   "place": "蒲郡市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "誰でもいつでも入館無料・10:00-17:00（入館16:30まで）・月曜と第3火曜は休館（祝日は開館）・12/28〜1/4は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.gamagori.lg.jp/site/museum/annai.html",
+   "verified": "2026-11-06"
+  },
+  {
+   "id": "nagoya-2026-10-07-129",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "稲沢市荻須記念美術館（常設展）",
+   "place": "稲沢市",
+   "station": "名鉄 国府宮・JR 稲沢からバス",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "稲沢市内の小・中学生は常設展が無料・障害者手帳などを持つ人と付き添い1人も無料（一般310円・高大生210円・市外の小中学生50円）・9:30-17:00（入館16:30まで）・月曜（祝日なら翌日）と祝日の翌日・はだか祭の日・12/29〜1/3は休館",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.inazawa.aichi.jp/museum/0000000267.html",
+   "verified": "2026-11-06"
   }
  ]
 }
