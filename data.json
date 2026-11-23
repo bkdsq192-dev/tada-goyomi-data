@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16T11:52",
+ "version": "2026-11-23T11:53",
  "items": [
   {
    "id": "tokyo-2026-10-06-0",
@@ -72,7 +72,7 @@
    "start": "2026-10-16",
    "end": "2026-12-06",
    "area": "都心",
-   "name": "国立公文書館 吾妻鏡ほか（東京文化財ウィーク）",
+   "name": "国立公文書館 企画展「遊ぶ もののけ ―妖怪と幻獣の江戸時代―」（東京文化財ウィーク）",
    "place": "千代田区",
    "station": "竹橋（東西線）",
    "lines": [
@@ -84,7 +84,7 @@
    ],
    "apply": "不要",
    "source": "https://www.syougai.metro.tokyo.lg.jp/sesaku/week/tokubetsu.csv",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-4",
@@ -1215,7 +1215,7 @@
    ],
    "apply": "不要",
    "source": "https://www.tobikan.jp/exhibition/",
-   "verified": "2026-10-06"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-73",
@@ -1255,7 +1255,7 @@
    ],
    "apply": "学生証",
    "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026093012",
-   "verified": "2026-11-12"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-75",
@@ -1274,7 +1274,7 @@
    ],
    "apply": "学生証",
    "source": "https://www.metro.tokyo.lg.jp/information/press/2026/09/2026093012",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-76",
@@ -1491,7 +1491,7 @@
    ],
    "apply": "不要",
    "source": "https://www.taitogeibun.net/ichiyo/oshirase/news/2148/",
-   "verified": "2026-10-06"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-89",
@@ -1533,7 +1533,7 @@
    ],
    "apply": "不要",
    "source": "https://www.taromuseum.jp/exhibition.html",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-91",
@@ -1555,7 +1555,7 @@
    ],
    "apply": "不要",
    "source": "https://www.hama-midorinokyokai.or.jp/zoo/zoorasia/fee.php",
-   "verified": "2026-11-12"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-92",
@@ -1576,7 +1576,7 @@
    ],
    "apply": "不要",
    "source": "https://www.hama-midorinokyokai.or.jp/zoo/kanazawa/fee.php",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-93",
@@ -1658,7 +1658,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.kawasaki.jp/880/page/0000190258.html",
-   "verified": "2026-10-08"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-98",
@@ -2106,7 +2106,7 @@
    ],
    "apply": "不要",
    "source": "https://yokohama.art.museum/exhibition/202607_mohriyuko/",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-129",
@@ -3888,7 +3888,7 @@
    ],
    "apply": "入場は不要",
    "source": "https://www.komabasai.net/77/faq/",
-   "verified": "2026-10-29"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-220",
@@ -4083,7 +4083,7 @@
    ],
    "apply": "不要",
    "source": "https://www.neribun.or.jp/event/detail_m.cgi?id=202608151786784919",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-229",
@@ -4102,7 +4102,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.saitama.lg.jp/a0811/library-info/2026waza-1.html",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-230",
@@ -4140,7 +4140,7 @@
    ],
    "apply": "不要",
    "source": "https://rekihaku.yokohama-history.org/events/%e7%89%b9%e5%88%a5%e5%b1%95%e3%80%8c%e5%8d%97%e6%ad%a6%e8%94%b5%e3%81%ae%e5%b9%b3%e5%ae%89%e4%bb%8f%e3%80%8d/",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-232",
@@ -4161,7 +4161,7 @@
    ],
    "apply": "不要",
    "source": "https://kaikou.yokohama-history.org/visit/",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-233",
@@ -4182,7 +4182,7 @@
    ],
    "apply": "不要",
    "source": "https://tohatsu.yokohama-history.org/visit/info/",
-   "verified": "2026-11-05"
+   "verified": "2026-11-19"
   },
   {
    "id": "tokyo-2026-10-06-234",
@@ -4530,6 +4530,117 @@
    "verified": "2026-11-12"
   },
   {
+   "id": "tokyo-2026-10-06-252",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "area": "西",
+   "name": "東京富士美術館（土曜は小中学生無料）",
+   "place": "八王子市",
+   "station": "八王子（JR）・京王八王子からバス",
+   "lines": [
+    "京王",
+    "JR"
+   ],
+   "target": "小学生・中学生は入館無料（ふだん500円・月曜休館）",
+   "targets": [
+    "all",
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.fujibi.or.jp/visit/admission/",
+   "verified": "2026-11-19"
+  },
+  {
+   "id": "tokyo-2026-10-06-253",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-05",
+   "end": "2027-02-23",
+   "area": "西",
+   "name": "町田市立国際版画美術館「新収蔵作品展」（観覧無料の展覧会）",
+   "place": "町田市",
+   "station": "町田（小田急・JR横浜線）",
+   "lines": [
+    "小田急",
+    "JR"
+   ],
+   "target": "誰でも無料（月曜休館・12/28〜1/4休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://hanga-museum.jp/exhibition/schedule/2026-632",
+   "verified": "2026-11-19"
+  },
+  {
+   "id": "tokyo-2026-10-06-254",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2027-01-11",
+   "area": "北西",
+   "name": "板橋区立美術館「コッライーニの本づくり」展",
+   "place": "板橋区",
+   "station": "西高島平（都営三田線）・下赤塚（東武東上線）",
+   "lines": [
+    "三田線",
+    "都営",
+    "東武"
+   ],
+   "target": "高校生以下は無料（一般900円・月曜休館・11/24と12/29〜1/3休館）",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.itabashi.tokyo.jp/artmuseum/4000016/4002027/4002033.html",
+   "verified": "2026-11-19"
+  },
+  {
+   "id": "tokyo-2026-10-06-255",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-10-30",
+   "end": "2027-01-31",
+   "area": "北西",
+   "name": "ちひろ美術館・東京「ちひろ 旅のたのしみ」",
+   "place": "練馬区",
+   "station": "上井草（西武新宿線）徒歩7分",
+   "lines": [
+    "新宿線",
+    "西武"
+   ],
+   "target": "18歳以下は無料（大人1200円・月曜休館・12/28〜1/2休館）",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://chihiro.jp/tokyo/visit/",
+   "verified": "2026-11-19"
+  },
+  {
+   "id": "tokyo-2026-10-06-257",
+   "city": "tokyo",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-13",
+   "area": "南西・足をのばして",
+   "name": "千代ヶ崎砲台跡（国の史跡・土日祝だけ公開）",
+   "place": "横須賀市",
+   "station": "京急久里浜・浦賀からバス「燈明堂入口」徒歩約15分",
+   "lines": [
+    "京急"
+   ],
+   "target": "誰でも見学無料（9:30〜15:00・悪天候は臨時休場あり）",
+   "targets": [
+    "all"
+   ],
+   "apply": "予約不要（10名以上の団体は事前連絡）",
+   "source": "https://www.city.yokosuka.kanagawa.jp/8120/bunkazai/chiyogasaki-koukai.html",
+   "verified": "2026-11-19"
+  },
+  {
    "id": "kansai-2026-10-07-0",
    "city": "kansai",
    "kind": "date",
@@ -4674,7 +4785,7 @@
    ],
    "apply": "不要",
    "source": "https://www.osakacastle.net/guide/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-7",
@@ -4696,7 +4807,7 @@
    ],
    "apply": "不要",
    "source": "https://www.osaka-art-museum.jp/information",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-8",
@@ -4724,7 +4835,7 @@
    "city": "kansai",
    "kind": "date",
    "start": "2026-10-16",
-   "end": "2026-12-04",
+   "end": "2026-12-11",
    "area": "都心",
    "name": "大阪府庁本館 正庁の間 一般公開（毎週金曜）",
    "place": "大阪市中央区",
@@ -4738,7 +4849,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.osaka.lg.jp/o040080/otemaemachi/seicyou-koukai/index.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-10",
@@ -5350,7 +5461,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51250.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-40",
@@ -5371,7 +5482,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51250.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-42",
@@ -5474,7 +5585,7 @@
    ],
    "apply": "11/15の公開講座は当日先着126名",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21063/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-48",
@@ -6276,28 +6387,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.osaka.lg.jp/shimin/page/0000539442.html",
-   "verified": "2026-10-07"
-  },
-  {
-   "id": "kansai-2026-10-07-89",
-   "city": "kansai",
-   "kind": "date",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "area": "東",
-   "name": "鴻池新田会所（関西文化の日）",
-   "place": "東大阪市",
-   "station": "JR学研都市線 鴻池新田",
-   "lines": [
-    "JR"
-   ],
-   "target": "筑前琵琶・創作講談・シャンソンの催しが無料",
-   "targets": [
-    "all"
-   ],
-   "apply": "一覧に記載なし（不要かは未確認）",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20597/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-90",
@@ -6308,17 +6398,17 @@
    "area": "北",
    "name": "水道記念館 ウォーターフェスティバル（11月の回）",
    "place": "大阪市東淀川区",
-   "station": "阪急千里線 柴島（駅は推定）",
+   "station": "阪急千里線 柴島 約900m・御堂筋線 西中島南方 約750m",
    "lines": [
     "阪急"
    ],
-   "target": "無料・事前申込み制",
+   "target": "無料・事前申込み制（各回70人・入替制・10時/12時20分/14時30分の3回）",
    "targets": [
     "all"
    ],
-   "apply": "11/15締切",
+   "apply": "11/15締切済み・定員に満たなければ同じフォームで先着受付・当日空きがあれば予約なしでも可",
    "source": "https://www.city.osaka.lg.jp/hodoshiryo/suido/0000685533.html",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-92",
@@ -6572,7 +6662,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21038/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-105",
@@ -6593,7 +6683,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20902/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-106",
@@ -6614,7 +6704,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20579/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-107",
@@ -6655,7 +6745,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20591/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-109",
@@ -6674,7 +6764,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.sinnosan.jp/shinnousai/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-110",
@@ -6737,7 +6827,7 @@
    ],
    "apply": "記載なし",
    "source": "https://artarea-b1.jp/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-113",
@@ -6863,6 +6953,193 @@
    "verified": "2026-10-07"
   },
   {
+   "id": "kansai-2026-10-07-120",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-26",
+   "end": "2026-11-26",
+   "area": "都心",
+   "name": "大阪府庁本館 筑前琵琶演奏会（正庁の間・12時15分〜13時・開場11時30分）",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro 谷町四丁目・京阪 天満橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "入場無料・12時05分から正庁の間の見どころ紹介あり",
+   "targets": [
+    "all"
+   ],
+   "apply": "事前申込み不要（開場前に来ても席の確保はなし）",
+   "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070100/prs_51272.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-121",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "area": "都心",
+   "name": "大阪府庁本館 演劇「それぞれのいちばん長い日」（正庁の間・12時15分〜13時ごろ・ひょうたんから独楽劇場）",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro 谷町四丁目・京阪 天満橋",
+   "lines": [
+    "京阪"
+   ],
+   "target": "入場無料・先着80人",
+   "targets": [
+    "all"
+   ],
+   "apply": "府の電子申請（一人1回）・12/4（金）12時締切・定員に達したら締切",
+   "source": "https://www.pref.osaka.lg.jp/o070100/bunka/news/hyoutan.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-122",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-12-11",
+   "end": "2026-12-25",
+   "area": "都心",
+   "name": "Christmas Commons（中之島公園 バラ園〜芝生広場・17時〜22時）",
+   "place": "大阪市北区（中之島公園）",
+   "station": "京阪 なにわ橋・Osaka Metro 北浜（推定）",
+   "lines": [
+    "京阪"
+   ],
+   "target": "参加無料（飲食などは有料）",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.pref.osaka.lg.jp/hodo/fumin/o070080/prs_51258.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-123",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "area": "都心",
+   "name": "第72回 ワッハA講談会（大阪府立上方演芸資料館 ワッハ上方・14時〜15時）",
+   "place": "大阪市中央区（難波千日前 YES・NAMBAビル7階）",
+   "station": "Osaka Metro・南海 なんば（推定）",
+   "lines": [
+    "南海"
+   ],
+   "target": "入館無料・アマチュア講談師3人・定員30名先着",
+   "targets": [
+    "all"
+   ],
+   "apply": "電話・メール・府の行政オンラインで申込み・12/11（金）17時締切",
+   "source": "https://www.pref.osaka.lg.jp/moyo/o070100/000159.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-124",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "大阪市立長居植物園",
+   "place": "大阪市東住吉区",
+   "station": "Osaka Metro御堂筋線 長居",
+   "lines": [],
+   "target": "大阪市内在住の65歳以上は入園無料（敬老優待乗車証・介護予防ポイント手帳など住所と年齢の分かる証明・月曜休園で祝日なら翌平日・11〜2月は9時30分〜16時30分）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/fukushi/cmsfiles/contents/0000667/667169/keirouyuutaiseidojiltushiyoukou.pdf",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "kansai-2026-10-07-125",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "都心",
+   "name": "大阪歴史博物館 常設展",
+   "place": "大阪市中央区",
+   "station": "Osaka Metro 谷町四丁目",
+   "lines": [],
+   "target": "大阪市内在住の65歳以上は入館無料（住所と年齢の分かる証明・特別展は別の扱いの場合あり・火曜休館は推定）",
+   "targets": [
+    "all",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.osaka.lg.jp/fukushi/cmsfiles/contents/0000667/667169/keirouyuutaiseidojiltushiyoukou.pdf",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "kansai-2026-10-07-126",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "堺市立みはら歴史博物館",
+   "place": "堺市美原区",
+   "station": "南海高野線 北野田からバス 黒姫山古墳前",
+   "lines": [
+    "南海"
+   ],
+   "target": "堺市在住の65歳以上は観覧料無料（公的機関発行の住所と年齢の分かる書類）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/shakaisanka/yuutaishisetsu.html",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "kansai-2026-10-07-127",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "堺市大仙公園日本庭園",
+   "place": "堺市堺区",
+   "station": "JR阪和線 百舌鳥 徒歩約12分",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "堺市在住の65歳以上は入園料無料（健康保険証や運転免許証など住所・氏名・年齢の分かる物）",
+   "targets": [
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/shakaisanka/yuutaishisetsu.html",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "kansai-2026-10-07-128",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "堺 アルフォンス・ミュシャ館（堺市立文化館）",
+   "place": "堺市堺区",
+   "station": "JR阪和線 堺市",
+   "lines": [
+    "JR阪和線"
+   ],
+   "target": "堺市在住の65歳以上は入館無料（介護者も対象・公的機関発行の住所と年齢の分かる書類）",
+   "targets": [
+    "all",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.sakai.lg.jp/kenko/fukushikaigo/koreishafukushi/shakaisanka/yuutaishisetsu.html",
+   "verified": "2026-11-20"
+  },
+  {
    "id": "kansai-2026-10-07-0",
    "city": "kansai",
    "kind": "date",
@@ -6902,7 +7179,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nabunken.go.jp/news/docs/20260626press.pdf",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-2",
@@ -6924,7 +7201,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.momak.go.jp/Japanese/guide/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-3",
@@ -6949,7 +7226,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.city.kobe.lg.jp/a39067/kenko/fukushi/koreshafukushi/am02/yutai/a0132.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-4",
@@ -6972,7 +7249,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.himejicastle.jp/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-6",
@@ -8369,28 +8646,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20864/",
-   "verified": "2026-11-13"
-  },
-  {
-   "id": "kansai-2026-10-07-76",
-   "city": "kansai",
-   "kind": "date",
-   "start": "2026-11-23",
-   "end": "2026-11-23",
-   "area": "北",
-   "name": "鉄斎美術館（清荒神清澄寺）（関西文化の日）",
-   "place": "宝塚市",
-   "station": "阪急宝塚線 清荒神（推定）",
-   "lines": [
-    "阪急"
-   ],
-   "target": "誰でも・企画展",
-   "targets": [
-    "all"
-   ],
-   "apply": "記載なし",
-   "source": "https://www.the-kansai-guide.com/ja/directory/item/20876/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-77",
@@ -8411,7 +8667,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20667/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-78",
@@ -8430,7 +8686,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/21024/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-79",
@@ -8449,7 +8705,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20544/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-80",
@@ -8470,7 +8726,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20547/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-81",
@@ -8754,7 +9010,7 @@
    ],
    "apply": "不要",
    "source": "https://itami-im.jp/exhibitions/2026itamiinternationalcraft/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-97",
@@ -8796,7 +9052,7 @@
    ],
    "apply": "不要",
    "source": "https://www.ofusa.jp/highlights/rose",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-101",
@@ -8987,7 +9243,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20516/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-110",
@@ -9008,7 +9264,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20453/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-111",
@@ -9029,7 +9285,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20520/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-112",
@@ -9050,7 +9306,7 @@
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20716/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-113",
@@ -9065,13 +9321,13 @@
    "lines": [
     "近鉄"
    ],
-   "target": "企画展・ふだんも入館無料",
+   "target": "企画展・ふだんも入館無料。ふだん土曜・祝日は休館（一覧に特別展期間中は日曜開館とある）",
    "targets": [
     "all"
    ],
    "apply": "一覧に記載なし（不要かは未確認）",
    "source": "https://www.the-kansai-guide.com/ja/directory/item/20401/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-114",
@@ -9156,7 +9412,7 @@
    ],
    "apply": "不要（直接御影堂へ・帰敬式だけ申込み）",
    "source": "https://www.higashihonganji.or.jp/lp/houonkou/schedule/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-118",
@@ -9177,7 +9433,7 @@
    ],
    "apply": "不要",
    "source": "https://kitanotenmangu.or.jp/event/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-119",
@@ -9198,7 +9454,7 @@
    ],
    "apply": "記載なし",
    "source": "https://kitanotenmangu.or.jp/event/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-120",
@@ -9219,7 +9475,7 @@
    ],
    "apply": "事前申込みの記載なし（先着）",
    "source": "https://www.minakata.org/2026festival/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "kansai-2026-10-07-121",
@@ -9287,6 +9543,182 @@
    "verified": "2026-11-13"
   },
   {
+   "id": "kansai-2026-10-07-126",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-18",
+   "end": "2026-12-25",
+   "area": "北東",
+   "name": "京都駅ビル クリスマスツリー（1階 駅前広場・バスチケットセンター前）",
+   "place": "京都市下京区",
+   "station": "JR・近鉄・地下鉄 京都",
+   "lines": [
+    "近鉄",
+    "JR"
+   ],
+   "target": "誰でも見られる（料金記載なし）・15時〜23時点灯",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.kyoto-station-building.co.jp/news/%e4%ba%ac%e9%83%bd%e9%a7%85%e3%83%93%e3%83%ab%e3%81%ab%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%84%e3%83%aa%e3%83%bc%e3%81%a8%e3%82%b5%e3%83%b3%e3%82%bf%e3%82%af%e3%83%ad%e3%83%bc%e3%82%b9/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-127",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-12-13",
+   "end": "2026-12-13",
+   "area": "西",
+   "name": "兵庫県立美術館 コレクション展無料の日（第2日曜日・自由に話せる観覧日）「前衛って何だ！？」",
+   "place": "神戸市中央区",
+   "station": "阪神 岩屋 徒歩約8分",
+   "lines": [
+    "阪神"
+   ],
+   "target": "誰でも・コレクション展が無料（特別展は有料・高校生以下は特別展も無料）",
+   "targets": [
+    "all",
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.artm.pref.hyogo.jp/news/press/pdf/press_y260902-z.pdf",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-128",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-12-04",
+   "end": "2027-02-07",
+   "area": "西",
+   "name": "NEW SEAPORT ナイトライト2026-2027（新港町・波止場町の街路樹イルミ・12/27まで波止場町緑地にクリスマスオブジェ）",
+   "place": "神戸市中央区",
+   "station": "JR・阪神 元町 または 三ノ宮（推定）",
+   "lines": [
+    "阪神",
+    "JR"
+   ],
+   "target": "屋外の街路樹イルミ（料金記載なし）・17時〜23時",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（記載なし）",
+   "source": "https://www.city.kobe.lg.jp/a44800/556042439092.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-129",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2026-12-27",
+   "area": "南",
+   "name": "和歌山城 光と幻想の夜（二の丸庭園のナイトイベント）",
+   "place": "和歌山市",
+   "station": "JR和歌山・南海和歌山市からバス 和歌山城前",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "二の丸庭園（料金記載なし）・17時〜21時。天守閣は別料金（大人410円）",
+   "targets": [
+    "all"
+   ],
+   "apply": "予約不要",
+   "source": "https://www.city.wakayama.wakayama.jp/kankou/1010182/1065599.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-130",
+   "city": "kansai",
+   "kind": "date",
+   "start": "2026-11-21",
+   "end": "2027-02-28",
+   "area": "南",
+   "name": "けやきライトパレード（JR和歌山駅〜和歌山城〜南海和歌山市駅〜県庁前の街路樹約500本・約3.5km）",
+   "place": "和歌山市",
+   "station": "JR 和歌山・南海 和歌山市",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "屋外の街路樹イルミ（料金記載なし）・17時〜24時",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（記載なし）",
+   "source": "https://keyaki-light-parade.jp/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "kansai-2026-10-07-131",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北東",
+   "name": "京都国立博物館 名品ギャラリー（高校生以下・18歳未満・70歳以上は常に無料。12/1〜12/20は庭園のみ開館で名品ギャラリーは休み）",
+   "place": "京都市東山区",
+   "station": "京阪 七条（推定）",
+   "lines": [
+    "京阪"
+   ],
+   "target": "高校生以下・満18歳未満・満70歳以上は名品ギャラリー（平常展示）が無料・年齢の分かる物を見せる。月曜休館（祝日なら翌日）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.kyohaku.go.jp/jp/visit/info/",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "kansai-2026-10-07-132",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "西",
+   "name": "兵庫県立美術館 コレクション展（高校生以下は常に無料）",
+   "place": "神戸市中央区",
+   "station": "阪神 岩屋 徒歩約8分",
+   "lines": [
+    "阪神"
+   ],
+   "target": "高校生以下はコレクション展が無料（証明できる物を見せる）・県内在住の70歳以上は敬老の日に無料。月曜休館（祝日なら翌日）",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.artm.pref.hyogo.jp/news/press/pdf/press_y260701.pdf",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "kansai-2026-10-07-133",
+   "city": "kansai",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "南",
+   "name": "和歌山城 天守閣（土曜日は小・中学生が無料）",
+   "place": "和歌山市",
+   "station": "JR和歌山・南海和歌山市からバス 和歌山城前",
+   "lines": [
+    "南海",
+    "JR"
+   ],
+   "target": "土曜日は小人（小・中学生）の入場料が無料。大人410円・小人200円",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.wakayama.wakayama.jp/kankou/1010182/1065599.html",
+   "verified": "2026-11-20"
+  },
+  {
    "id": "nagoya-2026-10-07-0",
    "city": "nagoya",
    "kind": "date",
@@ -9348,7 +9780,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/1425/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-3",
@@ -9804,7 +10236,7 @@
    ],
    "apply": "不要",
    "source": "https://apmoa.museum/exhibition/mobilemuseum2026",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-28",
@@ -9848,7 +10280,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.aichi.jp/soshiki/maizobunkazai/akitoku26-1.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-31",
@@ -9911,7 +10343,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.nagoya.jp/higashi/miryoku/1019802/1019819/1054273.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-36",
@@ -10097,7 +10529,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.aichi.jp/press-release/2026asahiisekikikakuten3.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-48",
@@ -10118,7 +10550,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.aichi.jp/press-release/aichiday20261014.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-49",
@@ -10139,7 +10571,26 @@
    ],
    "apply": "不要（教室は先着）",
    "source": "https://www.pref.aichi.jp/press-release/aichiday20261014.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "nagoya-2026-10-07-50",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-26",
+   "end": "2026-11-29",
+   "area": "都心",
+   "name": "なごや建築まつり2026（市内約40の建物を公開）",
+   "place": "名古屋市内6エリア",
+   "station": "名古屋城・名古屋駅・栄・鶴舞・覚王山・本山の各エリア",
+   "lines": [],
+   "target": "参加無料（入場料が要る施設もある）",
+   "targets": [
+    "all"
+   ],
+   "apply": "建物と催しごとに違う（多くは事前予約・竹中工務店の特別公開は受付終了・主催者サイト）",
+   "source": "https://www.nagoya-info.jp/event/detail/1426/",
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-52",
@@ -10202,7 +10653,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nankichi.gr.jp/Sogoannai/oshirase.html",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-55",
@@ -10223,7 +10674,7 @@
    ],
    "apply": "不要（定員なし）",
    "source": "https://www.town.aichi-higashiura.lg.jp/soshiki/shokonose/shokorosei/gyomu/wellness_valley_matching/1490228123783.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-58",
@@ -10278,13 +10729,13 @@
    "lines": [
     "名鉄"
    ],
-   "target": "入場無料（駐車場と三州足助屋敷は有料）・ライトアップは日没から21:00",
+   "target": "入場無料（駐車場と三州足助屋敷は有料）・ライトアップは日没から21:00・香積寺の竹灯りと願掛けろうそくは11/23は実施なし",
    "targets": [
     "all"
    ],
    "apply": "不要",
    "source": "https://asuke.info/event/nov/entry-3035.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-64",
@@ -10305,7 +10756,7 @@
    ],
    "apply": "不要",
    "source": "https://iwasebunko.jp/guide/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-65",
@@ -10369,7 +10820,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.ichinomiya.aichi.jp/katsuryokusouzou/hakubutsukan/1044204/1076679.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-68",
@@ -10432,7 +10883,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.inuyama.aichi.jp/kurashi/bunka/1001052/1003569/1003577.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-71",
@@ -10681,14 +11132,14 @@
     "名鉄",
     "JR"
    ],
-   "target": "岐阜市内在住の70歳以上（証明が要る）・岐阜市内の小中学生・障害者手帳などを持つ人と介護者1人は無料（企画展と特別展は除く）・総合展示室の改装で11/2まで休館",
+   "target": "岐阜市内在住の70歳以上（証明が要る）・岐阜市内の小中学生・障害者手帳などを持つ人と介護者1人は無料（企画展と特別展は除く）",
    "targets": [
     "child",
     "senior"
    ],
    "apply": "不要",
    "source": "https://www.rekihaku.gifu.gifu.jp/guide/",
-   "verified": "2026-10-16"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-83",
@@ -10833,7 +11284,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/731/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-93",
@@ -10852,7 +11303,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.aichi.jp/press-release/aichiday20261014.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-94",
@@ -10873,7 +11324,7 @@
    ],
    "apply": "不要",
    "source": "https://www.pref.aichi.jp/press-release/aichiday20261014.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-97",
@@ -11001,7 +11452,7 @@
    ],
    "apply": "不要",
    "source": "https://aichitriennale.jp/aichi-art/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-103",
@@ -11023,7 +11474,7 @@
    ],
    "apply": "展覧会は記載なし（茶会は11/1から電話で先着予約）",
    "source": "https://www.city.ichinomiya.aichi.jp/rekimin/1008901/1008903/1012467.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-106",
@@ -11063,7 +11514,7 @@
    ],
    "apply": "記載なし",
    "source": "https://aichiday1127.pref.aichi.jp/week-event/%e3%83%88%e3%83%ac%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0%e6%96%bd%e8%a8%ad%e3%80%81-%e9%81%8a%e6%88%af%e7%94%a8%e8%87%aa%e8%bb%a2%e8%bb%8a-%e4%bd%bf%e7%94%a8%e6%96%99%e7%84%a1%e6%96%99/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-108",
@@ -11082,7 +11533,7 @@
    ],
    "apply": "不要（先着順）",
    "source": "https://aichiday1127.pref.aichi.jp/week-event/%e5%b0%8f%e7%89%a7%e5%b8%82%e3%83%97%e3%83%a9%e3%82%b6%e3%83%8f%e3%82%a6%e3%82%b9%e3%80%80%e3%81%a8%e3%82%93%e3%81%bc%e7%8e%89%e3%82%b9%e3%83%88%e3%83%a9%e3%83%83%e3%83%97%e4%bd%9c%e3%82%8a%e4%bd%93/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-109",
@@ -11139,7 +11590,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/1443/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-113",
@@ -11160,7 +11611,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/1270/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-114",
@@ -11182,7 +11633,7 @@
    ],
    "apply": "不要",
    "source": "https://www.nagoya-info.jp/event/detail/79/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-115",
@@ -11285,7 +11736,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.pref.gifu.lg.jp/site/pressrelease/521549.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-121",
@@ -11304,7 +11755,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.pref.gifu.lg.jp/site/pressrelease/525263.html",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-122",
@@ -11323,7 +11774,7 @@
    ],
    "apply": "記載なし",
    "source": "https://we-bright.com/monbanfes/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-125",
@@ -11344,7 +11795,7 @@
    ],
    "apply": "不要",
    "source": "https://www.city.chita.lg.jp/docs/2021102000017/",
-   "verified": "2026-11-13"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-126",
@@ -11363,7 +11814,7 @@
    ],
    "apply": "不要（事前予約不要）",
    "source": "https://aichiday1127.pref.aichi.jp/week-event/mim-%E7%9C%8C%E6%B0%91%E3%81%AE%E6%97%A5%E5%AD%A6%E6%A0%A1%E3%83%9B%E3%83%AA%E3%83%87%E3%83%BC-%E7%84%A1%E6%96%99%E9%96%8B%E6%94%BE/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-127",
@@ -11446,7 +11897,7 @@
    ],
    "apply": "不要（記載なし）",
    "source": "https://www.kisosansenkoen.jp/~tower138/m138event_christmas.html",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-132",
@@ -11468,7 +11919,7 @@
    ],
    "apply": "記載なし",
    "source": "https://aichinow.pref.aichi.jp/spots/detail/3749/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-135",
@@ -11489,7 +11940,7 @@
    ],
    "apply": "記載なし",
    "source": "https://www.nagoya-info.jp/event/detail/1441/",
-   "verified": "2026-10-07"
+   "verified": "2026-11-20"
   },
   {
    "id": "nagoya-2026-10-07-136",
@@ -11530,27 +11981,6 @@
     "all"
    ],
    "apply": "受付11/1〜11/18（電子申請・往復はがきは11/18消印有効）",
-   "source": "https://www.city.nagoya.jp/kankou/bunka/1017172/1052659.html",
-   "verified": "2026-10-07"
-  },
-  {
-   "id": "nagoya-2026-10-07-138",
-   "city": "nagoya",
-   "kind": "date",
-   "start": "2026-12-12",
-   "end": "2026-12-12",
-   "area": "都心",
-   "name": "冬の市役所本庁舎ガイドツアー（9時30分・11時・13時15分の3回・各45人）",
-   "place": "名古屋市中区",
-   "station": "地下鉄名城線 名古屋城（推定）",
-   "lines": [
-    "地下鉄名城線"
-   ],
-   "target": "参加無料・事前申込みで当選した人だけ・階段あり・暖房なし",
-   "targets": [
-    "all"
-   ],
-   "apply": "要事前申込み（11/18締切）",
    "source": "https://www.city.nagoya.jp/kankou/bunka/1017172/1052659.html",
    "verified": "2026-10-07"
   },
@@ -11618,6 +12048,382 @@
    "apply": "不要",
    "source": "https://www.city.yatomi.lg.jp/kurashi/1000296/1000301/1000303.html",
    "verified": "2026-11-13"
+  },
+  {
+   "id": "nagoya-2026-10-07-142",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-13",
+   "end": "2027-02-28",
+   "area": "北",
+   "name": "駅とまちを光でつなぐ杜のイルミネーション（岐阜駅前広場・玉宮通り・金公園など）",
+   "place": "岐阜市",
+   "station": "JR岐阜・名鉄岐阜 駅前（推定）",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "料金記載なし（駅前広場と通りの屋外）・日没〜22:00・信長公像前の岐阜和傘と岐阜提灯のライトアップは期間限定",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.gifucvb.or.jp/event/detail_winter.php?eid=00100&calendar_keisai=1",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-143",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-01",
+   "end": "2027-02-14",
+   "area": "北",
+   "name": "一宮イルミネーション2026（尾張一宮駅・名鉄一宮駅の周辺）",
+   "place": "一宮市",
+   "station": "JR尾張一宮・名鉄一宮",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "無料・17:00〜23:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://aichinow.pref.aichi.jp/events/detail/1834/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-144",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-05",
+   "end": "2026-12-20",
+   "area": "北",
+   "name": "一宮市博物館 企画展「いちのみやアートアニュアル2026」",
+   "place": "一宮市",
+   "station": "名鉄 妙興寺（南口 徒歩7分）",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "中学生以下・一宮市内在住の65歳以上（証明書）・障害者手帳などを持つ人と付添1人が無料（一般300円・常設展を含む）・月曜休館",
+   "targets": [
+    "child",
+    "senior"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.ichinomiya.aichi.jp/katsuryokusouzou/hakubutsukan/1044204/1076706.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-145",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2027-01-17",
+   "area": "北",
+   "name": "岐阜県博物館 マイミュージアムギャラリー「剥製水族館 －魚の魅力 大発見－」",
+   "place": "関市（岐阜県博物館 マイ・ミュージアム棟2階）",
+   "station": "記載なし",
+   "lines": [],
+   "target": "展示は無料（本館に入るときは入館料・一般370円・高校生以下無料）・9:30〜16:30（入館16:00まで）・月曜休館（1/11は開館）・12/29〜1/3休館",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要（記載なし）",
+   "source": "https://www.pref.gifu.lg.jp/site/pressrelease/525662.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-146",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "area": "北",
+   "name": "岐阜市歴史博物館 町探検「文学碑をめぐる」（9:00〜正午・先着30名）",
+   "place": "岐阜市（集合は岐阜市歴史博物館）",
+   "station": "JR岐阜・名鉄岐阜から岐阜バス「岐阜公園・岐阜城」徒歩3〜5分（既存の行の博物館と同じ）",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "受講料無料・先着30名",
+   "targets": [
+    "all"
+   ],
+   "apply": "要申込み（申込フォームか電話・9/7から受付・締切12/11 17:00・定員になり次第締切）",
+   "source": "https://www.rekihaku.gifu.gifu.jp/lecture-list/%E7%94%BA%E6%8E%A2%E6%A4%9C%E3%80%8C%E6%96%87%E5%AD%A6%E7%A2%91%E3%82%92%E3%82%81%E3%81%90%E3%82%8B%E3%80%8D/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-147",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "area": "都心",
+   "name": "ワールド・コラボ・フェスタ2026（名古屋国際センタービル 本館3・4階と別棟ホール）",
+   "place": "名古屋市中村区",
+   "station": "地下鉄桜通線 国際センター すぐ・名古屋 徒歩約7分",
+   "lines": [
+    "地下鉄桜通線"
+   ],
+   "target": "入場無料・10:00〜17:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://aichinow.pref.aichi.jp/events/detail/2396/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-148",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-12",
+   "end": "2027-02-28",
+   "area": "都心",
+   "name": "アスナル金山 ウィンターイルミネーション",
+   "place": "名古屋市中区",
+   "station": "JR・名鉄・地下鉄 金山 北口すぐ",
+   "lines": [
+    "名鉄",
+    "JR"
+   ],
+   "target": "無料・17:00〜23:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-info.jp/event/detail/926/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-149",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-07",
+   "end": "2026-12-25",
+   "area": "西",
+   "name": "ノリタケの森 Christmas Memories（赤レンガ棟北側ひろば・約3万球）",
+   "place": "名古屋市西区",
+   "station": "地下鉄東山線 亀島 2番出口 徒歩5分",
+   "lines": [
+    "地下鉄東山線"
+   ],
+   "target": "入場無料（一部有料施設あり）・9:00〜21:00・点灯16:30〜21:00",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-info.jp/event/detail/1116/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-150",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-04",
+   "end": "2026-12-25",
+   "area": "南",
+   "name": "NAGOYA PORT WINTER ILLUMINATION（名古屋港 JETTY広場・名古屋港水族館の正面入口階段）",
+   "place": "名古屋市港区",
+   "station": "地下鉄名港線 名古屋港 すぐ",
+   "lines": [],
+   "target": "無料・点灯16:30〜21:00・12/4 18:00から点灯式",
+   "targets": [
+    "all"
+   ],
+   "apply": "記載なし",
+   "source": "https://www.nagoya-info.jp/event/detail/70/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-151",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-10-24",
+   "end": "2026-12-20",
+   "area": "南",
+   "name": "東浦町郷土資料館（うのはな館）冬の企画展「乾坤院」（後期は11/21〜12/20）",
+   "place": "知多郡東浦町",
+   "station": "JR武豊線 石浜 徒歩約10分・緒川 徒歩約15分",
+   "lines": [
+    "JR"
+   ],
+   "target": "入館料無料・9:00〜17:00・月曜休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要（記載なし）",
+   "source": "https://www.town.aichi-higashiura.lg.jp/soshiki/kankokoryu/kyodokanko/ibento/16407.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-152",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-12",
+   "end": "2026-12-12",
+   "area": "南東",
+   "name": "愛環ぶらっとウォーキング 第2回「徳川の足跡と愛環車両基地をめぐる」（約6km・大樹寺と北野桝塚の車両基地）",
+   "place": "岡崎市",
+   "station": "愛知環状鉄道 大門（スタート）〜北野桝塚（ゴール）",
+   "lines": [],
+   "target": "参加費無料（交通費と有料施設は自己負担）・スタート受付9:30〜11:30・ゴール受付10:30〜14:30・完歩者に先着1000名でピンバッジ",
+   "targets": [
+    "all"
+   ],
+   "apply": "予約不要（当日集合・雨天決行で悪天候なら中止・中止は当日7:30〜11:30に事務局へ電話で確認）",
+   "source": "https://aichinow.pref.aichi.jp/events/detail/3363/",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-153",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-11-24",
+   "end": "2026-11-24",
+   "area": "都心",
+   "name": "【締切】市政資料館 建物ガイドツアー「小さな時間旅行 ようこそ建物百年の旅へ」（12/25・午前と午後の2回・各40名程度）",
+   "place": "名古屋市東区",
+   "station": "地下鉄名城線 名古屋城（2番出口 徒歩8分）・名鉄瀬戸線 東大手 徒歩5分",
+   "lines": [
+    "地下鉄名城線",
+    "名鉄"
+   ],
+   "target": "参加無料・多数なら抽選（当落は12/11ごろまでに通知）",
+   "targets": [
+    "all"
+   ],
+   "apply": "受付11/11〜11/24（電子申請・往復はがきは当日消印有効・1通2名まで）",
+   "source": "https://www.city.nagoya.jp/kankou/rekishi/1004614/1004627/1052565.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-154",
+   "city": "nagoya",
+   "kind": "date",
+   "start": "2026-12-25",
+   "end": "2026-12-25",
+   "area": "都心",
+   "name": "市政資料館 建物ガイドツアー「小さな時間旅行 ようこそ建物百年の旅へ」（10:00〜11:30と13:30〜15:00・各40名程度）",
+   "place": "名古屋市東区",
+   "station": "地下鉄名城線 名古屋城（2番出口 徒歩8分）・名鉄瀬戸線 東大手 徒歩5分",
+   "lines": [
+    "地下鉄名城線",
+    "名鉄"
+   ],
+   "target": "参加無料・事前申込みで当選した人だけ",
+   "targets": [
+    "all"
+   ],
+   "apply": "要事前申込み（11/24締切）",
+   "source": "https://www.city.nagoya.jp/kankou/rekishi/1004614/1004627/1052565.html",
+   "verified": "2026-10-07"
+  },
+  {
+   "id": "nagoya-2026-10-07-155",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "あいち朝日遺跡ミュージアム",
+   "place": "清須市",
+   "station": "城北線 尾張星の宮／名鉄 新清洲",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "中学生以下・高校以下の学校行事と引率者・障害者と付添1人は常設展と企画展が無料（一般300円・高大生200円）・9:30〜17:00・月曜（祝日なら翌平日）休館",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.pref.aichi.jp/press-release/2026asahiisekikikakuten3.html",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "nagoya-2026-10-07-156",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "青塚古墳ガイダンス施設（青塚古墳史跡公園）",
+   "place": "犬山市",
+   "station": "名鉄 楽田 徒歩約30分",
+   "lines": [
+    "名鉄"
+   ],
+   "target": "誰でもいつでも入館無料・9:00〜17:00・月曜（祝日なら翌平日）と12/28〜1/4は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.inuyama.aichi.jp/shisetsu/koukyoshisetsu/1001550/1001564.html",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "nagoya-2026-10-07-157",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "北名古屋市歴史民俗資料館（昭和日常博物館）",
+   "place": "北名古屋市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "18歳以下は無料・障害者手帳などを持つ人と付添1人も無料（一般300円）・2階ロビー展示と地下の車両展示は誰でも無料・9:00〜17:00（入館16:40まで）・月曜（祝日なら開館）と毎月末日と12/28〜1/4は休館",
+   "targets": [
+    "all"
+   ],
+   "apply": "不要",
+   "source": "https://www.city.kitanagoya.lg.jp/rekimin/guide/1006920.html",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "nagoya-2026-10-07-158",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "北",
+   "name": "岐阜県博物館（本館）",
+   "place": "関市",
+   "station": "記載なし",
+   "lines": [],
+   "target": "高校生以下は無料・障害者手帳などを持つ人と介護者1人も無料（一般370円・特別展中は800円）・マイ・ミュージアム棟は入館無料・9:30〜16:30（11〜3月・入館16:00まで）・月曜（祝休日なら翌平日）と12/29〜1/3は休館",
+   "targets": [
+    "all",
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://www.gifu-kenpaku.jp/guide-3-2/",
+   "verified": "2026-11-20"
+  },
+  {
+   "id": "nagoya-2026-10-07-159",
+   "city": "nagoya",
+   "kind": "always",
+   "start": null,
+   "end": null,
+   "area": "東",
+   "name": "愛知県陶磁美術館（愛陶コレクション展・テーマ展）",
+   "place": "瀬戸市",
+   "station": "リニモ 陶磁資料館南（推定）",
+   "lines": [
+    "リニモ"
+   ],
+   "target": "高校生以下は無料・障害者などは常設展が無料（一般400円・大学生300円・企画展と特別展は別料金）・9:30〜16:30（入館16:00まで）・月曜（祝日なら直後の平日）と年末年始は休館",
+   "targets": [
+    "child"
+   ],
+   "apply": "不要",
+   "source": "https://aitou.museum/user-guidance/index.php",
+   "verified": "2026-11-20"
   }
  ]
 }
